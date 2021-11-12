@@ -1,0 +1,3010 @@
+Scope	112dB	vst.Casc.Cascade
+Scope	2C-Audio	vst.2CB2.2C-B2
+Scope	2C-Audio	vst.2cBz.2C-Breeze
+Scope	2nd Sense	vst.Veqz.2SEQ x64
+Scope	2nd Sense	vst.Vmts.2SMixingAnalyzer x64
+Scope	2nd Sense	vst.Vrvb.2SAlgoReverb x64
+Scope	2nd Sense	vst.Vsss.2SVocalRemover x64
+Scope	2nd Sense	vst.Vtbf.2SEngineeringFilter x64
+Scope	2nd Sense	vst.Wtws.Wiggle
+Scope	4Front Technologies	vst.4FC2.4Front Rhode x64
+Scope	<unknown>	vst.EfFC.Effector x64
+Scope	<VST_MAP>	vst.2901
+Scope	<VST_MAP>	vst.2dpX
+Scope	<VST_MAP>	vst.3E80
+Scope	<VST_MAP>	vst.Aalt
+Scope	<VST_MAP>	vst.ADax
+Scope	<VST_MAP>	vst.ADph
+Scope	<VST_MAP>	vst.ADto
+Scope	<VST_MAP>	vst.apx3
+Scope	<VST_MAP>	vst.ARP2
+Scope	<VST_MAP>	vst.ARP3
+Scope	<VST_MAP>	vst.bAs1
+Scope	<VST_MAP>	vst.Blu2
+Scope	<VST_MAP>	vst.CaAl
+Scope	<VST_MAP>	vst.Clm5
+Scope	<VST_MAP>	vst.Clm8
+Scope	<VST_MAP>	vst.Cs82
+Scope	<VST_MAP>	vst.D4M2
+Scope	<VST_MAP>	vst.DGGR
+Scope	<VST_MAP>	vst.DiVa
+Scope	<VST_MAP>	vst.DUE2.DUNE2
+Scope	<VST_MAP>	vst.DvSn
+Scope	<VST_MAP>	vst.EKSP
+Scope	<VST_MAP>	vst.EqmB
+Scope	<VST_MAP>	vst.FF01
+Scope	<VST_MAP>	vst.FT2i
+Scope	<VST_MAP>	vst.hIVE
+Scope	<VST_MAP>	vst.Imp2
+Scope	<VST_MAP>	vst.Ju82
+Scope	<VST_MAP>	vst.JUP3
+Scope	<VST_MAP>	vst.kaiv
+Scope	<VST_MAP>	vst.kHs1
+Scope	<VST_MAP>	vst.KLM1.M1
+Scope	<VST_MAP>	vst.KLMP
+Scope	<VST_MAP>	vst.KLMV
+Scope	<VST_MAP>	vst.KLPV
+Scope	<VST_MAP>	vst.LLZ4
+Scope	<VST_MAP>	vst.LVVQ
+Scope	<VST_MAP>	vst.M2O
+Scope	<VST_MAP>	vst.Matr
+Scope	<VST_MAP>	vst.MIN3
+Scope	<VST_MAP>	vst.mini
+Scope	<VST_MAP>	vst.MOD3
+Scope	<VST_MAP>	vst.MTur
+Scope	<VST_MAP>	vst.NBa4
+Scope	<VST_MAP>	vst.ncut
+Scope	<VST_MAP>	vst.Nif8
+Scope	<VST_MAP>	vst.NiMa
+Scope	<VST_MAP>	vst.NiMS
+Scope	<VST_MAP>	vst.NiO5
+Scope	<VST_MAP>	vst.NiO6
+Scope	<VST_MAP>	vst.NiO7
+Scope	<VST_MAP>	vst.NiR5
+Scope	<VST_MAP>	vst.NiR6
+Scope	<VST_MAP>	vst.NR5h
+Scope	<VST_MAP>	vst.NR5i
+Scope	<VST_MAP>	vst.NR6h
+Scope	<VST_MAP>	vst.NR6i
+Scope	<VST_MAP>	vst.NuMm
+Scope	<VST_MAP>	vst.NuMT
+Scope	<VST_MAP>	vst.Nvb2
+Scope	<VST_MAP>	vst.NvB2.BassStation
+Scope	<VST_MAP>	vst.OBS2
+Scope	<VST_MAP>	vst.Obxd
+Scope	<VST_MAP>	vst.OMii
+Scope	<VST_MAP>	vst.Omnisphere
+Scope	<VST_MAP>	vst.OOdd
+Scope	<VST_MAP>	vst.P5V2
+Scope	<VST_MAP>	vst.PBss
+Scope	<VST_MAP>	vst.Pred
+Scope	<VST_MAP>	vst.PRO3
+Scope	<VST_MAP>	vst.ReDo
+Scope	<VST_MAP>	vst.RETR
+Scope	<VST_MAP>	vst.S1Vs
+Scope	<VST_MAP>	vst.SawW
+Scope	<VST_MAP>	vst.SEM V2
+Scope	<VST_MAP>	vst.SGA4
+Scope	<VST_MAP>	vst.Sm2i
+Scope	<VST_MAP>	vst.SMD2
+Scope	<VST_MAP>	vst.SMD3
+Scope	<VST_MAP>	vst.SNRZ
+Scope	<VST_MAP>	vst.Spr2.Spire-1_1
+Scope	<VST_MAP>	vst.SSTA
+Scope	<VST_MAP>	vst.St30
+Scope	<VST_MAP>	vst.syl1
+Scope	<VST_MAP>	vst.T2Dl
+Scope	<VST_MAP>	vst.T2NS
+Scope	<VST_MAP>	vst.TBBV
+Scope	<VST_MAP>	vst.tYn6
+Scope	<VST_MAP>	vst.UpH4
+Scope	<VST_MAP>	vst.uR_1
+Scope	<VST_MAP>	vst.VB33
+Scope	<VST_MAP>	vst.vcz1
+Scope	<VST_MAP>	vst.VxS2
+Scope	<VST_MAP>	vst.Xac0
+Scope	<VST_MAP>	vst.XfsX
+Scope	A.O.M.	vst.143h.Stereo_Imager_D x64
+Scope	A.O.M.	vst.36nd.Cyclic_Panner x64
+Scope	A.O.M.	vst.58bn.Invisible_Limiter x64
+Scope	A.O.M.	vst.eb41.Wave_Shredder x64
+Scope	A.O.M.	vst.gra5.Invisible_Limiter_G2 x64
+Scope	A.O.M.	vst.r2yz.tranQuilizr x64
+Scope	A1AUDIO.de	vst.A1Sc.A1StereoControl-x64
+Scope	A1AUDIO.de	vst.A1Tg.A1TriggerGate-x64
+Scope	Accusonus	vst.Acdp.Drumatom
+Scope	accusonus	vst.ARgp.RegrooverPro
+Scope	accusonus	vst.Eran.ERA-N
+Scope	accusonus	vst.Erar.ERA-R
+Scope	aciddose	vst.%03a%81%3A.xhip_compressor_64bit
+Scope	aciddose	vst.%10%FBG%0F.xhip_limiter_64bit
+Scope	aciddose	vst.%18%F9%16%B0.xhip_multiplier_64bit
+Scope	aciddose	vst.%90%D4t%B5.xhip_rectifier_64bit
+Scope	aciddose	vst.%94%D3%C8j.xhip_phaser_64bit
+Scope	aciddose	vst.%9B%CDa%E3.xhip_ringmod_64bit
+Scope	aciddose	vst.%C8%05%99%DE.xhip_clipper_64bit
+Scope	aciddose	vst.%DE%03Q%CA.xhip_mdelay_64bit
+Scope	aciddose	vst.%F0%7E%29%B1.xhip_tremolo_64bit
+Scope	aciddose	vst.%FAe%D8%0B.xhip_quantizer_64bit
+Scope	aciddose	vst.EJ%A3%CF.xhip_gate_64bit
+Scope	aciddose	vst.L%DC%8A%0E.xhip_reverb_64bit
+Scope	aciddose	vst.m%D1%D75.xhip_follower_64bit
+Scope	Acon Digital	vst.ACDC.DeClick
+Scope	Acon Digital	vst.ACDH.DeHum
+Scope	Acon Digital	vst.ACDL.DeClip
+Scope	Acon Digital	vst.ACDN.DeNoise
+Scope	Acon Digital	vst.ACDV.DeVerberate
+Scope	Acon Digital	vst.ACEQ.Equalize
+Scope	Acon Digital	vst.ACVR.Verberate
+Scope	Acon Digital	vst.ACVS.VerberateSurround
+Scope	Acon Digital	vst.DFIL.DeFilter
+Scope	Acon Digital	vst.MULT.Multiply
+Scope	AdamSzabo	vst.zJAu.Phazor(x64)
+Scope	AdmiralQuality.com	vst.AQI1.SCAMP(x64)
+Scope	AdmiralQuality.com	vst.AQI2.LilPoly-Ana_x64
+Scope	AdmiralQuality.com	vst.AQI3.Poly-AnaFX_x64
+Scope	Aegean Music	vst.pspv.Spirit Reverb x64
+Scope	Aegean Music	vst.ptow.pitchometry-x64
+Scope	Aftermath Audio	com.aftermathaudio.CV8X4CVGenerator
+Scope	AIR Music Technology	vst.33BD.DB-33
+Scope	AIR Music Technology	vst.cpSA.AIRSpectral_x64
+Scope	AIR Music Technology	vst.DbTA.AIRTubeDrive_x64
+Scope	AIR Music Technology	vst.DfDA.AIRDiffuserDelay_x64
+Scope	AIR Music Technology	vst.drbH.Hybrid
+Scope	AIR Music Technology	vst.dWSA.AIRStereoWidth_x64
+Scope	AIR Music Technology	vst.foLA.AIRLo-Fi_x64
+Scope	AIR Music Technology	vst.glFA.AIRFlanger_x64
+Scope	AIR Music Technology	vst.hCMA.AIRMulti-Chorus_x64
+Scope	AIR Music Technology	vst.hnEA.AIREnhancer_x64
+Scope	AIR Music Technology	vst.hSFA.AIRFrequencyShifter_x64
+Scope	AIR Music Technology	vst.hWFA.AIRFuzz-Wah_x64
+Scope	AIR Music Technology	vst.lDMA.AIRMulti-Delay_x64
+Scope	AIR Music Technology	vst.lFSA.AIRSaturationFilter_x64
+Scope	AIR Music Technology	vst.lFVA.AIRVintageFilter_x64
+Scope	AIR Music Technology	vst.liKA.AIRKillEQ_x64
+Scope	AIR Music Technology	vst.mooL.Loom
+Scope	AIR Music Technology	vst.nyDA.AIRDynamicDelay_x64
+Scope	AIR Music Technology	vst.pmCA.AIRCompressor_x64
+Scope	AIR Music Technology	vst.pmPA.AIRPumper_x64
+Scope	AIR Music Technology	vst.QEPA.AIRParametricEQ_x64
+Scope	AIR Music Technology	vst.rfrT.Transfuser
+Scope	AIR Music Technology	vst.rGnM.MiniGrand
+Scope	AIR Music Technology	vst.rhCA.AIRChorus_x64
+Scope	AIR Music Technology	vst.RLNA.AIRNon-LinearReverb_x64
+Scope	AIR Music Technology	vst.rPcV.VacuumPro
+Scope	AIR Music Technology	vst.rsRt.theRiser_x64
+Scope	AIR Music Technology	vst.rvRA.AIRReverb_x64
+Scope	AIR Music Technology	vst.shPA.AIRPhaser_x64
+Scope	AIR Music Technology	vst.snEA.AIREnsemble_x64
+Scope	AIR Music Technology	vst.tGFA.AIRFilterGate_x64
+Scope	AIR Music Technology	vst.tsDA.AIRDistortion_x64
+Scope	AIR Music Technology	vst.tvlV.Velvet
+Scope	AIR Music Technology	vst.vRSA.AIRSpringReverb_x64
+Scope	AIR Music Technology	vst.xaMA.AIRMaximizer_x64
+Scope	AIR Music Technology	vst.xBTA.AIRTalkbox_x64
+Scope	AIR Music Technology	vst.XF3D.DB-33FX_x64
+Scope	AirRaid Audio	ch.airraid.Distillery
+Scope	AirRaid Audio	ch.airraid.EAFilter
+Scope	AirRaid Audio	ch.airraid.EChorus
+Scope	AirRaid Audio	ch.airraid.EDelay
+Scope	AirRaid Audio	ch.airraid.EDistort
+Scope	AirRaid Audio	ch.airraid.EFilter
+Scope	AirRaid Audio	ch.airraid.EGDelay
+Scope	AirRaid Audio	ch.airraid.ELoFi
+Scope	AirRaid Audio	ch.airraid.ELoFi2
+Scope	AirRaid Audio	ch.airraid.EPhaser
+Scope	AirRaid Audio	ch.airraid.ESplitter
+Scope	AirRaid Audio	ch.airraid.EStereoLFO
+Scope	AirRaid Audio	ch.airraid.ETDelay
+Scope	AirRaid Audio	ch.airraid.Mutagen
+Scope	AirRaid Audio	ch.airraid.Pandemic
+Scope	AirRaid Audio	ch.airraid.Relapse
+Scope	AirRaid Audio	ch.airraid.Spectre
+Scope	airwindows	vst.aiyr.Air64
+Scope	airwindows	vst.aver.Average64
+Scope	airwindows	vst.bite.Bite64
+Scope	airwindows	vst.bltp.BuildATPDF64
+Scope	airwindows	vst.btsh.BitShiftGain64
+Scope	airwindows	vst.capa.Capacitor64
+Scope	airwindows	vst.conh.Console4Channel64
+Scope	airwindows	vst.coni.Console4Buss64
+Scope	airwindows	vst.dcvo.DCVoltage64
+Scope	airwindows	vst.dens.Density64
+Scope	airwindows	vst.driv.Drive64
+Scope	airwindows	vst.eddm.EdIsDim64
+Scope	airwindows	vst.fatm.FathomFive64
+Scope	airwindows	vst.feob.IronOxide564
+Scope	airwindows	vst.feoc.IronOxideClassic64
+Scope	airwindows	vst.frct.Fracture64
+Scope	airwindows	vst.herm.Hermepass64
+Scope	airwindows	vst.himp.HighImpact64
+Scope	airwindows	vst.hpas.Highpass64
+Scope	airwindows	vst.lops.Lowpass64
+Scope	airwindows	vst.loud.Loud64
+Scope	airwindows	vst.mdsd.MidSide64
+Scope	airwindows	vst.melt.Melt64
+Scope	airwindows	vst.node.NodeDither64
+Scope	airwindows	vst.poit.Point64
+Scope	airwindows	vst.psag.PowerSag64
+Scope	airwindows	vst.psng.PhaseNudge64
+Scope	airwindows	vst.purg.PurestGain64
+Scope	airwindows	vst.pyew.Pyewacket64
+Scope	airwindows	vst.sidp.Sidepass64
+Scope	airwindows	vst.slew.Slew64
+Scope	airwindows	vst.srge.Surge64
+Scope	airwindows	vst.surg.SurgeTide64
+Scope	airwindows	vst.thun.Thunder64
+Scope	airwindows	vst.tosl.ToneSlant64
+Scope	airwindows	vst.trem.Tremolo64
+Scope	Akai Professional	vst.VIP%21.VIP
+Scope	Alien Seed Tech	com.alienseed.KRON
+Scope	Alien Seed Tech	com.alienseed.PSDN_Envelope
+Scope	Amaloo Studio, LLC	com.amaloostudio.EXP1
+Scope	Amaranth Audio Inc	vst.Cycl.Cycle64
+Scope	AnalogObsession	vst.Brr1.BRITPRESSOR
+Scope	AnalogObsession	vst.Fil1.FILTEQ
+Scope	AnalogObsession	vst.Lcf1.LCF
+Scope	AnalogObsession	vst.Oss1.FETISH
+Scope	AnalogObsession	vst.Rol1.ROLLAMP
+Scope	AnalogObsession	vst.Ssq1.SSQ
+Scope	AnarchySoundSoftware	vst.AnRm.AnarchyRhythms
+Scope	Applied Acoustics Systems	vst.0OMB.String Studio VS-2
+Scope	Applied Acoustics Systems	vst.96WZ.Lounge Lizard Session 4
+Scope	Applied Acoustics Systems	vst.APl1.AAS Player
+Scope	Applied Acoustics Systems	vst.B409.Strum GS-2
+Scope	Applied Acoustics Systems	vst.Chr1.Chromaphone
+Scope	Applied Acoustics Systems	vst.NFYK.Ultra Analog Session 2
+Scope	Applied Acoustics Systems	vst.YPWL.Strum Session 2
+Scope	apulSoft	vst.apQ2.apQualizr2 x64
+Scope	apulSoft	vst.apQU.apQualizr x64
+Scope	apulSoft	vst.TgG3.apTrigga3 x64
+Scope	ArchetypeInst	vst.Enha.Lokomotiv
+Scope	Armando Montanez	vst.SimS.SimpleSide
+Scope	ArtsAcoustic	vst.aaBR.bigrock
+Scope	ArtsAcoustic	vst.aaD1.clms1xl x64
+Scope	ArtsAcoustic	vst.aaD2.cl1 x64
+Scope	ArtsAcoustic	vst.aaD3.clms1 x64
+Scope	ArtsAcoustic	vst.AARb.ArtsAcousticReverb x64
+Scope	Arturia	vst.Ala2.Analog Lab 2
+Scope	Arturia	vst.ALab.Analog Lab
+Scope	Arturia	vst.ArDS.Spark
+Scope	Arturia	vst.AviS.Vox V
+Scope	Arturia	vst.CSM2.CS-80 V2 10 voices
+Scope	Arturia	vst.CSV3.CS-80 V3
+Scope	Arturia	vst.Dx71.DX7 V
+Scope	Arturia	vst.Farf.Farfisa V
+Scope	Arturia	vst.Mat2.Matrix-12 V2
+Scope	Arturia	vst.MiFi.MiniFilter V
+Scope	Arturia	vst.Pian.Piano V
+Scope	Arturia	vst.Sol2.Solina V2
+Scope	Arturia	vst.Soli.Solina V
+Scope	Arturia	vst.Stag.Stage-73 V
+Scope	Arturia	vst.Sycl.Synclavier V
+Scope	Arturia	vst.TonW.B-3 V
+Scope	Arturia	vst.Vox2.VOX Continental V2
+Scope	Arturia	vst.WUR2.Wurli V2
+Scope	Arturia	vst.Wurl.Wurlitzer V
+Scope	Auburn Sounds	vst.%40s11.Auburn Sounds Graillon-64
+Scope	Auburn Sounds	vst.%40s21.Panagement Enterprise Edition v1_1 64
+Scope	Audified	vst.A%1F%02%D1.U73b Compressor x64
+Scope	Audified	vst.gtjm.U78 Saturator x64
+Scope	Audified	vst.wbb1.MixChecker x64
+Scope	Audio Assault	vst.AUBD.Bulldozer
+Scope	Audio Damage, Inc.	com.audiodamage.roughrider
+Scope	Audio Damage, Inc.	vst.ADd3.Discord 3
+Scope	Audio Damage, Inc.	vst.ADe0.Eos x64
+Scope	Audio Damage, Inc.	vst.ADf3.FuzzPlus3
+Scope	Audio Damage, Inc.	vst.ADrv.RatshackReverb2 x64
+Scope	Audio Damage, Inc.	vst.ADvb.ADverb x64
+Scope	Audio Damage, Inc.	vst.Axo2.Axon 2
+Scope	Audio Damage, Inc.	vst.DSv2.Dubstation 2
+Scope	Audio Damage, Inc.	vst.Pho2.Phosphor 2
+Scope	Audio Damage, Inc.	vst.Qtro.QuatroMod
+Scope	Audio Damage, Inc.	vst.Rep2.Replicant 2
+Scope	Audio Damage, Inc.	vst.RRv2.RoughRider2
+Scope	Audio Poison	com.audiopoison.Strontium90
+Scope	AudioAssault	vst.AUDF.Defacer
+Scope	AudioAssault	vst.GRMC.GrindMachineFree
+Scope	AudioBlast	vst.loop.InstaLooperx64
+Scope	audioD3CK	vst.ChCh.ChopChop
+Scope	audioD3CK	vst.Eekj.Eekjuliza
+Scope	audioD3CK	vst.KRUC.KRUCZ
+Scope	audioD3CK	vst.OCLP.o-clip
+Scope	audioD3CK	vst.STRP.ST-R-I-P
+Scope	audioD3CK	vst.SuRy.SunRuys
+Scope	AudioRealism	se.audiorealism.abl3
+Scope	AudioRealism	se.audiorealism.Dominator
+Scope	AudioRealism	se.audiorealism.reabl2
+Scope	AudioRealism	vst.aadm.ADM x64
+Scope	AudioRealism	vst.ABL3.ABL2 x64
+Scope	AudioRealism	vst.ABL5.ABL3 x64
+Scope	Audiority	vst.aBuS.The Abuser x64
+Scope	Audiority	vst.AdGS.GrainSpace x64
+Scope	Audiority	vst.AdHM.Harmonic Maximizer x64
+Scope	Audiority	vst.AuSf.Side Filter x64
+Scope	Audiority	vst.Gxvb.XenoVerb x64
+Scope	Audiority	vst.Ntni.FreeMod
+Scope	Audiority	vst.Oqxi.TS1-TransientShaper x64
+Scope	Audiority	vst.tMlN.Tremolan x64
+Scope	Audiority	vst.Wi8k.Polaris x64
+Scope	AudioThing	vst.ExTr.ValveExciter_x64
+Scope	AudioThing	vst.FJam.Filterjam_x64
+Scope	AudioThing	vst.fOgC.FogConvolver_x64
+Scope	AudioThing	vst.FrsB.Frostbite_x64
+Scope	AudioThing	vst.HATS.Hats_x64
+Scope	AudioThing	vst.HC2M.HandClapper_x64
+Scope	AudioThing	vst.lp88.LatinPercussion_x64
+Scope	AudioThing	vst.mIbt.miniBit_x64
+Scope	AudioThing	vst.PhMo.PhaseMotion_x64
+Scope	AudioThing	vst.sPkr.Speaker_x64
+Scope	AudioThing	vst.SPst.SpaceStrip_x64
+Scope	AudioThing	vst.SR88.SR88_x64
+Scope	AudioThing	vst.tORB.TheOrb_x64
+Scope	AudioThing	vst.VlVf.ValveFilterVF1_x64
+Scope	AudioThing	vst.VySr.VinylStrip_x64
+Scope	AXP	vst.034h.AXP SoftAmp 3OD x64
+Scope	AXP	vst.AXCB.AXP CharBooster x64
+Scope	AXP	vst.AXFM.AXP SoftAmp FM25 x64
+Scope	AXP	vst.AXFW.AXP Flextron x64
+Scope	AXP	vst.AXGV.AXP SoftDrive GV x64
+Scope	AXP	vst.AXS1.AXP SoftAmp PSA x64
+Scope	Bassment DSP	com.bassmentdsp.LotusCompressor
+Scope	Bassment DSP	com.bassmentdsp.NSPedalBoard
+Scope	Bassment DSP	com.bassmentdsp.SA16Chorus
+Scope	BBE Sound	vst.H82m.H82 Harmonic Maximizer x64
+Scope	BBE Sound	vst.L82m.L82 Loudness Maximizer x64
+Scope	BBE Sound	vst.SB01.BBE Free Fuzz x64
+Scope	BBE Sound	vst.SB02.BBE Green Screamer x64
+Scope	BBE Sound	vst.SB03.BBE Mind Bender x64
+Scope	BBE Sound	vst.SB04.BBE Opto Stomp x64
+Scope	BBE Sound	vst.SB05.BBE Sonic Stomp x64
+Scope	BBE Sound	vst.SB06.BBE Soul Vibe x64
+Scope	BBE Sound	vst.SB07.BBE Tremor x64
+Scope	BBE Sound	vst.SB08.BBE Two Timer x64
+Scope	BBE Sound	vst.sMax.D82 Sonic Maximizer x64
+Scope	BBE Sound	vst.SWE1.BBE Sonic Maximizer x64
+Scope	BBE Sound	vst.SWE2.BBE Harmonic Maximizer x64
+Scope	BBE Sound	vst.SWE3.BBE Loudness Maximizer x64
+Scope	BBE Sound	vst.SWE4.BBE Mach3 Bass x64
+Scope	Bcase	fr.bcase.OBC
+Scope	Bcase	fr.bcase.spem
+Scope	BeatRig	vst.LVlV.LevelView
+Scope	BeatSkillz	vst.bNcz.Bounce_x64
+Scope	BeatSkillz	vst.dRpX.DropX
+Scope	BeatSkillz	vst.Max1.Max1 64
+Scope	BeatSkillz	vst.ReLt.ReeLight 64
+Scope	BeatSkillz	vst.SlDw.SlamDawg_x64
+Scope	BeatSkillz	vst.SlPr.SlamPro 64
+Scope	BeatSkillz	vst.tHTg.ThatThing_x64
+Scope	BeatSkillz	vst.Valv.Valvesque 64
+Scope	Benedict Roff-Marsh	vst.%06%97%C7%0F.Space Ring
+Scope	Benedict Roff-Marsh	vst.%0F%D3%9B%10.Space String
+Scope	Benedict Roff-Marsh	vst.%2E%ED%91%8D.Space Strike
+Scope	Benedict Roff-Marsh	vst.%8E%9C%15e.Space Synth 101
+Scope	Benedict Roff-Marsh	vst.%C2%C1%DDK
+Scope	Benedict Roff-Marsh	vst.%C2%C1%DDK.Space Synth 102
+Scope	Benedict Roff-Marsh	vst.%C4%F7%2F%D4.Space Delay 101
+Scope	Benedict Roff-Marsh	vst.%E0%90e%10.Space Reverb 101
+Scope	Benedict Roff-Marsh	vst.e%9A2%B4.Space Filter 101
+Scope	BHK Instruments	com.bhksamples.Parafilter
+Scope	Bill Davies	vst.tcwc.WindChimes64
+Scope	Bjoern Arlt @ Full Bucket Music	vst.3315.scrooo64
+Scope	Black and Orange	com.blackandorange.AutoArp
+Scope	Black and Orange	com.blackandorange.ReVolt
+Scope	Black and Orange	com.blackandorange.TrafficControl
+Scope	Black Rooster Audio	vst.bra1.VLA-2A x64
+Scope	Black Rooster Audio	vst.bra2.VLA-3A x64
+Scope	Black Rooster Audio	vst.bra3.Canary x64
+Scope	Black Rooster Audio	vst.bra4.Cypress TT-15 x64
+Scope	Black Rooster Audio	vst.bra5.VHL-3C x64
+Scope	Black Rooster Audio	vst.bra6.VEQ-5 x64
+Scope	Black Rooster Audio	vst.bra7.Blueface SC-5 x64
+Scope	Black Rooster Audio	vst.bra8.Blackface SC-5 x64
+Scope	Black Rooster Audio	vst.bra9.Magnetite x64
+Scope	Blamsoft, Inc.	com.blamsoft.Breakout
+Scope	Blamsoft, Inc.	com.blamsoft.CVMerger
+Scope	Blamsoft, Inc.	com.blamsoft.CVSplitter
+Scope	Blamsoft, Inc.	com.blamsoft.DC1
+Scope	Blamsoft, Inc.	com.blamsoft.DC9
+Scope	Blamsoft, Inc.	com.blamsoft.Distributor
+Scope	Blamsoft, Inc.	com.blamsoft.eXpanse
+Scope	Blamsoft, Inc.	com.blamsoft.F16
+Scope	Blamsoft, Inc.	com.blamsoft.Mark_VIII
+Scope	Blamsoft, Inc.	com.blamsoft.Merger
+Scope	Blamsoft, Inc.	com.blamsoft.Movement
+Scope	Blamsoft, Inc.	com.blamsoft.Resampler
+Scope	Blamsoft, Inc.	com.blamsoft.Splitter
+Scope	Blamsoft, Inc.	com.blamsoft.t00b
+Scope	Blamsoft, Inc.	com.blamsoft.Viking
+Scope	Blamsoft, Inc.	com.blamsoft.VK2
+Scope	Blamsoft, Inc.	com.blamsoft.VO1
+Scope	Blamsoft, Inc.	com.blamsoft.Zero
+Scope	Blamsoft, Inc.	vst.VK10.VK-1 Viking Synthesizer
+Scope	BlauKraut Engineering	vst.hCwd.Charlatan
+Scope	Blue Cat Audio	vst.2jm8.BC Plug'n Script Synth VST x64
+Scope	Blue Cat Audio	vst.559m.BC Oscilloscope Multi 2 VST x64
+Scope	Blue Cat Audio	vst.6kip.BC Plug'n Script Synth VST(Mono) x64
+Scope	Blue Cat Audio	vst.6t4y.BC DP Meter Pro 4 VST(Stereo) x64
+Scope	Blue Cat Audio	vst.7cr8.BC DP Meter Pro 4 VST(Mono) x64
+Scope	Blue Cat Audio	vst.b51i.BC Chorus 4 VST(Mono)
+Scope	Blue Cat Audio	vst.fc00.BC PatchWork Synth VST x64
+Scope	Blue Cat Audio	vst.i69k.BC DP Meter Pro 4 VST(Srnd) x64
+Scope	Blue Cat Audio	vst.i8x0.BC StereoScope Multi 2 VST x64
+Scope	Boz Digital Labs	vst.BlSa.Sasquatch
+Scope	Boz Digital Labs	vst.h5Rs.Hoser
+Scope	Boz Digital Labs	vst.h5Rx.Hoser XT
+Scope	Boz Digital Labs	vst.iDj5.ImperialDelay_1_5
+Scope	Boz Digital Labs	vst.LtFt.LittleFoot
+Scope	Boz Digital Labs	vst.McP4.ManicCompressor
+Scope	Boz Digital Labs	vst.MnGs.Mongoose
+Scope	Boz Digital Labs	vst.pL10.Plus10db
+Scope	Boz Digital Labs	vst.TBne.TBone
+Scope	Boz Digital Labs	vst.trG2.Transgressor x64
+Scope	Boz Digital Labs	vst.W4lL.TheWall x64
+Scope	Boz Digital Labs	vst.WdD8.WidthKnob
+Scope	Brain Control	vst.Tf30.tunefish3
+Scope	Brain Control	vst.Tf40.tunefish4
+Scope	Bram @ Smartelectronix	vst.AneC.AnechoicRoomSimulator
+Scope	Bram @ Smartelectronix	vst.ASuP.SupaPhaser
+Scope	Bram @ Smartelectronix	vst.BITM.BitMurderer
+Scope	Bram @ Smartelectronix	vst.BNCY.Bouncy
+Scope	Bram @ Smartelectronix	vst.CRZY.CrazyIvan
+Scope	Bram @ Smartelectronix	vst.GLTC.SupaTrigga
+Scope	Bram @ Smartelectronix	vst.H2OF.H2O
+Scope	Bram @ Smartelectronix	vst.osX2.Smexoscope
+Scope	Bram @ Smartelectronix	vst.Ping.OnePingOnly
+Scope	BurghRecords	vst.%FF%FF%FF%F2.PNPhazer_x65
+Scope	BurghRecords	vst.%FF%FF%FF%FA.PNFlanger_x64
+Scope	Cableguys	vst.CGC2.Curve2
+Scope	Cableguys	vst.CGF2.FilterShaper2 x64
+Scope	Cableguys	vst.CGF3.FilterShaper3 x64
+Scope	Cableguys	vst.CGL1.ShaperBox x64
+Scope	Cableguys	vst.CGM1.MidiShaper x64
+Scope	Cableguys	vst.CGP1.PanCake2 x64
+Scope	Cableguys	vst.CGV1.VolumeShaper3 x64
+Scope	Cableguys	vst.CGV4.VolumeShaper4 x64
+Scope	Cableguys	vst.CWC1.WaveShaperCM x64
+Scope	Cakewalk	com.cakewalk.RE2A
+Scope	Cakewalk	vst.Cc2a.CA-2ALevelingAmplifier_64
+Scope	Cakewalk	vst.CWbl.Boost11 x64
+Scope	Cakewalk	vst.CWcm.LP64_Multiband x64
+Scope	Cakewalk	vst.CWlq.LP64_EQ x64
+Scope	Cakewalk	vst.CWpn.Channel Tools x64
+Scope	Cakewalk	vst.CWps.PX64_PercussionStrip x64
+Scope	Cakewalk	vst.CWts.TS64_TransientShaper x64
+Scope	Cakewalk	vst.CWvs.VX64_VocalStrip x64
+Scope	Cakewalk	vst.CWwm.TL64_TubeLeveler x64
+Scope	Cakewalk	vst.gtCW.BitMeter x64
+Scope	Cakewalk	vst.LPEQ.LPEQ_64
+Scope	Cakewalk	vst.LPMB.LPMB_64
+Scope	Cakewalk	vst.z3t2.Z3TA+ 2 x64
+Scope	Camel Audio	vst.CaCr.CamelCrusher x64
+Scope	Camel Audio	vst.CaP3.CamelPhat3 x64
+Scope	Camel Audio	vst.CaS1.CamelSpace x64
+Scope	cerberus audio	vst.cICE.Ice9
+Scope	CFA-Sound	vst.gRiP.GRIP x64
+Scope	Christopher Clews	vst.%05%24%95%C1.Samsara_10_Band_v2
+Scope	Christopher Clews	vst.q%02%9D%F3.Samsara_G-EQ
+Scope	Cockos	vst.rcmd.reacontrolmidi-standalone
+Scope	Cockos	vst.recm.reacomp-standalone
+Scope	Cockos	vst.redl.readelay-standalone
+Scope	Cockos	vst.reeq.reaeq-standalone
+Scope	Cockos	vst.refr.reafir_standalone
+Scope	Cockos	vst.regt.reagate-standalone
+Scope	Cockos	vst.rejs.reajs
+Scope	Cockos	vst.rexc.reaxcomp-standalone
+Scope	Cockos	vst.rstr.reastream-standalone
+Scope	CodeDiggers	ru.laboratoriait.DQ
+Scope	Cognitone	vst.Sprk.Sprike
+Scope	Cut Through Recordings	vst.Zlzf.DankDrive_x64
+Scope	CutterMusic	vst.cmr2.Revitar 2_17
+Scope	CWITEC	vst.TX16.TX16Wx
+Scope	Cytomic	vst.CyTg.The Glue x64
+Scope	Cytomic	vst.Drp1.The Drop x64
+Scope	Cytomic	vst.Scrm.The Scream 64
+Scope	D16 Group Audio Software	pl.d16.Decimort2
+Scope	D16 Group Audio Software	pl.d16.Devastor2
+Scope	D16 Group Audio Software	vst.AnT3.Antresol x64
+Scope	D16 Group Audio Software	vst.DCm4.Decimort x64
+Scope	D16 Group Audio Software	vst.DCm5.Decimort2 x64
+Scope	D16 Group Audio Software	vst.DV57.Devastor x64
+Scope	D16 Group Audio Software	vst.DV58.Devastor2 x64
+Scope	D16 Group Audio Software	vst.F2R7.Fazortan x64
+Scope	D16 Group Audio Software	vst.FRn7.Frontier x64
+Scope	D16 Group Audio Software	vst.N1tH.Nithonat x64
+Scope	D16 Group Audio Software	vst.NPH2.Nepheton x64
+Scope	D16 Group Audio Software	vst.PHOS.Phoscyon x64
+Scope	D16 Group Audio Software	vst.PNBX.PunchBox x64
+Scope	D16 Group Audio Software	vst.RdP7.Redoptor x64
+Scope	D16 Group Audio Software	vst.RP78.Repeater x64
+Scope	D16 Group Audio Software	vst.SGMN.Sigmund x64
+Scope	D16 Group Audio Software	vst.SH11.LuSH-101
+Scope	D16 Group Audio Software	vst.Sn7R.Syntorus x64
+Scope	D16 Group Audio Software	vst.T4V8.Toraverb x64
+Scope	D16 Group Audio Software	vst.TK74.Tekturon x64
+Scope	DaviSantos	vst.spgp.DvnSfxMaker_x64
+Scope	DDMF	vst.CoPl.NYCompressor
+Scope	DDMF	vst.DirQ.DirectionalEQ
+Scope	Ddmf	vst.Enve.Envelope
+Scope	DDMF	vst.IIEQ.IIEQPro
+Scope	Ddmf	vst.LiCo.LinComp
+Scope	Ddmf	vst.LiPl.NoLimits
+Scope	ddmf	vst.LP10.LP10
+Scope	DDMF	vst.MeIn.MetapluginSynth
+Scope	DDMF	vst.MePl.Metaplugin
+Scope	ddmf	vst.NeEq.6144
+Scope	DDMF	vst.SeIt.SendIt
+Scope	Ddmf	vst.StPl.StereooeretS
+Scope	DDMF	vst.ThSt.TheStrip
+Scope	Dead Duck Software	vst.-D%5E0.DD Channel
+Scope	Dead Duck Software	vst.-D%5E1.DD Equaliser
+Scope	Dead Duck Software	vst.-D%5E2.DD Compressor
+Scope	Dead Duck Software	vst.-D%5E3.DD Gate
+Scope	Dead Duck Software	vst.-D%5E4.DD Limiter
+Scope	Dead Duck Software	vst.-D%5E5.DD Chorus
+Scope	Dead Duck Software	vst.-D%5E6.DD Flanger
+Scope	Dead Duck Software	vst.-D%5E7.DD Phaser
+Scope	Dead Duck Software	vst.-D%5E8.DD AutoPan
+Scope	Dead Duck Software	vst.-D%5E9.DD Tremolo
+Scope	Dead Duck Software	vst.-D%5EA.DD Delay
+Scope	Dead Duck Software	vst.-D%5EB.DD MonoDelay
+Scope	Dead Duck Software	vst.-D%5EC.DD Reverb
+Scope	Dead Duck Software	vst.-D%5ED.DD Filter
+Scope	Dead Duck Software	vst.-D%5EE.DD SigGen
+Scope	Dead Duck Software	vst.-D%5EF.DD Utility
+Scope	Dead Duck Software	vst.-S%5E0.DJX10
+Scope	Dead Duck Software	vst.-S%5E1.DDX10
+Scope	Dead Duck Software	vst.-S%5E2.DPiano-A
+Scope	Dead Duck Software	vst.-S%5E3.DPiano-E
+Scope	Deadman Audio Devices	com.deadmanaudiodevices.getlayedsound
+Scope	Deadman Audio Devices	com.deadmanaudiodevices.getlayedvoltage
+Scope	Deadman Audio Devices	com.deadmanaudiodevices.MasterGater
+Scope	Deadman Audio Devices	com.deadmanaudiodevices.onenotestand
+Scope	Denis Tihanov	vst.twkn.OrilRiver
+Scope	Devoloop	com.devoloop.Holedo
+Scope	Devoloop	com.devoloop.SitBull
+Scope	Devoloop	com.mikegazzaruso.DYNARAGE
+Scope	Digital Suburban	vst.Dexd.Dexed
+Scope	Dirk Brandner	vst.Rvx7.ScratchPlug64
+Scope	discoDSP	vst.DPVx.DiscoveryPro64
+Scope	Distorque	vst.DQ%2Bd.Plusdistortion x64 small
+Scope	Distorque	vst.DQAZ.Azurite x64
+Scope	Distorque	vst.DQFB.Face Bender x64
+Scope	Distorque	vst.DQVC.Vitamin C x64
+Scope	Distorque	vst.RBTD.Distorque-Rangebastard-64
+Scope	DJ * CSI *	vst.rave.RaveGenerator-x64
+Scope	DLD Technology	com.dldtechnology.as16
+Scope	DLD Technology	com.dldtechnology.cvgateway
+Scope	DLD Technology	com.dldtechnology.cvmeter
+Scope	DLD Technology	com.dldtechnology.dr4
+Scope	DLD Technology	com.dldtechnology.headphonemonitor
+Scope	DLD Technology	com.dldtechnology.megasaur
+Scope	DLD Technology	com.dldtechnology.respeech
+Scope	DLD Technology	com.dldtechnology.revolution
+Scope	DLD Technology	com.dldtechnology.snakebite
+Scope	DlogB	org.dlogb.SplitterEffect
+Scope	DMGAudio	vst.DGCM.CompassionMono
+Scope	DMGAudio	vst.DGCN.CompassionNoSC
+Scope	DMGAudio	vst.DGCT.TrackControl
+Scope	DMGAudio	vst.DGEs.Essence
+Scope	DMGAudio	vst.DGLl.Limitless
+Scope	DMGAudio	vst.DGMo.Dualism
+Scope	DMGAudio	vst.DGPf.PitchFunkMono
+Scope	DMGAudio	vst.DGTG.TrackGate
+Scope	DMGAudio	vst.DGTL.TrackLimit
+Scope	DMGAudio	vst.DGTS.TrackDS
+Scope	DMGAudio	vst.EQic.EQuick
+Scope	DMGAudio	vst.EQiL.EQuilibriumMono
+Scope	DMGAudio	vst.EQim.EQuickMono
+Scope	DMGAudio	vst.EQua.EQuality
+Scope	DMGAudio	vst.EQuM.EQualityMono
+Scope	Dmitry Sches	vst.ThRn.Thorn
+Scope	Dmitry Sches	vst.TntR.Tantra
+Scope	DNA Labs	com.dnalabs.AquiosX4
+Scope	DNA Labs	com.dnalabs.Hydronexius
+Scope	Doodov Digital Design	com.doodov.SW4C
+Scope	DOTEC-AUDIO	vst.5goz.DeePanpot
+Scope	DOTEC-AUDIO	vst.F3gr.DeeFX
+Scope	DOTEC-AUDIO	vst.Gko2.DeeComp
+Scope	DOTEC-AUDIO	vst.J5vf.DeeGain
+Scope	DOTEC-AUDIO	vst.Jjpj.DeeGate
+Scope	DOTEC-AUDIO	vst.Kjmp.DeeMax
+Scope	DOTEC-AUDIO	vst.Kpom.DeeSpeaker
+Scope	DOTEC-AUDIO	vst.Mzae.DeeFat
+Scope	DOTEC-AUDIO	vst.Xxbl.DeeEQ
+Scope	DOTEC-AUDIO	vst.Yess.DeeTrim
+Scope	e-instruments	com.eInstruments.StringWerk
+Scope	eaReckon	vst.eRC0.FREE87 FR-COMP(x64)
+Scope	eaReckon	vst.eRG0.FREE87 FR-GATE(x64)
+Scope	eaReckon	vst.eRL0.FREE87 FR-LIMIT(x64)
+Scope	eaReckon	vst.eRMp.MIDI Polysher(x64)
+Scope	eaReckon	vst.eRQ0.FREE87 FR-EQUA(x64)
+Scope	Eiosis	vst.AEq5.Eiosis AirEQ 5_1
+Scope	Eiosis	vst.AEqP.Eiosis AirEQ
+Scope	Ekssperimental Sounds	se.ekss.es01
+Scope	Empirical Labs	vst.Arsr.Arousor
+Scope	EmRys	vst.1wxj.binauralGenerator_x64
+Scope	EmRys	vst.gcjn.modulatedFilter_x64
+Scope	EmRys	vst.hdy0.goldenGenerator_x64
+Scope	EmRys	vst.hhz2.adsrFilter_x64
+Scope	Eugene Yakshin	vst.Ribs.Ribs_x64
+Scope	Eventide	vst.22SR.2016 Stereo Room
+Scope	Eventide	vst.BDls.H3000 Band Delays
+Scope	Eventide	vst.EChn.EChannel
+Scope	Eventide	vst.EQ45.EQ45
+Scope	Eventide	vst.EQ65.EQ65
+Scope	Eventide	vst.Fact.H3000 Factory
+Scope	Eventide	vst.H910.H910 Harmonizer
+Scope	Eventide	vst.H91d.H910 Dual Harmonizer
+Scope	Eventide	vst.H949.H949 Harmonizer
+Scope	Eventide	vst.H94d.H949 Dual Harmonizer
+Scope	Eventide	vst.HOLE.Blackhole
+Scope	Eventide	vst.InFl.Instant Flanger
+Scope	Eventide	vst.InPh.Instant Phaser
+Scope	Eventide	vst.OctW.Octavox
+Scope	Eventide	vst.Omni.Omnipressor
+Scope	Eventide	vst.PTAl.Precision Time Align
+Scope	Eventide	vst.PTDl.Precision Time Delay
+Scope	Eventide	vst.QudW.Quadravox
+Scope	Eventide	vst.Tvrb.Tverb
+Scope	Eventide	vst.UlCh.UltraChannel
+Scope	Eventide	vst.UlTp.UltraTap
+Scope	EXE Consulting	vst.%3E8%21N.MG2AmpMFJV
+Scope	EXE Consulting	vst.%40shW.EQFifteen
+Scope	EXE Consulting	vst.E40%24.LG2AmpMFJV
+Scope	EXE Consulting	vst.f%40Nx.RoomConvpROT
+Scope	EXE Consulting	vst.N%2CQ%2A.UHG2AmpMFJV
+Scope	EXE Consulting	vst.t%94%24%B8.HG2AmpMFJV
+Scope	Expert Sleepers	com.expertsleepers.SWVoiceController
+Scope	Exponential Audio	vst.EXca.Excalibur x64
+Scope	Exponential Audio	vst.MCnm.Nimbus
+Scope	Exponential Audio	vst.MCsr.PhoenixVerb x64
+Scope	Extent of the Jam	vst.LGPd.DigitsVST_x64
+Scope	Extent of the Jam	vst.LGSm.Slam_x64
+Scope	FabFilter	vst.FC22.FabFilter Pro-C 2 (Mono) x64
+Scope	FabFilter	vst.FC2p.FabFilter Pro-C 2 x64
+Scope	FabFilter	vst.FMi2.FabFilter Micro (Mono) x64
+Scope	FabFilter	vst.FMic.FabFilter Micro x64
+Scope	FabFilter	vst.FPG2.FabFilter Pro-G (Mono) x64
+Scope	FabFilter	vst.FPGr.FabFilter Pro-G x64
+Scope	FabFilter	vst.FPL2.FabFilter Pro-L (Mono) x64
+Scope	FabFilter	vst.FPLr.FabFilter Pro-L x64
+Scope	FabFilter	vst.FPM2.FabFilter Pro-MB (Mono) x64
+Scope	FabFilter	vst.FPMb.FabFilter Pro-MB x64
+Scope	FabFilter	vst.FPQ2.FabFilter Pro-Q (Mono) x64
+Scope	FabFilter	vst.FPQr.FabFilter Pro-Q x64
+Scope	FabFilter	vst.FPR2.FabFilter Pro-R (Mono) x64
+Scope	FabFilter	vst.FPr3.FabFilter Pro-C (Mono SC) x64
+Scope	FabFilter	vst.FPr4.FabFilter Pro-C (SC) x64
+Scope	FabFilter	vst.FPrC.FabFilter Pro-C x64
+Scope	FabFilter	vst.FPRr.FabFilter Pro-R x64
+Scope	FabFilter	vst.FPS2.FabFilter Pro-DS (Mono) x64
+Scope	FabFilter	vst.FPSr.FabFilter Pro-DS x64
+Scope	FabFilter	vst.FQ22.FabFilter Pro-Q 2 (Mono) x64
+Scope	FabFilter	vst.FQ2p.FabFilter Pro-Q 2 x64
+Scope	FabFilter	vst.FSa2.FabFilter Saturn (Mono) x64
+Scope	FabFilter	vst.FSat.FabFilter Saturn x64
+Scope	FabFilter	vst.FSim.FabFilter Simplon x64
+Scope	FabFilter	vst.FTm4.FabFilter Timeless 2 (SC) x64
+Scope	FabFilter	vst.FTms.FabFilter Timeless 2 x64
+Scope	FabFilter	vst.FV22.FabFilter Volcano 2 (Mono) x64
+Scope	FabFilter	vst.FV23.FabFilter Volcano 2 (Mono SC) x64
+Scope	FabFilter	vst.FV24.FabFilter Volcano 2 (SC) x64
+Scope	FabFilter	vst.FV2l.FabFilter Volcano 2 x64
+Scope	Fiedler Audio	com.fiedler_audio.AD480RE
+Scope	Flower Audio	com.flowerau.4Dyne
+Scope	Flower Audio	com.flowerau.LoudnessMeter
+Scope	Flux:: - IRCAM	vst.fitv.VerbV3
+Scope	Flux:: - IRCAM	vst.fmv2.VerbSessionV3
+Scope	Flux:: - IRCAM	vst.ftrc.TraxCsV3
+Scope	Flux:: - IRCAM	vst.ftrs.TraxSfV3
+Scope	Flux:: - IRCAM	vst.ftrx.TraxV3
+Scope	Flux:: - IRCAM	vst.fxHE.HEarV3
+Scope	Flux:: - IRCAM	vst.ISP3.SpatV3
+Scope	Flux:: sound and picture development	vst.Epur.EpureV3
+Scope	Flux:: sound and picture development	vst.FBS2.BitterSweetV3
+Scope	Flux:: sound and picture development	vst.FBS3.SampleGrabberV3
+Scope	Flux:: sound and picture development	vst.fxAl.AlchemistV3
+Scope	Flux:: sound and picture development	vst.fxBS.BSPro
+Scope	Flux:: sound and picture development	vst.fxDc.PureDCompV3
+Scope	Flux:: sound and picture development	vst.fxDx.PureDExpV3
+Scope	Flux:: sound and picture development	vst.fxEx.PureExpV3
+Scope	Flux:: sound and picture development	vst.fxPc.PureCompV3
+Scope	Flux:: sound and picture development	vst.fxPl.PureLimiterV3
+Scope	Flux:: sound and picture development	vst.fxSo.SoleraV3
+Scope	Flux:: sound and picture development	vst.fxSt.StereoToolV3
+Scope	Flux:: sound and picture development	vst.fxSy.SyrahV3
+Scope	Flux:: sound and picture development	vst.lxir.ElixirV3
+Scope	Focusrite	vst.fscp.Scarlett Compressor 64
+Scope	Focusrite	vst.fseq.Scarlett EQ 64
+Scope	Focusrite	vst.fsgt.Scarlett Gate 64
+Scope	Focusrite	vst.fsvb.Scarlett Reverb 64
+Scope	Focusrite	vst.mdcp.Midnight Compressor 64
+Scope	Focusrite	vst.mdeq.Midnight EQ 64
+Scope	Focusrite	vst.rd2E.Red 2 EQ
+Scope	Focusrite	vst.rd3C.Red 3 Compressor
+Scope	Full Bucket Music	vst.1416.monofury64
+Scope	Full Bucket Music	vst.1r76.blooo64
+Scope	Full Bucket Music	vst.dl50.nabla64
+Scope	Full Bucket Music	vst.FB31.fb310064
+Scope	Full Bucket Music	vst.fb33.fb330064
+Scope	Full Bucket Music	vst.fbbd.fbdelay64
+Scope	Full Bucket Music	vst.FBFS.freqshifter64
+Scope	Full Bucket Music	vst.fbqy.qyooo64
+Scope	Full Bucket Music	vst.kern.kern64
+Scope	Full Bucket Music	vst.kp30.stigma64
+Scope	Full Bucket Music	vst.TDM2.deputy64
+Scope	Futucraft	vst.mc5p.Kairatune
+Scope	FXpansion	vst.2GxF.Geist2
+Scope	FXpansion	vst.ZuDR.Amber
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.DCAMBusComp
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.DCAMChanComp
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.DCAMEnvShaper
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.EtchRack
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.Tres
+Scope	g200kg	vst.4hs1.Kamioooka x64
+Scope	GFM	vst.Dist.GFM_distort
+Scope	GFM	vst.Koch.GFM_koch
+Scope	GFM	vst.Psyp.GFM_psypan
+Scope	GForce	vst.g%21Mt.M-Tron Pro
+Scope	GForce	vst.g%21SM.String Machine
+Scope	GForce	vst.GOdd.Oddity_VST2MachO
+Scope	GForce	vst.I2FX.ImpOSCar2FX_x64
+Scope	GForce	vst.Imp2.ImpOSCar2_x64
+Scope	GForce	vst.OOd2.Oddity2_vstwin_x64
+Scope	GForce	vst.OOdf.Oddity2_vstwin_fx_x64
+Scope	GForce Software	com.gforcesoftware.ChamberTronRE
+Scope	GForce Software	com.gforcesoftware.ReStrings
+Scope	GForce Software	com.gforcesoftware.ReTron
+Scope	GG Audio	vst.GGB3.Blue3
+Scope	GG Audio	vst.GGBR.Blue3Rotary
+Scope	Glitchmachines	vst.GFxt.FractureXT x64
+Scope	Glitchmachines	vst.GlCr.Cryogen x64
+Scope	Glitchmachines	vst.GlCt.Cataract
+Scope	Glitchmachines	vst.GlFr.Fracture x64
+Scope	Glitchmachines	vst.GlHy.Hysteresis x64
+Scope	Glitchmachines	vst.GlPo.Polygon x64
+Scope	Glitchmachines	vst.GlQd.Quadrant x64
+Scope	Glitchmachines	vst.GlSu.Subvert x64
+Scope	Glitchmachines	vst.GmCo.Convex x64
+Scope	Goodhertz	vst.CS3X.Ghz CanOpener Studio 3
+Scope	Goodhertz	vst.DT3X.Ghz Good Dither 3
+Scope	Goodhertz	vst.FL3X.Ghz Faraday Limiter 3
+Scope	Goodhertz	vst.LH3X.Ghz Lohi 3
+Scope	Goodhertz	vst.LS3X.Ghz Lossy 3
+Scope	Goodhertz	vst.MM3X.Ghz Midside Matrix 3
+Scope	Goodhertz	vst.MS3X.Ghz Midside 3
+Scope	Goodhertz	vst.PP3X.Ghz Panpot 3
+Scope	Goodhertz	vst.TC3X.Ghz Tone Control 3
+Scope	Goodhertz	vst.TR3X.Ghz Trem Control 3
+Scope	Goodhertz	vst.TS3X.Ghz Tiltshift 3
+Scope	Goodhertz	vst.VC3X.Ghz Vulf Compressor 3
+Scope	Goodhertz	vst.WC3X.Ghz Wow Control 3
+Scope	graywolf2004	vst.7dWx.BlueARP_x64
+Scope	Green Oak Software	vst.AtFr.Crystal
+Scope	Groovy Melon	com.groovymelon.MorfinXF
+Scope	GVST	vst.gyAa.GDelay
+Scope	GVST	vst.gyAb.GRevDly
+Scope	GVST	vst.gyAc.GMax
+Scope	GVST	vst.gyAd.GClip
+Scope	GVST	vst.gyAe.GComp
+Scope	GVST	vst.gyAf.GGate
+Scope	GVST	vst.gyAg.GLow
+Scope	GVST	vst.gyAh.GHi
+Scope	GVST	vst.gyAi.GBand
+Scope	GVST	vst.gyAj.GGain
+Scope	GVST	vst.gyAk.GNormal
+Scope	GVST	vst.gyAl.GSinth
+Scope	GVST	vst.gyAm.GComp2
+Scope	GVST	vst.gyAn.GGrain
+Scope	GVST	vst.gyAo.GChorus
+Scope	GVST	vst.gyAq.GLFO
+Scope	GVST	vst.gyAr.GDuckDly
+Scope	GVST	vst.gyAs.GSinth2
+Scope	GVST	vst.gyAt.GTune
+Scope	GVST	vst.gyAu.GSinthG
+Scope	GVST	vst.gyAv.GSnap
+Scope	GVST	vst.gyAw.GTriChorus
+Scope	GVST	vst.gyAx.GMulti
+Scope	GVST	vst.gyAz.GFader
+Scope	GVST	vst.gyBa.GRect
+Scope	GVST	vst.gyBb.GSatMax
+Scope	GVST	vst.gyBe.GMonoBass
+Scope	GVST	vst.gyBg.GStereo
+Scope	GVST	vst.gyBh.GLoop
+Scope	GVST	vst.gyBi.GForm
+Scope	GVST	vst.gyBj.GPitchGate
+Scope	GVST	vst.gyBm.GSpace
+Scope	GVXT	uk.co.gvxt.GClip
+Scope	HaMu	se.hamu.MatchMaker
+Scope	HaMu	se.hamu.Mesher4B
+Scope	HaMu	se.hamu.Mesher4K
+Scope	HaMu	se.hamu.Mesher8B
+Scope	HaMu	se.hamu.Mesher8K
+Scope	Hamu	se.hamu.MidiTapper
+Scope	HaMu	se.hamu.Mingler
+Scope	HaMu	se.hamu.ModPanel12
+Scope	HaMu	se.hamu.ModPanel16
+Scope	HaMu	se.hamu.ModPanel8
+Scope	HaMu	se.hamu.ModSelsor
+Scope	HaMu	se.hamu.ModSlewer
+Scope	HaMu	se.hamu.ModStepper
+Scope	HaMu	se.hamu.ModSweeper
+Scope	HaMu	se.hamu.MxSplirger
+Scope	HaMu	se.hamu.Newtrol_12
+Scope	HaMu	se.hamu.Newtrol_16
+Scope	HaMu	se.hamu.Newtrol_8
+Scope	Hans Peter Willems + Bjoern Arlt	vst.hpbo.ragnarok64
+Scope	Heavyocity	com.heavyocity.AeonOrganic
+Scope	Heavyocity	com.heavyocity.AeonSynth
+Scope	HOFA	vst.hff1.HOFA 4U Meter Fader & MS-Pan x64
+Scope	HOFA	vst.hff4.HOFA IQ-Analyser NetAux x64
+Scope	HOFA	vst.hff6.HOFA 4U+ DynamicTiltEQ x64
+Scope	HOFA	vst.hfx0.HOFA IQ-EQ x64
+Scope	HOFA	vst.hfx1.HOFA IQ-Analyser x64
+Scope	HOFA	vst.hfx2.HOFA IQ-Comp x64
+Scope	HOFA	vst.hfx4.HOFA IQ-Reverb x64
+Scope	HOFA	vst.hfx5.HOFA IQ-Limiter x64
+Scope	HOFA	vst.hfx6.HOFA IQ-DeEsser x64
+Scope	HOFA	vst.hfxS.HOFA SYSTEM x64
+Scope	HoRNet	vst.AGP2.HoRNetAutoGainProMK2_x64
+Scope	HoRNet	vst.HAGP.HoRNetAutoGainPro_x64
+Scope	HoRNet	vst.HrMC.HoRNetMulticomp_x64
+Scope	HoRNet	vst.HrSp.HoRNetSpaces_x64
+Scope	HoRNet	vst.SKII.HoRNetSongKeyMK2_x64
+Scope	HrastProgrammer	vst.HP41.Diodow64
+Scope	HY-Plugins	vst.Hy10.HY-Delay2_x64
+Scope	HY-Plugins	vst.Hy12.HY-Filter2_x64
+Scope	HY-Plugins	vst.Hy14.HY-SEQ16x3_x64
+Scope	HY-Plugins	vst.Hy16.HY-MPS_x64
+Scope	HY-Plugins	vst.Hy99.HY-Mono_x64
+Scope	hyakken	vst.hy01.HY-Delay_x64
+Scope	hyakken	vst.hy02.HY-Lofi_x64
+Scope	hyakken	vst.hy03.HY-Filter_x64
+Scope	hyakken	vst.hy04.HY-Phaser_x64
+Scope	hyakken	vst.hy05.HY-MBDrive_x64
+Scope	hyakken	vst.hy06.HY-ChoFla_x64
+Scope	hyakken	vst.Hy07.HY-TP_x64
+Scope	Ignite Amps	vst.ANV2.Anvil x64
+Scope	Ignite Amps	vst.EMS1.Emissary
+Scope	Ignite Amps	vst.NDIR.NadIR x64
+Scope	Ignite Amps	vst.NRR2.NRR-1 x64
+Scope	Ignite Amps	vst.PTEQ.PTEq-1a x64
+Scope	Ignite Amps	vst.SHB1.SHB-1 x64
+Scope	Ignite Amps	vst.TPA1.TPA-1 x64
+Scope	Ignite Amps	vst.TS99.TS-999 x64
+Scope	Ignite Amps	vst.TSB1.TSB-1 x64
+Scope	IK Multimedia Production	vst.Atx4.AmpliTube 4
+Scope	Illformed	vst.igl2.Glitch2
+Scope	Image-Line	vst.%00%00%90%E9.IL GMS x64
+Scope	Image-Line	vst.ASDW.IL DirectWave x64
+Scope	Image-Line	vst.DlBn.IL Delay Bank
+Scope	Image-Line	vst.DMS1.IL Drumaxx
+Scope	Image-Line	vst.DsLi.IL DrumSynth Live x64
+Scope	Image-Line	vst.EQUO.IL EQUO
+Scope	Image-Line	vst.FD2V.IL Delay
+Scope	Image-Line	vst.Flgs.IL Flangus
+Scope	Image-Line	vst.FLVo.IL Vocoder
+Scope	Image-Line	vst.FMbC.IL Multiband Compressor
+Scope	Image-Line	vst.FNoB.IL Notebook
+Scope	Image-Line	vst.FPEV.IL Parametric EQ
+Scope	Image-Line	vst.FSEV.IL Stereo Enhancer
+Scope	Image-Line	vst.FSpM.IL Spectroman
+Scope	Image-Line	vst.HCR1.IL Hardcore x64
+Scope	Image-Line	vst.IAgn.IL Autogun x64
+Scope	Image-Line	vst.IGBe.IL Gross Beat
+Scope	Image-Line	vst.IHmo.IL Harmor
+Scope	Image-Line	vst.IHrm.IL Harmless
+Scope	Image-Line	vst.ILEd.IL Edison
+Scope	Image-Line	vst.ILLP.IL Love Philter
+Scope	Image-Line	vst.ILwc.IL Wave Candy
+Scope	Image-Line	vst.ILWs.IL WaveShaper
+Scope	Image-Line	vst.IMax.IL Maximus
+Scope	Image-Line	vst.IOgn.IL Ogun
+Scope	Image-Line	vst.ISex.IL Slicex
+Scope	Image-Line	vst.MHM1.IL Minihost Modular x64
+Scope	Image-Line	vst.MHM2.IL Minihost Modular (FX) x64
+Scope	Image-Line	vst.MorF.Morphine
+Scope	Image-Line	vst.PEQ2.IL Parametric EQ 2
+Scope	Image-Line	vst.SakR.Sakura
+Scope	Image-Line	vst.SaWR.Sawer
+Scope	Image-Line	vst.Sytr.Sytrus VSTi
+Scope	Image-Line	vst.Tox4.Toxic Biohazard
+Scope	Image-Line	vst.Vcdx.IL Vocodex
+Scope	Impact Soundworks	vst.Snvb.SNESVerb
+Scope	Inear_Display	vst.IdGg.Gorgon
+Scope	Inear_Display	vst.inBo.BowEcho
+Scope	Inear_Display	vst.inCr.Cruelle
+Scope	Inear_Display	vst.inDa.Danaides
+Scope	Inear_Display	vst.inEp.Ephemere
+Scope	Inear_Display	vst.inIc.Incipit
+Scope	Inear_Display	vst.inRq.Regressif
+Scope	Inear_Display	vst.RMid.R_Mem
+Scope	Infected Mushroom	vst.PvIW.IWish64
+Scope	Infected Mushroom	vst.PvMn.Manipulator
+Scope	Insert Piz Here	vst.HDNz.Harsh Digital Nose
+Scope	Insert Piz Here	vst.mvel.midiVelocityScale
+Scope	Instigator	vst.CTRL.Ctrlr-VST-x64
+Scope	Intelligent Sounds and Music	vst.AROM.Aroma
+Scope	IOx Audioware	com.ioxaudioware.onyx
+Scope	IOx Audioware	com.ioxaudioware.titan
+Scope	iZotope, Inc	com.izotope.ozonemaximizer
+Scope	iZotope, Inc.	vst.iZVn.iZotope Vinyl
+Scope	iZotope, Inc.	vst.Zir2.iZotope Iris 2
+Scope	iZotope, Inc.	vst.Zn6B.RX 6 De-plosive x64
+Scope	iZotope, Inc.	vst.Zn6C.RX 6 De-crackle x64
+Scope	iZotope, Inc.	vst.Zn6D.RX 6 Voice De-noise x64
+Scope	iZotope, Inc.	vst.Zn6H.RX 6 De-hum x64
+Scope	iZotope, Inc.	vst.Zn6K.RX 6 De-click x64
+Scope	iZotope, Inc.	vst.Zn6N.RX 6 Spectral De-noise x64
+Scope	iZotope, Inc.	vst.Zn6P.RX 6 De-clip x64
+Scope	iZotope, Inc.	vst.Zn6S.RX 6 De-ess x64
+Scope	iZotope, Inc.	vst.Zn6U.RX 6 Mouth De-click x64
+Scope	iZotope, Inc.	vst.Zn6V.RX 6 De-reverb x64
+Scope	iZotope, Inc.	vst.ZnBd.Neutron Compressor x64
+Scope	iZotope, Inc.	vst.ZnBe.Neutron Equalizer x64
+Scope	iZotope, Inc.	vst.ZnBs.Neutron Exciter x64
+Scope	iZotope, Inc.	vst.ZnBt.Neutron Transient Shaper x64
+Scope	iZotope, Inc.	vst.ZnOm.Neutron x64
+Scope	iZotope, Inc.	vst.ZnT2.iZotope Trash 2 x64
+Scope	J-Yul Sound	com.jyulsound.PiscesLimiter
+Scope	J-Yul Sound	com.jyulsound.PiscesLimiterFree
+Scope	Jiggery Pokery	com.jiggerypokery.Ammo100LA
+Scope	Jiggery Pokery	com.jiggerypokery.Ammo1200BR
+Scope	Jiggery Pokery	com.jiggerypokery.Ammo400R
+Scope	Jiggery Pokery	com.jiggerypokery.Anansi
+Scope	Jiggery Pokery	com.jiggerypokery.Animus
+Scope	Jiggery Pokery	com.jiggerypokery.Charlotte
+Scope	Jiggery Pokery	com.jiggerypokery.Chenille
+Scope	Jiggery Pokery	com.jiggerypokery.Combo310U
+Scope	Jiggery Pokery	com.jiggerypokery.ComboB3T
+Scope	Jiggery Pokery	com.jiggerypokery.ComboCompact
+Scope	Jiggery Pokery	com.jiggerypokery.ComboContinental
+Scope	Jiggery Pokery	com.jiggerypokery.ComboHarpsichord
+Scope	Jiggery Pokery	com.jiggerypokery.ComboX705
+Scope	Jiggery Pokery	com.jiggerypokery.Itsy
+Scope	Jiggery Pokery	com.jiggerypokery.JPSHarmonicSynth
+Scope	Jiggery Pokery	com.jiggerypokery.Lolth
+Scope	Jiggery Pokery	com.jiggerypokery.Melodic
+Scope	Jiggery Pokery	com.jiggerypokery.Miranda
+Scope	Jiggery Pokery	com.jiggerypokery.Mordred
+Scope	Jiggery Pokery	com.jiggerypokery.Republik
+Scope	Jiggery Pokery	com.jiggerypokery.Shelob
+Scope	Jiggery Pokery	com.jiggerypokery.Steerpike
+Scope	Jiggery Pokery	com.jiggerypokery.Titus
+Scope	Jiggery Pokery	com.jiggerypokery.TMA1
+Scope	Jiggery Pokery	com.jiggerypokery.TMA4
+Scope	Jiggery Pokery	com.jiggerypokery.TMA9
+Scope	Joey Sturgis Tones	vst.FinA.Finality Advanced x64
+Scope	Josh Levy	com.joshlevy.KitchenSync
+Scope	Josh Levy	com.joshlevy.Synth808
+Scope	Josh Levy	com.joshlevy.TickTick
+Scope	Junger Audio / Flux::	vst.fxLe.LevelMagic
+Scope	Kazrog LLC	vst.KBaD.Bass Director x64
+Scope	Kazrog LLC	vst.KCen.Centipede x64
+Scope	Kazrog LLC	vst.KClp.KClip x64
+Scope	Kazrog LLC	vst.KCSu.KClip - Surround x64
+Scope	Kazrog LLC	vst.kMdR.masterDither x64
+Scope	Kazrog LLC	vst.kMSu.masterDither - Surround x64
+Scope	Kazrog LLC	vst.KRFZ.Ram Fuzz x64
+Scope	Kazrog LLC	vst.KStm.Stockholm x64
+Scope	Kazrog LLC	vst.KViD.Vintage Driver x64
+Scope	Kazrog LLC	vst.RCB5.Recabinet 5 x64
+Scope	Kazrog LLC	vst.T79J.Thermionik Marshland Jumpy79J x64
+Scope	Kazrog LLC	vst.T79S.Thermionik Marshland Jumpy79S x64
+Scope	Kazrog LLC	vst.T800.Thermionik Marshland 800 x64
+Scope	Kazrog LLC	vst.Td2c.Thermionik Duality 2ch x64
+Scope	Kazrog LLC	vst.Td3c.Thermionik Duality 3ch x64
+Scope	Kazrog LLC	vst.TFb1.Thermionik FB100 x64
+Scope	Kazrog LLC	vst.TFuB.Thermionik Fueled Blue x64
+Scope	Kazrog LLC	vst.TFuS.Thermionik Fueled Silver x64
+Scope	Kazrog LLC	vst.ThAB.Thermionik Amped Bass x64
+Scope	Kazrog LLC	vst.ThBa.Thermionik Bassmensch x64
+Scope	Kazrog LLC	vst.ThBl.Thermionik Blackverb x64
+Scope	Kazrog LLC	vst.ThCp.Thermionik Chimp x64
+Scope	Kazrog LLC	vst.ThDa.Thermionik Damage 120 x64
+Scope	Kazrog LLC	vst.THM4.Thermionik M4 x64
+Scope	Kazrog LLC	vst.ThOX.Thermionik Ogre Excess x64
+Scope	Kazrog LLC	vst.ThPa.Thermionik Psycho A x64
+Scope	Kazrog LLC	vst.ThPb.Thermionik Psycho B x64
+Scope	Kazrog LLC	vst.ThPc.Thermionik Psycho C x64
+Scope	Kazrog LLC	vst.ThPx.Thermionik Plexi x64
+Scope	Kazrog LLC	vst.ThSe.Thermionik Serpent x64
+Scope	Kazrog LLC	vst.ThTN.Thermionik Tangerine Nightmare x64
+Scope	Kazrog LLC	vst.TM2B.Thermionik M2B x64
+Scope	Kazrog LLC	vst.TM2C.Thermionik M2CP x64
+Scope	Kazrog LLC	vst.TM45.Thermionik Marshland 45 x64
+Scope	Kazrog LLC	vst.TM78.Thermionik Marshland Jumpy78 x64
+Scope	Kazrog LLC	vst.TOgT.Thermionik OgreTuber x64
+Scope	Kazrog LLC	vst.TSo1.Thermionik Solid 100 x64
+Scope	Kazrog LLC	vst.TSu1.Thermionik Super 1690 x64
+Scope	Kazrog LLC	vst.Tv30.Thermionik Vocal30 x64
+Scope	Kazrog LLC	vst.Tv3T.Thermionik Vocal30 TB x64
+Scope	Kazrog LLC	vst.VlvQ.ValvEQ x64
+Scope	kiloHearts	com.kilohearts.Bitcrush
+Scope	kiloHearts	com.kilohearts.Chorus
+Scope	kiloHearts	com.kilohearts.CombFilter
+Scope	kiloHearts	com.kilohearts.Compressor
+Scope	kiloHearts	com.kilohearts.Delay
+Scope	kiloHearts	com.kilohearts.Disperser
+Scope	kiloHearts	com.kilohearts.Distortion
+Scope	kiloHearts	com.kilohearts.Faturator
+Scope	kiloHearts	com.kilohearts.Filter
+Scope	kiloHearts	com.kilohearts.FormantFilter
+Scope	kiloHearts	com.kilohearts.FrequencyShifter
+Scope	kiloHearts	com.kilohearts.Gain
+Scope	kiloHearts	com.kilohearts.Gate
+Scope	kiloHearts	com.kilohearts.Haas
+Scope	kiloHearts	com.kilohearts.khsONE
+Scope	kiloHearts	com.kilohearts.LadderFilter
+Scope	kiloHearts	com.kilohearts.Limiter
+Scope	kiloHearts	com.kilohearts.PhaseDistortion
+Scope	kiloHearts	com.kilohearts.Phaser
+Scope	kiloHearts	com.kilohearts.PitchShifter
+Scope	kiloHearts	com.kilohearts.Resonator
+Scope	kiloHearts	com.kilohearts.Reverb
+Scope	kiloHearts	com.kilohearts.Reverser
+Scope	kiloHearts	com.kilohearts.RingMod
+Scope	kiloHearts	com.kilohearts.Stereo
+Scope	kiloHearts	com.kilohearts.TapeStop
+Scope	kiloHearts	com.kilohearts.TranceGate
+Scope	kiloHearts	com.kilohearts.TransientShaper
+Scope	kiloHearts	vst.kdsp.Disperser
+Scope	kiloHearts	vst.kfat.Faturator
+Scope	kiloHearts	vst.kmic.Snap Heap
+Scope	kiloHearts	vst.kmup.Multipass
+Scope	kiloHearts	vst.ksbc.kHs Bitcrush
+Scope	kiloHearts	vst.kscf.kHs Comb Filter
+Scope	kiloHearts	vst.ksch.kHs Chorus
+Scope	kiloHearts	vst.kscp.kHs Compressor
+Scope	kiloHearts	vst.ksdl.kHs Delay
+Scope	kiloHearts	vst.ksdt.kHs Distortion
+Scope	kiloHearts	vst.ksfi.kHs Filter
+Scope	kiloHearts	vst.ksfs.kHs Frequency Shifter
+Scope	kiloHearts	vst.ksgn.kHs Gain
+Scope	kiloHearts	vst.ksgt.kHs Gate
+Scope	kiloHearts	vst.ksha.kHs Haas
+Scope	kiloHearts	vst.ksla.kHs Ladder Filter
+Scope	kiloHearts	vst.kslt.kHs Limiter
+Scope	kiloHearts	vst.ksph.kHs Phaser
+Scope	kiloHearts	vst.ksps.kHs Pitch Shifter
+Scope	kiloHearts	vst.ksre.kHs Resonator
+Scope	kiloHearts	vst.ksrm.kHs Ring Mod
+Scope	kiloHearts	vst.ksrr.kHs Reverser
+Scope	kiloHearts	vst.ksst.kHs Stereo
+Scope	kiloHearts	vst.kstg.kHs Trance Gate
+Scope	kiloHearts	vst.ksts.kHs Tape Stop
+Scope	kiloHearts	vst.ksvf.kHs Formant Filter
+Scope	Kirnu	vst.2u95.Kirnu-Cream_x64
+Scope	Klanghelm	vst.DC12.DC1A2 x64
+Scope	Klanghelm	vst.DC1A.DC1A x64
+Scope	Klanghelm	vst.DC8D.DC8C2 x64
+Scope	Klanghelm	vst.IVG2.IVGI2 x64
+Scope	Klanghelm	vst.IVGI.IVGI x64
+Scope	Klanghelm	vst.MJUC.MJUC
+Scope	Klanghelm	vst.MJUj.MJUCjr x64
+Scope	Klanghelm	vst.SDR2.SDRR2 x64
+Scope	Klanghelm	vst.SDRR.SDRR x64
+Scope	Klanghelm	vst.VUMX.VUMTDeluxe x64
+Scope	Klanghelm	vst.VUTd.VUMTDuo x64
+Scope	Klanghelm	vst.VUTs.VUMTSolo x64
+Scope	Klevgrand	vst.modl.Svep
+Scope	Klevgrand	vst.Pads.Pads_x64
+Scope	Klevgrand	vst.Pjse.Syndt
+Scope	Klevgrand	vst.Ties.Tines
+Scope	Klevgrand	vst.vndl.Vandelay
+Scope	KORG	jp.co.korg.MonoPoly
+Scope	KORG	jp.co.korg.Polysix
+Scope	KORG	vst.ArpO.ARP ODYSSEY
+Scope	KORG	vst.KLCV.LegacyCell
+Scope	KORG	vst.KLFV.MDE-X x64
+Scope	KORG	vst.KLMF.MS-20FX x64
+Scope	KORG	vst.KLWV.WAVESTATION
+Scope	KResearch	vst.kF01.KR-Reverb FS
+Scope	Kuassa	com.kuassa.AmplifikationCreme
+Scope	Kuassa	com.kuassa.AmplifikationVermilion
+Scope	Kuassa	com.kuassa.CerberusBassAmp
+Scope	Kuassa	com.kuassa.EfektorCH3604
+Scope	Kuassa	com.kuassa.EfektorDS3603
+Scope	Kuassa	com.kuassa.EfektorFL3606
+Scope	Kuassa	com.kuassa.EfektorFZ3603
+Scope	Kuassa	com.kuassa.EfektorOD3603
+Scope	Kuassa	com.kuassa.EfektorPH3605
+Scope	Kuassa	com.kuassa.EfektorSilencer
+Scope	Kuassa	com.kuassa.EfektorTR3604
+Scope	Kuassa	com.kuassa.EVEAT1
+Scope	Kuassa	com.kuassa.EVEAT4
+Scope	Kuassa	com.kuassa.EVEMP5
+Scope	Kuassa	com.kuassa.Kratos2Maximizer
+Scope	Kuassa	vst.Kds3.EfektorDS3603
+Scope	Kuassa	vst.Kfz3.EfektorFZ3603
+Scope	Kuassa	vst.Kod3.EfektorOD3603
+Scope	Kuassa	vst.Ksln.EfektorSilencer
+Scope	Kuassa, Inc	vst.Kev5.EVE-MP5
+Scope	Kuassa, Inc.	vst.KbsQ.basiQ
+Scope	Kuassa, Inc.	vst.Kev1.EVE-AT1
+Scope	Kuassa, Inc.	vst.Kev4.EVE-AT4
+Scope	Kuassa, Inc.	vst.KSAc.AmplifikationCreme
+Scope	Kuassa, Inc.	vst.KSAv.AmplifikationVermilion
+Scope	Kuassa, Inc.	vst.KSCb.CerberusBassAmp
+Scope	Kuassa, Inc.	vst.KSK2.Kratos2Maximizer
+Scope	Kush Audio	vst.Clr2.Clariphonic DSP MKII
+Scope	Kush Audio	vst.Elec.Electra DSPx64
+Scope	Kush Audio	vst.Hmmr.Hammer DSP
+Scope	Kush Audio	vst.OmeA.Omega A
+Scope	Kush Audio	vst.OmeN.Omega N
+Scope	Kush Audio	vst.Push.Pusherx64
+Scope	Kush Audio	vst.ubk1.Kush UBK-1x64
+Scope	KV331 Audio	vst.Sm1i.SynthMasterOne
+Scope	KV331 Audio	vst.Sm2f.SynthMaster2FX
+Scope	LAB ONE Recordings	co.uk.labonerecordings.BattleAxe
+Scope	LAB ONE Recordings	co.uk.labonerecordings.BlackKnightEq
+Scope	LAB ONE Recordings	co.uk.labonerecordings.Executioner
+Scope	LAB ONE Recordings	co.uk.labonerecordings.MaceProComp
+Scope	LAB ONE Recordings	co.uk.labonerecordings.RedQueenEQ
+Scope	LAB ONE Recordings	co.uk.labonerecordings.ReQ131
+Scope	LaboratoriaIT.RU, LLC	ru.laboratoriait.AudioToCV
+Scope	LaboratoriaIT.RU, LLC	ru.laboratoriait.Filter
+Scope	Lectric Panda LLC	com.lectricpanda.AMP
+Scope	Lectric Panda LLC	com.lectricpanda.CVP
+Scope	Lectric Panda LLC	com.lectricpanda.Fritz
+Scope	Lectric Panda LLC	com.lectricpanda.Janitor
+Scope	Lectric Panda LLC	com.lectricpanda.Kompulsion
+Scope	Lectric Panda LLC	com.lectricpanda.Korde
+Scope	Lectric Panda LLC	com.lectricpanda.LPM
+Scope	Lectric Panda LLC	com.lectricpanda.MoPol
+Scope	Lectric Panda LLC	com.lectricpanda.Nostromo
+Scope	Lectric Panda LLC	com.lectricpanda.Propulsion
+Scope	Lectric Panda LLC	com.lectricpanda.PSQ1684
+Scope	Lectric Panda LLC	com.lectricpanda.RND_2
+Scope	Lectric Panda LLC	com.lectricpanda.Rostnomo
+Scope	Lectric Panda LLC	com.lectricpanda.Shape
+Scope	Lectric Panda LLC	com.lectricpanda.Skope
+Scope	Lectric Panda LLC	com.lectricpanda.SkopeM4
+Scope	Lectric Panda LLC	com.lectricpanda.Spektrum
+Scope	Lectric Panda LLC	com.lectricpanda.UTL
+Scope	LePou plugins	vst.HYBT.HyBrit
+Scope	LePou plugins	vst.LECT.LeCto
+Scope	LePou plugins	vst.LGIO.LeGion
+Scope	LePou plugins	vst.LQCS.Le456
+Scope	LePou plugins	vst.LXTC.LeXtac
+Scope	Lexicon	vst.Lch1.LexConcertHall x64
+Scope	Lexicon	vst.Lcm1.LexChamber x64
+Scope	Lexicon	vst.Lcr1.LexChorus x64
+Scope	Lexicon	vst.Ldd1.LexDualDelay x64
+Scope	Lexicon	vst.Lhl1.LexHall x64
+Scope	Lexicon	vst.Lmp1.LexMultivoicePitch x64
+Scope	Lexicon	vst.Lpl0.LexVintagePlate x64
+Scope	Lexicon	vst.Lpl1.LexPlate x64
+Scope	Lexicon	vst.Lrc1.LexResonantChords x64
+Scope	Lexicon	vst.Lrd1.LexRandomDelay x64
+Scope	Lexicon	vst.Lrh1.LexRandomHall x64
+Scope	Lexicon	vst.Lrm1.LexRoom x64
+Scope	Lexicon	vst.Mcm1.LXPChamber x64
+Scope	Lexicon	vst.Mhl1.LXPHall x64
+Scope	Lexicon	vst.Mpl1.LXPPlate x64
+Scope	Lexicon	vst.Mrm1.LXPRoom x64
+Scope	Lexicon	vst.Nbr1.MPXNativeReverb x64
+Scope	Lexicon	vst.Sbx1.LexStringBox x64
+Scope	Lightbridge	vst.Sign.Signalizer x64
+Scope	Line 6, Inc.	vst.6BFV.POD Farm Bass Amps (x64)
+Scope	Line 6, Inc.	vst.6DFV.POD Farm Distortions (x64)
+Scope	Line 6, Inc.	vst.6FFV.POD Farm Filters (x64)
+Scope	Line 6, Inc.	vst.6GFV.POD Farm Guitar Amps (x64)
+Scope	Line 6, Inc.	vst.6LFV.POD Farm Delays (x64)
+Scope	Line 6, Inc.	vst.6MFV.POD Farm Mods (x64)
+Scope	Line 6, Inc.	vst.6P2V.POD Farm 2 (x64)
+Scope	Line 6, Inc.	vst.6RFV.POD Farm Preamps + EQ (x64)
+Scope	Line 6, Inc.	vst.6TFV.POD Farm Tuner (x64)
+Scope	Line 6, Inc.	vst.6VFV.POD Farm Reverbs (x64)
+Scope	Line 6, Inc.	vst.6WFV.POD Farm Wahs (x64)
+Scope	LinPlug	vst.C2x3.CronoX3Stereo 64
+Scope	LinPlug	vst.Crx3.CronoX3 64
+Scope	LinPlug	vst.CrX4.CrX4
+Scope	LinPlug	vst.g7U0.Albino3 64
+Scope	LinPlug	vst.LINP.Alpha 64
+Scope	LinPlug	vst.LSP1.Spectral
+Scope	LinPlug	vst.LwA5.MorphoX 64
+Scope	LinPlug	vst.LwP0.relectro x64
+Scope	LinPlug	vst.r8iP.Organ3 64
+Scope	LinPlug	vst.SX2u.SaxLab2 64
+Scope	LiquidSonics	vst.834p.Reverberate-x64
+Scope	Little Endian	vst.LESW.SpectrumWorx
+Scope	Little IO	org.tytel.littlelfo
+Scope	lkjb	vst.lklK.lkjb_Luftikus_x64
+Scope	lkjb	vst.LkRf.lkjb_ReFine_x64
+Scope	lkjb	vst.LKsp.lkjb_SuperSpread_x64
+Scope	Loomer	vst.Lmab.ManifoldVST64
+Scope	Loomer	vst.Lmac.ResoundVST64
+Scope	Loomer	vst.Lmae.StringVST64
+Scope	Loomer	vst.Lmaf.SequentVST64
+Scope	Loomer	vst.Lmah.Shift2VST64
+Scope	Loomer	vst.Lmai.CumulusVST64
+Scope	Loomer	vst.Lxae.StringVST64_FX
+Scope	Lostin70s	vst.tdlx.ToneDeluxe_x64_Release
+Scope	Lostins70s	vst.JamG.JAMP_x64_GUI
+Scope	LoveOne	se.loveone.Bakelite
+Scope	LoveOne	se.loveone.BZR1
+Scope	LoveOne	se.loveone.MIDICompressor
+Scope	LoveOne	se.loveone.MIDICVConverter
+Scope	LoveOne	se.loveone.Neutron
+Scope	LoveOne	se.loveone.Protron
+Scope	LoveOne	se.loveone.Vibro
+Scope	LVC-Audio	vst.aX4t.Toned_x64
+Scope	Madrona Labs	vst.Vrta.Virta_x64
+Scope	MagmaSonic	drno.magmasonic.ClassicFilter
+Scope	Marco Ortali (Mark Walter)	vst.Wdll.WalterDelayer_x64
+Scope	Markbass	vst.Mbs1.Mark Studio 1-64
+Scope	Martinic	vst.3ilm.Martinic Scanner Vibrato
+Scope	Martinic	vst.682v.ComboV
+Scope	Martinic	vst.72e1.ComboF
+Scope	Mathew Lane	vst.DMS4.DrMSv4 x64
+Scope	Mathew Lane	vst.Stde.StereoDelta x64
+Scope	Mathieu Demange	fr.mathieudemange.RYM2612
+Scope	Matt Tytel	vst.Helm.helm64
+Scope	MatthieuBrucher	vst.3ybj.ATKUniversalDelay x64
+Scope	MatthieuBrucher	vst.jsby.ATKStereoUniversalDelay x64
+Scope	MatthieuBrucher	vst.utfb.ATKUniversalVariableDelay x64
+Scope	MatthieuBrucher	vst.yvp0.ATKTransientSplitter x64
+Scope	McDSP	com.mcdsp.C670
+Scope	McDSP	com.mcdsp.E670
+Scope	McDSP	com.mcdsp.FRG4RE
+Scope	McDSP	com.mcdsp.FRGEEE
+Scope	McDSP	com.mcdsp.FutzBox
+Scope	McDSP	com.mcdsp.MooQ
+Scope	McDSP	com.mcdsp.MooTube
+Scope	McDSP	vst.4020.4020_Retro_EQ_x64
+Scope	McDSP	vst.4030.4030_Retro_Comp_x64
+Scope	McDSP	vst.AC01.Analog_Channel_AC101_x64
+Scope	McDSP	vst.AC02.Analog_Channel_AC202_x64
+Scope	McDSP	vst.CB01.CompressorBank_CB101_x64
+Scope	McDSP	vst.CB02.CompressorBank_CB202_x64
+Scope	McDSP	vst.CB03.CompressorBank_CB303_x64
+Scope	McDSP	vst.CBUC.6030_Ultimate_Comp_x64
+Scope	McDSP	vst.CBUE.6020_Ultimate_EQ_x64
+Scope	McDSP	vst.CGCP.Channel_G_Compact_x64
+Scope	McDSP	vst.CSUC.6050_Ultimate_CS_x64
+Scope	McDSP	vst.D555.DE555_x64
+Scope	McDSP	vst.E606.FilterBank_E606_x64
+Scope	McDSP	vst.F202.FilterBank_F202_x64
+Scope	McDSP	vst.Futz.FutzBox_x64
+Scope	McDSP	vst.GDyn.Channel_G_Dyn_x64
+Scope	McDSP	vst.GEQQ.Channel_G_EQ_x64
+Scope	McDSP	vst.MC02.MC2000_MC202_x64
+Scope	McDSP	vst.MC03.MC2000_MC303_x64
+Scope	McDSP	vst.MC04.MC2000_MC404_x64
+Scope	McDSP	vst.McA6.AE600_Active_EQ_x64
+Scope	McDSP	vst.McAE.AE400_Active_EQ_x64
+Scope	McDSP	vst.McDP.4040_Retro_Limiter_x64
+Scope	McDSP	vst.McS2.SPC2000_SPC202_x64
+Scope	McDSP	vst.McS3.SPC2000_SPC303_x64
+Scope	McDSP	vst.McS4.SPC2000_SPC404_x64
+Scope	McDSP	vst.MML1.ML4000_ML1_x64
+Scope	McDSP	vst.MML4.ML4000_ML4_x64
+Scope	McDSP	vst.MML8.ML8000_x64
+Scope	McDSP	vst.MSA2.SA2_Dialog_Processor_x64
+Scope	McDSP	vst.N575.NF575_x64
+Scope	McDSP	vst.P606.FilterBank_P606_x64
+Scope	McDSP	vst.Rvlr.Revolver_x64
+Scope	Meeker FX	com.meekerfx.DejaVu
+Scope	MeldaProduction	vst.1157.MMultiBandPhaser x64
+Scope	MeldaProduction	vst.44d7.MMultiBandReverb x64
+Scope	MeldaProduction	vst.gx74.MMultiBandAutopan x64
+Scope	MeldaProduction	vst.gx75.MMultiBandDelay x64
+Scope	MeldaProduction	vst.MA%24%24.MStereoProcessor x64
+Scope	MeldaProduction	vst.MA%249.MSpectralDynamics x64
+Scope	MeldaProduction	vst.MA%24q.MSpectralDynamicsMini x64
+Scope	MeldaProduction	vst.MA%7E2.MAutoEqualizerLinearPhase x64
+Scope	MeldaProduction	vst.MAAa.MAutoAlign x64
+Scope	MeldaProduction	vst.MAdy.MDynamicsLimiter x64
+Scope	MeldaProduction	vst.MAe%24.MDynamics x64
+Scope	MeldaProduction	vst.MAE%26.MFlanger x64
+Scope	MeldaProduction	vst.MAe%28.MMultiBandDynamics x64
+Scope	MeldaProduction	vst.MAe%29.MMultiBandLimiter x64
+Scope	MeldaProduction	vst.MAe%60.MMultiBandDynamicsLarge x64
+Scope	MeldaProduction	vst.MAe%7E.MAutoEqualizer x64
+Scope	MeldaProduction	vst.MAe0.MAutopan x64
+Scope	MeldaProduction	vst.MAe1.MCompressor x64
+Scope	MeldaProduction	vst.MAe3.MEqualizer x64
+Scope	MeldaProduction	vst.MAe4.MLimiter x64
+Scope	MeldaProduction	vst.MAe5.MPhaser x64
+Scope	MeldaProduction	vst.MAe6.MRingModulator x64
+Scope	MeldaProduction	vst.MAe7.MTremolo x64
+Scope	MeldaProduction	vst.MAe8.MVibrato x64
+Scope	MeldaProduction	vst.MAe9.MWaveShaper x64
+Scope	MeldaProduction	vst.MAea.MStereoExpander x64
+Scope	MeldaProduction	vst.MAeb.MAnalyzer x64
+Scope	MeldaProduction	vst.MAeF.MFreqShifter x64
+Scope	MeldaProduction	vst.MAej.MEqualizerLinearPhase x64
+Scope	MeldaProduction	vst.MAeQ.MFreeformEqualizer x64
+Scope	MeldaProduction	vst.MAer.MReverb x64
+Scope	MeldaProduction	vst.Magc.MAGC x64
+Scope	MeldaProduction	vst.MAMF.MMultiBandFreqShifter x64
+Scope	MeldaProduction	vst.MAmp.MAmp x64
+Scope	MeldaProduction	vst.MAmx.MUltraMaximizer x64
+Scope	MeldaProduction	vst.MauT.MAutoPitch x64
+Scope	MeldaProduction	vst.MAuv.MAutoVolume x64
+Scope	MeldaProduction	vst.MBa%40.MBandPass x64
+Scope	MeldaProduction	vst.MBas.MBassador x64
+Scope	MeldaProduction	vst.MbBF.MMultiBandBitFun x64
+Scope	MeldaProduction	vst.MBiF.MBitFun x64
+Scope	MeldaProduction	vst.MChM.MChannelMatrix x64
+Scope	MeldaProduction	vst.MChr.MCharacter x64
+Scope	MeldaProduction	vst.MCmp.MCompare x64
+Scope	MeldaProduction	vst.MCom.MComb x64
+Scope	MeldaProduction	vst.MDEn.MDrumEnhancer x64
+Scope	MeldaProduction	vst.Mdis.MMultiBandDistortion x64
+Scope	MeldaProduction	vst.MDrL.MDrumLeveler x64
+Scope	MeldaProduction	vst.MdyA.MAutoDynamicEq x64
+Scope	MeldaProduction	vst.MdyQ.MDynamicEq x64
+Scope	MeldaProduction	vst.MFAe.MFreeformAnalogEq x64
+Scope	MeldaProduction	vst.MFTr.MTransformer x64
+Scope	MeldaProduction	vst.MLan.MLoudnessAnalyzer x64
+Scope	MeldaProduction	vst.MMAn.MMultiAnalyzer x64
+Scope	MeldaProduction	vst.MMBF.MMultiBandFlanger x64
+Scope	MeldaProduction	vst.MMBL.MMultiBandSaturator x64
+Scope	MeldaProduction	vst.MMch.MMultiBandChorus x64
+Scope	MeldaProduction	vst.MMCO.MMultiBandConvolution x64
+Scope	MeldaProduction	vst.MMGr.MMultiBandGranular x64
+Scope	MeldaProduction	vst.MMoC.MModernCompressor x64
+Scope	MeldaProduction	vst.MMor.MMorph x64
+Scope	MeldaProduction	vst.Mmrm.MMultiBandRingModulator x64
+Scope	MeldaProduction	vst.Mmtm.MMultiBandTremolo x64
+Scope	MeldaProduction	vst.MMtr.MMultiBandTransient x64
+Scope	MeldaProduction	vst.MmVi.MMultiBandVibrato x64
+Scope	MeldaProduction	vst.MmWf.MMultiBandWaveFolder x64
+Scope	MeldaProduction	vst.MmWs.MMultiBandWaveShaper x64
+Scope	MeldaProduction	vst.MNoi.MNoiseGenerator x64
+Scope	MeldaProduction	vst.MNot.MNotepad x64
+Scope	MeldaProduction	vst.MOs%2B.MOscillator x64
+Scope	MeldaProduction	vst.MOsS.MOscilloscope x64
+Scope	MeldaProduction	vst.MPha.MPhatik x64
+Scope	MeldaProduction	vst.MPoS.MPolySaturator x64
+Scope	MeldaProduction	vst.MRat.MRatio x64
+Scope	MeldaProduction	vst.MRec.MRecorder x64
+Scope	MeldaProduction	vst.MRh%21.MMultiBandRhythmizer x64
+Scope	MeldaProduction	vst.MRhy.MRhythmizer x64
+Scope	MeldaProduction	vst.MRot.MRotary x64
+Scope	MeldaProduction	vst.MSSc.MStereoScope x64
+Scope	MeldaProduction	vst.MStG.MStereoGenerator x64
+Scope	MeldaProduction	vst.MStS.MStereoSpread x64
+Scope	MeldaProduction	vst.MTra.MTransient x64
+Scope	MeldaProduction	vst.MTuC.MTurboComp x64
+Scope	MeldaProduction	vst.MTuE.MTurboEQ x64
+Scope	MeldaProduction	vst.MTun.MTuner x64
+Scope	MeldaProduction	vst.MUni.MUnison x64
+Scope	MeldaProduction	vst.Muti.MUtility x64
+Scope	MeldaProduction	vst.MVoc.MVocoder x64
+Scope	MeldaProduction	vst.MVRo.MVintageRotary x64
+Scope	MeldaProduction	vst.MWaF.MWaveFolder x64
+Scope	MeldaProduction	vst.MWob.MWobbler x64
+Scope	MeldaProduction	vst.MXXX.MXXX x64
+Scope	Mercuriall	vst.TSC2.TSC 1_1 x64
+Scope	Mercuriall	vst.U53M.U530 CME x64
+Scope	MGSoft Audio Software	com.mikegazzaruso.Threeloo
+Scope	MGSoft Audio Software	com.mikegazzaruso.Unifylter
+Scope	Michael Ourednik	vst.ARG1.argotlunar
+Scope	Mildon	vst.S2v3.Sekai 80 Compressor v1_0_0_8 x64
+Scope	MLVST	vst.PG8X.PG-8X
+Scope	MOK	vst.WRAZ.Waverazor
+Scope	Monoplugs	vst.moni.Monique
+Scope	mucoder	vst.MU02.tonespace_64
+Scope	mucoder	vst.MU04.hypercyclic_64
+Scope	Multi-D	nl.multid.CVMutant
+Scope	Musical Entropy	vst.Fnw0.Spaceship Delay
+Scope	Musical Entropy	vst.GGAD.GuitarGadgets64
+Scope	Native Instruments GmbH	vst.Clm6.Absynth 5 FX
+Scope	Native Instruments GmbH	vst.Clm7.Absynth 5 FX Surround
+Scope	Native Instruments GmbH	vst.Ni%24%3A.Enhanced EQ
+Scope	Native Instruments GmbH	vst.Ni%24%3B.Vari Comp
+Scope	Native Instruments GmbH	vst.Ni%24%3D.Driver
+Scope	Native Instruments GmbH	vst.Ni%24%3E.RC 24
+Scope	Native Instruments GmbH	vst.Ni%24%3F.RC 48
+Scope	Native Instruments GmbH	vst.Ni%24%40.Supercharger
+Scope	Native Instruments GmbH	vst.Ni%242.VC 160
+Scope	Native Instruments GmbH	vst.Ni%243.VC 2A
+Scope	Native Instruments GmbH	vst.Ni%244.VC 76
+Scope	Native Instruments GmbH	vst.Ni%245.Transient Master
+Scope	Native Instruments GmbH	vst.Ni%246.Solid Bus Comp
+Scope	Native Instruments GmbH	vst.Ni%247.Solid Dynamics
+Scope	Native Instruments GmbH	vst.Ni%248.Solid EQ
+Scope	Native Instruments GmbH	vst.Ni%249.Passive EQ
+Scope	Native Instruments GmbH	vst.Ni%24A.Supercharger GT
+Scope	Native Instruments GmbH	vst.Ni%24B.Replika
+Scope	Native Instruments GmbH	vst.Ni%24C.Replika XT
+Scope	Native Instruments GmbH	vst.Ni%868.FM8 FX
+Scope	Native Instruments GmbH	vst.NiM2.Maschine 2
+Scope	Native Instruments GmbH	vst.NR6j.Reaktor 6 FX
+Scope	ng Green Door, Inc.	com.flyinggreendoor.HaasMixer
+Scope	NickCrowLab	vst.N71L.NC_7170_Lead_x64
+Scope	NickCrowLab	vst.N85L.NC_8505_Lead_x64
+Scope	NickCrowLab	vst.TDnc.TubeDriver_x64
+Scope	NickCrowLab	vst.wspr.WagnerSharp_x64
+Scope	Nicky Romero	vst.CNKS.Kickstart x64
+Scope	nofish Productions	vst.nFs1.My First Synth_x64
+Scope	Noise Engineering	us.noiseengineering.BI
+Scope	Noise Engineering	us.noiseengineering.BIV
+Scope	Noise Engineering	us.noiseengineering.CIV
+Scope	Noise Engineering	us.noiseengineering.LIP
+Scope	Noise Engineering	us.noiseengineering.LIV
+Scope	Noise Engineering	us.noiseengineering.MI
+Scope	Noise Engineering	us.noiseengineering.MIV
+Scope	Noise Engineering	us.noiseengineering.SIV
+Scope	Noise Makers	vst.NmAC.AmbiConverter
+Scope	Noise Makers	vst.NmAH.AmbiHead
+Scope	Noise Makers	vst.NmAL.AmbiLimiter
+Scope	Noise Makers	vst.NmTo.TapeOne
+Scope	Noise Makers	vst.NoAP.AmbiPan
+Scope	Noise Makers	vst.NoBs.Binauralizer
+Scope	Noise Makers	vst.SiMa.Siren
+Scope	Nomad Factory	vst.9063.EQ 9063B AllTech x64
+Scope	Nomad Factory	vst.ALev.AMT Amp Leveling x64
+Scope	Nomad Factory	vst.AmWm.AMT Max Warm x64
+Scope	Nomad Factory	vst.ARck.AS-Rack x64
+Scope	Nomad Factory	vst.ASBC.AS-BusComp x64
+Scope	Nomad Factory	vst.ASCP.AS-Comp x64
+Scope	Nomad Factory	vst.ASGT.AS-Gate x64
+Scope	Nomad Factory	vst.ASPA.AS-PreAmp x64
+Scope	Nomad Factory	vst.ASPE.AS-PulseEq x64
+Scope	Nomad Factory	vst.ASSE.AS-StateEq x64
+Scope	Nomad Factory	vst.ASXC.AS-Exciter x64
+Scope	Nomad Factory	vst.BQ2S.BT Equalizer BQ2S-3 x64
+Scope	Nomad Factory	vst.Bvrb.BlueVerb DRV-2080 x64
+Scope	Nomad Factory	vst.BX2S.BT Equalizer BX2S-3 x64
+Scope	Nomad Factory	vst.CHv3.BT Analog Chorus CH2S-3 x64
+Scope	Nomad Factory	vst.COSM.COSMOS x64
+Scope	Nomad Factory	vst.CPv3.BT Compressor CP2S-3 x64
+Scope	Nomad Factory	vst.DRMT.DrumTools x64
+Scope	Nomad Factory	vst.DRv3.BT ValveDriver ADR2S-3 x64
+Scope	Nomad Factory	vst.DSv3.BT DeEsser DS2S-3 x64
+Scope	Nomad Factory	vst.EBRV.E-RetroVox x64
+Scope	Nomad Factory	vst.ECHO.ECHOES x64
+Scope	Nomad Factory	vst.EGEQ.E-Graphic EQ x64
+Scope	Nomad Factory	vst.EGEX.E-Gate Expander x64
+Scope	Nomad Factory	vst.ESCP.E-Compressor x64
+Scope	Nomad Factory	vst.FAv3.BT Compressor FA770-3 x64
+Scope	Nomad Factory	vst.GAmp.ROCK AMP LEGENDS x64
+Scope	Nomad Factory	vst.GEQ2.BT Equalizer GEQ12-3 x64
+Scope	Nomad Factory	vst.GX62.BT ExpanderGate GX622-3 x64
+Scope	Nomad Factory	vst.HBC3.E-3B Compressor x64
+Scope	Nomad Factory	vst.HBL1.E-Maximizer x64
+Scope	Nomad Factory	vst.HBmc.E-Channel x64
+Scope	Nomad Factory	vst.HBTW.E-TubeTape Warmer x64
+Scope	Nomad Factory	vst.Lcmp.Liquid Compressor II x64
+Scope	Nomad Factory	vst.Ldy2.Liquid Delays II x64
+Scope	Nomad Factory	vst.Lgex.Liquid Gate II x64
+Scope	Nomad Factory	vst.LMAS.LM Amplifier LM-662 x64
+Scope	Nomad Factory	vst.Lmod.Liquid Mod II x64
+Scope	Nomad Factory	vst.LMv3.BT Limiter LM2S-3 x64
+Scope	Nomad Factory	vst.Lph2.Liquid Phase II x64
+Scope	Nomad Factory	vst.Lrv2.LiquidVerb II x64
+Scope	Nomad Factory	vst.MAG2.MAGNETIC II x64
+Scope	Nomad Factory	vst.MBL1.E-3B Maximizer x64
+Scope	Nomad Factory	vst.MGFX.MFX-MAGMA x64
+Scope	Nomad Factory	vst.mMax.AMT Multi-Max x64
+Scope	Nomad Factory	vst.NFBD.BusDriver x64
+Scope	Nomad Factory	vst.NQ81.British NEQ-1972 x64
+Scope	Nomad Factory	vst.Ntec.PulseTec EQs x64
+Scope	Nomad Factory	vst.NTLC.British MCL-2269 x64
+Scope	Nomad Factory	vst.PEQ3.BT Equalizer PEQ322-3 x64
+Scope	Nomad Factory	vst.peq4.Program EQP-4 x64
+Scope	Nomad Factory	vst.PEQ5.BT Equalizer PEQ5B-3 x64
+Scope	Nomad Factory	vst.PEQB.BT Equalizer PEQ2B-3 x64
+Scope	Nomad Factory	vst.PHv3.BT Analog Phaser APH2S-3 x64
+Scope	Nomad Factory	vst.RFT_.Retro Film-Tone x64
+Scope	Nomad Factory	vst.RMT_.Retro Music-Tone x64
+Scope	Nomad Factory	vst.sC26.Studio Channel SC-226 x64
+Scope	Nomad Factory	vst.SP80.80s Spaces
+Scope	Nomad Factory	vst.Stv3.BT Stereo Imager ST2S-3 x64
+Scope	Nomad Factory	vst.TAP1.MAGNETIC x64
+Scope	Nomad Factory	vst.TDv3.BT Tempo Delay DL3D-3 x64
+Scope	Nomad Factory	vst.TEv3.BT Oilcan Echo TLE2S-3 x64
+Scope	Nomad Factory	vst.TrBx.BT Analog TrackBox x64
+Scope	Normen Hansen	de.normenhansen.vmg01
+Scope	Novation	vst.NvS0.V-Station
+Scope	NSP	vst.82o%00.od82o_x64
+Scope	NSP	vst.BB%00%00.BlackBooster_x64
+Scope	NSP	vst.Wahm.Wahman_x64
+Scope	Nucleus SoundLab	com.nucleussoundlab.Beat_Crush
+Scope	NUGEN Audio	vst.IT%B20.NUGEN ISL2_7_1 64bit
+Scope	NUGEN Audio	vst.IT20.NUGEN ISL2-ST 64bit
+Scope	NUGEN Audio	vst.ITr0.NUGEN ISL2_5_1 64bit
+Scope	NUGEN Audio	vst.MGLT.NUGEN Monofilter4 64bit
+Scope	NUGEN Audio	vst.NTP3.NUGEN Stereoplacer3 64bit
+Scope	NUGEN Audio	vst.NW%8D2.NUGEN VisLM2_5_1 64bit
+Scope	NUGEN Audio	vst.NW%CD2.NUGEN VisLM2_7_1 64bit
+Scope	NUGEN Audio	vst.NWM2.NUGEN VisLM2 64bit
+Scope	NUGEN Audio	vst.PT00.NUGEN Send 64bit
+Scope	NUGEN Audio	vst.ST%B00.NUGEN SEQ-S_7_1 64bit
+Scope	NUGEN Audio	vst.ST00.NUGEN SEQ-ST 64bit
+Scope	NUGEN Audio	vst.STp0.NUGEN SEQ-S_5_1 64bit
+Scope	NUGEN Audio	vst.SUZR.NUGEN Stereoizer3 64bit
+Scope	NUGEN Audio	vst.UQ%D80.NUGEN Halo Upmix_7_1 64bit
+Scope	NUGEN Audio	vst.UQX0.NUGEN Halo Upmix 64bit
+Scope	NUGEN Audio	vst.V%5BR2.NUGEN Visualizer2 64bit
+Scope	Numerical Sound	com.numericalSound.BassTiltFilters
+Scope	Numerical Sound	com.numericalSound.MidrangeTiltFilters
+Scope	Numerical Sound	com.numericalSound.ReBassNarrow
+Scope	Numerical Sound	com.numericalSound.ReBassWide
+Scope	Numerical Sound	com.numericalSound.ReStereo
+Scope	Numerical Sound	com.numericalSound.RiVerbHalls
+Scope	Numerical Sound	com.numericalSound.RiVerbUpFrontSpaces
+Scope	Numerical Sound	com.numericalSound.ToneMutations
+Scope	Numerical Sound	com.numericalSound.ToneMutationsVocals
+Scope	Numerical Sound	com.numericalSound.TrebleTiltFilters
+Scope	nusofting.com	vst.Bffi.Bit_Fluzer_x64
+Scope	nusofting.com	vst.nish.Noisetar_x64
+Scope	nusofting.com	vst.sinh.Sinnah_x64
+Scope	Oblivion Sound Lab	vst.OSL1.OSL-Chorus-x64
+Scope	Ochen K.	com.ochenk.4MER
+Scope	Ochen K.	com.ochenk.ASeriesModularSynth1
+Scope	Ochen K.	com.ochenk.ASeriesModularSynth2
+Scope	Ochen K.	com.ochenk.CarveEQ
+Scope	Ochen K.	com.ochenk.Chip64
+Scope	Ochen K.	com.ochenk.CVTuner
+Scope	Ochen K.	com.ochenk.Driver
+Scope	Ochen K.	com.ochenk.EDS06sDrumSynth
+Scope	Ochen K.	com.ochenk.GlitchEffect
+Scope	Ochen K.	com.ochenk.MicroTune
+Scope	Ochen K.	com.ochenk.PCV
+Scope	Ochen K.	com.ochenk.PDT				
+Scope	Ochen K.	com.ochenk.Repeat
+Scope	Oculus	vst.OcuL.OculusSpatializer
+Scope	Oenkenstein Audio	com.wordpress.oenkenstein.RK1
+Scope	Oenkenstein Audio	nl.oenkenstein.RK2B
+Scope	Olaf Matthes, www.nullmedium.de	vst.VlMr.RIAA
+Scope	omino	com.omino.wbl3001
+Scope	omino	com.omino.wbl5515
+Scope	One Small Clue	vst.6D83.Poise
+Scope	Overloud	vst.BVB2.BREVERB 2-64
+Scope	Overloud	vst.MS-2.Mark Studio 2-64
+Scope	Overloud	vst.SPAG.SpringAge-64
+Scope	Overloud	vst.TH-2.TH2-64
+Scope	Overloud	vst.TH-3.TH3-64
+Scope	Overloud	vst.VKFX.Vintage Keyboard FX-64
+Scope	Overloud	vst.VKPA.VKFX Amp-64
+Scope	Overloud	vst.VKPD.VKFX Delay-64
+Scope	Overloud	vst.VKPH.VKFX Chorus-64
+Scope	Overloud	vst.VKPO.VKFX Overdrive-64
+Scope	Overloud	vst.VKPP.VKFX Phaser-64
+Scope	Overloud	vst.VKPW.VKFX Wah-64
+Scope	Overloud - MoReVoX	vst.RmTx.REmatrix-64
+Scope	Oxe Music Software	vst.OXFM.oxevst64
+Scope	Pe4eneg	vst.Ipef.PechenegTremolo
+Scope	Peff	com.peff.Alias8cv
+Scope	Peff	com.peff.Buffre
+Scope	Peff	com.peff.crapre
+Scope	Peff	com.peff.crapre2
+Scope	Peff	com.peff.CRAPREnumber2
+Scope	Peff	com.peff.Directre
+Scope	Peff	com.peff.Spacre
+Scope	Pepin Hazan	com.pepinhazan.FRONT8
+Scope	Pepin Hazan	com.pepinhazan.RVL1Display
+Scope	PinkNoise Studio	com.pinknoisestudio.Luna
+Scope	Pitchblende	nz.co.pitchblende.AutoTheory
+Scope	Plainweave Software	vst.JOPL.JuceOPLVSTi x64
+Scope	Plogue Art et Technologie, Inc	vst.PLGO.chipsounds VST_x64
+Scope	Plogue Art et Technologie, Inc	vst.PLGP.chipcrusher VST_x64
+Scope	Plogue Art et Technologie, Inc	vst.PLGQ.sforzando VST_x64
+Scope	Plogue Art et Technologie, Inc	vst.PLGS.chipspeech VST_x64
+Scope	Plogue Art et Technologie, Inc	vst.PLGU.AlterEgo VST_x64
+Scope	Plogue Art et Technologie, Inc	vst.PMGO.chipsounds Multi VST_x64
+Scope	Plugin Alliance	vst.alp1.elysia alpha mix x64
+Scope	Plugin Alliance	vst.alp2.elysia alpha master x64
+Scope	Plugin Alliance	vst.bd2m.bx_digital V2 Mono x64
+Scope	Plugin Alliance	vst.bdq2.bx_dynEQ V2 x64
+Scope	Plugin Alliance	vst.bxa2.bx_saturator V2 x64
+Scope	Plugin Alliance	vst.bxbm.bx_boom x64
+Scope	Plugin Alliance	vst.bxc2.bx_control V2 x64
+Scope	Plugin Alliance	vst.bxd2.bx_digital V2 x64
+Scope	Plugin Alliance	vst.bxgm.bx_shredspread x64
+Scope	Plugin Alliance	vst.bxhm.bx_hybrid V2 mix x64
+Scope	Plugin Alliance	vst.bxhs.bx_hybrid V2 x64
+Scope	Plugin Alliance	vst.BXL2.bx_XL V2 x64
+Scope	Plugin Alliance	vst.bxlm.bx_limiter x64
+Scope	Plugin Alliance	vst.bxmt.bx_meter x64
+Scope	Plugin Alliance	vst.bxrf.bx_refinement x64
+Scope	Plugin Alliance	vst.bxrr.bx_rockrack x64
+Scope	Plugin Alliance	vst.bxs2.bx_cleansweep V2 x64
+Scope	Plugin Alliance	vst.bxsa.bx_saturator x64
+Scope	Plugin Alliance	vst.bxsl.bx_solo x64
+Scope	Plugin Alliance	vst.bxsm.bx_stereomaker x64
+Scope	Plugin Alliance	vst.dq2m.bx_dynEQ V2 Mono x64
+Scope	Plugin Alliance	vst.LBc2.Lindell 7X-500 x64
+Scope	Plugin Alliance	vst.LBc3.Lindell 254E x64
+Scope	Plugin Alliance	vst.LBe1.Lindell PEX-500 x64
+Scope	Plugin Alliance	vst.LBp2.Lindell 6X-500 x64
+Scope	Plugin Alliance	vst.LCS1.Lindell ChannelX x64
+Scope	Plugin Alliance	vst.MEQ4.Maag EQ4 x64
+Scope	Plugin Alliance	vst.mpr2.elysia mpressor x64
+Scope	Plugin Alliance	vst.mprs.elysia mpressor sc x64
+Scope	Plugin Alliance	vst.mus1.elysia museq mix x64
+Scope	Plugin Alliance	vst.mus2.elysia museq master x64
+Scope	Plugin Alliance	vst.NTCH.Noveltech Character x64
+Scope	Plugin Alliance	vst.NTVE.Noveltech Vocal Enhancer x64
+Scope	Plugin Alliance	vst.nvft.elysia niveau filter x64
+Scope	Plugin Alliance	vst.PDNS.Dynamic Spectrum Mapper V2 x64
+Scope	Plugin Alliance	vst.snDM.Unfiltered Audio Sandman x64
+Scope	Plugin Alliance	vst.SPAT.SPL Attacker x64
+Scope	Plugin Alliance	vst.SPBR.SPL Bass Ranger x64
+Scope	Plugin Alliance	vst.SPD1.SPL De-Esser x64
+Scope	Plugin Alliance	vst.SPD2.SPL De-Esser Dual-Band x64
+Scope	Plugin Alliance	vst.SPDV.SPL De-Verb x64
+Scope	Plugin Alliance	vst.SPDX.SPL DrumXchanger x64
+Scope	Plugin Alliance	vst.SPFE.SPL Free Ranger x64
+Scope	Plugin Alliance	vst.SPFR.SPL Full Ranger x64
+Scope	Plugin Alliance	vst.SPMV.SPL Mo-Verb x64
+Scope	Plugin Alliance	vst.SPP1.SPL Passeq Single x64
+Scope	Plugin Alliance	vst.SPP2.SPL Passeq x64
+Scope	Plugin Alliance	vst.SPTD.SPL Transient Designer x64
+Scope	Plugin Alliance	vst.SPTT.SPL TwinTube x64
+Scope	Plugin Alliance	vst.SPVR.SPL Vox Ranger x64
+Scope	Plugin Alliance	vst.SPVT.SPL Vitalizer MK2-T x64
+Scope	Plugin Alliance	vst.TEq1.Lindell TE-100 x64
+Scope	Plugin Alliance	vst.uaD2.Unfiltered Audio Dent 2
+Scope	Plugin Alliance	vst.uaDt.Unfiltered Audio Dent x64
+Scope	Plugin Alliance	vst.uaFa.Unfiltered Audio Fault
+Scope	Plugin Alliance	vst.uaId.Unfiltered Audio Indent x64
+Scope	Plugin Alliance	vst.uaS2.Unfiltered Audio Sandman Pro
+Scope	Plugin Alliance	vst.uaSO.Unfiltered Audio SpecOps
+Scope	Plugin Alliance	vst.VSC2.Vertigo VSC-2 x64
+Scope	Plugin Boutique	vst.BIGK.BigKick
+Scope	PolygonSheep	vst.SDLY.StealthDelay_x64
+Scope	pongasoft	com.pongasoft.AB12AudioSwitch
+Scope	pongasoft	com.pongasoft.ABSwitch
+Scope	pongasoft	com.pongasoft.CVA7
+Scope	pongasoft	com.pongasoft.VAC6
+Scope	PositiveGrid	vst.Bias.BIAS AMP_x64
+Scope	PositiveGrid	vst.BiFx.BIAS FX_x64
+Scope	PPG	vst.GRS1.Phonem
+Scope	PPG	vst.WGTR.WaveGenerator(64)
+Scope	PPG	vst.WMPR.WaveMapper2
+Scope	Primal Audio	com.primalaudio.Acid
+Scope	Primal Audio	com.primalaudio.FM4
+Scope	Primal Audio	com.primalaudio.Ladder
+Scope	Primal Audio	com.primalaudio.PMS20
+Scope	ProjectSam	com.projectsam.Sampler
+Scope	Propellerhead Software	se.propellerheads.AcousticGuitarist
+Scope	Propellerhead Software	se.propellerheads.AListDrummer
+Scope	Propellerhead Software	se.propellerheads.AListDrummer2
+Scope	Propellerhead Software	se.propellerheads.AListDrummer3
+Scope	Propellerhead Software	se.propellerheads.Arpeggio
+Scope	Propellerhead Software	se.propellerheads.Audiomatic		
+Scope	Propellerhead Software	se.propellerheads.DrumSeq
+Scope	Propellerhead Software	se.propellerheads.ElectricBass
+Scope	Propellerhead Software	se.propellerheads.ElectricGuitaristPC
+Scope	Propellerhead Software	se.propellerheads.ElectricGuitaristPopC
+Scope	Propellerhead Software	se.propellerheads.Europa
+Scope	Propellerhead Software	se.propellerheads.example
+Scope	Propellerhead Software	se.propellerheads.externalmidiinstrument
+Scope	Propellerhead Software	se.propellerheads.FingerpickingNylon
+Scope	Propellerhead Software	se.propellerheads.Grain
+Scope	Propellerhead Software	se.propellerheads.Humana
+Scope	Propellerhead Software	se.propellerheads.Klang
+Scope	Propellerhead Software	se.propellerheads.layers
+Scope	Propellerhead Software	se.propellerheads.NoteEcho
+Scope	Propellerhead Software	se.propellerheads.Pangea
+Scope	Propellerhead Software	se.propellerheads.Parsec
+Scope	Propellerhead Software	se.propellerheads.Polar
+Scope	Propellerhead Software	se.propellerheads.Pulsar
+Scope	Propellerhead Software	se.propellerheads.PX7
+Scope	Propellerhead Software	se.propellerheads.RadicalKeys
+Scope	Propellerhead Software	se.propellerheads.radicalpiano
+Scope	Propellerhead Software	se.propellerheads.ReasonAmp
+Scope	Propellerhead Software	se.propellerheads.ReasonBassAmp
+Scope	Propellerhead Software	se.propellerheads.Rotor
+Scope	Propellerhead Software	se.propellerheads.ScalesAndChords
+Scope	Propellerhead Software	se.propellerheads.Synchronous
+Scope	Propellerheads	Alligator
+Scope	Propellerheads	BV512 Digital Vocoder				
+Scope	Propellerheads	CF-101 Chorus/Flanger
+Scope	Propellerheads	Combinator
+Scope	Propellerheads	COMP-01 Compressor/Limiter	
+Scope	Propellerheads	D-11 Foldback Distortion		
+Scope	Propellerheads	DDL-1 Digital Delay Line		
+Scope	Propellerheads	Dr.REX Loop Player	
+Scope	Propellerheads	ECF-42 Envelope Controlled Filter
+Scope	Propellerheads	ID8 Instrument Device
+Scope	Propellerheads	Kong Drum Designer	
+Scope	Propellerheads	Line 6 Bass Amp
+Scope	Propellerheads	Line 6 Guitar Amp
+Scope	Propellerheads	Line Mixer 6:2	
+Scope	Propellerheads	Malstrom Graintable Synthesizer		
+Scope	Propellerheads	Master Keyboard	
+Scope	Propellerheads	Matrix Pattern Sequencer
+Scope	Propellerheads	MClass Compressor				
+Scope	Propellerheads	MClass Equalizer				
+Scope	Propellerheads	MClass Maximizer				
+Scope	Propellerheads	MClass Stereo Imager				
+Scope	Propellerheads	Mixer 14:2	
+Scope	Propellerheads	Neptune Pitch Adjuster
+Scope	Propellerheads	NN-XT Advanced Sampler				
+Scope	Propellerheads	NN19 Digital Sampler	
+Scope	Propellerheads	PEQ-2 Two Band Parametric EQ
+Scope	Propellerheads	PH-90 Phaser
+Scope	Propellerheads	Pulveriser
+Scope	Propellerheads	Reason Document	
+Scope	Propellerheads	Reason Essentials Document	
+Scope	Propellerheads	Reason Essentials Main Mixer Channel
+Scope	Propellerheads	Reason Main Mixer Channel
+Scope	Propellerheads	ReBirth Input Machine
+Scope	Propellerheads	Record Document	
+Scope	Propellerheads	Record Main Mixer Channel
+Scope	Propellerheads	Redrum Drum Computer	
+Scope	Propellerheads	ReGroove Mixer
+Scope	Propellerheads	RPG-8 Monophonic Arpeggiator
+Scope	Propellerheads	RV-7 Digital Reverb			
+Scope	Propellerheads	RV7000 Advanced Reverb
+Scope	Propellerheads	Scream 4 Distortion	
+Scope	Propellerheads	Spider Audio Merger & Splitter
+Scope	Propellerheads	Spider CV Merger & Splitter
+Scope	Propellerheads	SubTractor Analog Synthesizer		
+Scope	Propellerheads	The Echo
+Scope	Propellerheads	Thor Polysonic Synthesizer		
+Scope	Propellerheads	UN-16 Unison
+Scope	PSP N2O x64	vst.PSN2.PSP N2O x64
+Scope	PSPaudioware.com	vst.P608.PSP 608 MultiDelay x64
+Scope	PSPaudioware.com	vst.PBSc.PSP B-Scanner x64
+Scope	PSPaudioware.com	vst.Pe27.PSP E27 x64
+Scope	PSPaudioware.com	vst.Pe2s.PSP E27se x64
+Scope	PSPaudioware.com	vst.PP25.PSP 2445 x64
+Scope	PSPaudioware.com	vst.PPbp.PSP BussPressor x64
+Scope	PSPaudioware.com	vst.PPCQ.PSP ConsoleQ x64
+Scope	PSPaudioware.com	vst.PPeC.PSP Echo x64
+Scope	PSPaudioware.com	vst.PPFp.PSP FETpressor x64
+Scope	PSPaudioware.com	vst.PpL1.PSP Lotary x64
+Scope	PSPaudioware.com	vst.PPm3.PSP TripleMeter x64
+Scope	PSPaudioware.com	vst.PPMB.PSP MixBass2 x64
+Scope	PSPaudioware.com	vst.PPMC.PSP MasterComp x64
+Scope	PSPaudioware.com	vst.PPMP.PSP MixPressor2 x64
+Scope	PSPaudioware.com	vst.PPmQ.PSP McQ x64
+Scope	PSPaudioware.com	vst.PPMS.PSP MixSaturator2 x64
+Scope	PSPaudioware.com	vst.PPMT.PSP MixTreble2 x64
+Scope	PSPaudioware.com	vst.PpmW.PSP MicroWarmer x64
+Scope	PSPaudioware.com	vst.PPNq.PSP NobleQex x64
+Scope	PSPaudioware.com	vst.PPOT.PSP oldTimer x64
+Scope	PSPaudioware.com	vst.PPP2.PSP PPM2M x64
+Scope	PSPaudioware.com	vst.PPPQ.PSP preQursor x64
+Scope	PSPaudioware.com	vst.PpPs.PSP PseudoStereo x64
+Scope	PSPaudioware.com	vst.PPpV.PSP PianoVerb2 x64
+Scope	PSPaudioware.com	vst.PPRQ.PSP RetroQ x64
+Scope	PSPaudioware.com	vst.PpSa.PSP StereoAnalyser x64
+Scope	PSPaudioware.com	vst.PpSe.PSP StereoEnhancer x64
+Scope	PSPaudioware.com	vst.PpSr.PSP StereoController x64
+Scope	PSPaudioware.com	vst.PPsX.PSP SpringBox x64
+Scope	PSPaudioware.com	vst.PPuC.PSP MicroComp x64
+Scope	PSPaudioware.com	vst.PPV2.PSP VU2M x64
+Scope	PSPaudioware.com	vst.PPVW.PSP VintageWarmer2 x64
+Scope	PSPaudioware.com	vst.PPXD.PSP X-Dither x64
+Scope	PSPaudioware.com	vst.PS42.PSP Lexicon PSP42 x64
+Scope	PSPaudioware.com	vst.PS85.PSP 85 x64
+Scope	PSPaudioware.com	vst.PS8S.PSP 84 [64bit]
+Scope	PSPaudioware.com	vst.PSEV.PSP EasyVerb x64
+Scope	PSPaudioware.com	vst.PSnh.PSP Neon HR x64
+Scope	PSPaudioware.com	vst.PSnm.PSP Neon MIX x64
+Scope	PSPaudioware.com	vst.PSns.PSP Neon STD x64
+Scope	PSPaudioware.com	vst.PspD.PSP stompDelay x64
+Scope	PSPaudioware.com	vst.PSsF.PSP stompFilter x64
+Scope	PSPaudioware.com	vst.PSxn.PSP Xenon x64
+Scope	PSPaudioware.com s.c.	vst.PPMG.PSP MixGate2 x64
+Scope	PSPaudioware.com s.c.	vst.PPMY.PSP MixSync2 x64
+Scope	qu.tu-berlin.de	vst.MiSp.synister64
+Scope	Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteLineMixer
+Scope	Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteLineProcessor
+Scope	Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteParametrix
+Scope	Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteSignalRepeater
+Scope	Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteVectorizer
+Scope	Quadelectra Audioworx	com.quadelectra.Arkana
+Scope	Quadelectra Audioworx	com.quadelectra.BeatChopRTS
+Scope	Quadelectra Audioworx	com.quadelectra.JackBox707
+Scope	Quadelectra Audioworx	com.quadelectra.JackBox727
+Scope	Quadelectra Audioworx	com.quadelectra.JackBox808
+Scope	Quadelectra Audioworx	com.quadelectra.Jackbox909
+Scope	Quadelectra Audioworx	com.quadelectra.JackBoxL1M
+Scope	Quadelectra Audioworx	com.quadelectra.JackBoxRZi
+Scope	Quadelectra Audioworx	com.quadelectra.Mercury
+Scope	Quadelectra Audioworx	com.quadelectra.StereoSplitter
+Scope	Quadelectra Audioworx	com.quadelectra.System9
+Scope	Quadelectra Audioworx	com.quadelectra.ThreePlex
+Scope	QuikQuak	vst.BaCh.BarChimes
+Scope	QuikQuak	vst.FuFi.Fusion Field
+Scope	QuikQuak	vst.GlVi.Glass Viper
+Scope	QuikQuak	vst.MsTa.MashTactic
+Scope	QuikQuak	vst.PtWh.PitchWheel
+Scope	QuikQuak	vst.UpSP.UpStereo Pro
+Scope	Rainwaves	co.uk.rainwaves.Ivy
+Scope	Ravenherz	ru.ravenherz.DigitalVoltageComparator
+Scope	Ravenherz	ru.ravenherz.DualEnvelopeGenerator
+Scope	Reasonistas	com.reasonistas.SCRE
+Scope	Rebel-Audio	vst.DOTO.DoubleToner_64Bit
+Scope	Rebel-Audio	vst.OTV2.OverTonerV2_64Bit
+Scope	Red Rock Sound	ru.redrocksound.C1A
+Scope	Red Rock Sound	ru.redrocksound.C1L1
+Scope	Red Rock Sound	ru.redrocksound.C1S
+Scope	Red Rock Sound	ru.redrocksound.Ivoks
+Scope	Red Rock Sound	ru.redrocksound.MBC
+Scope	Red Rock Sound	ru.redrocksound.MBL
+Scope	Red Rock Sound	ru.redrocksound.Measure
+Scope	Red Rock Sound	ru.redrocksound.PPM
+Scope	Red Rock Sound	ru.redrocksound.RE128
+Scope	Red Rock Sound	ru.redrocksound.RE180
+Scope	Red Rock Sound	ru.redrocksound.RE181
+Scope	Red Rock Sound	ru.redrocksound.RE200
+Scope	Red Rock Sound	ru.redrocksound.RE202
+Scope	Red Rock Sound	ru.redrocksound.RE302
+Scope	Red Rock Sound	ru.redrocksound.Re3q
+Scope	Red Rock Sound	ru.redrocksound.RE60
+Scope	Red Rock Sound	ru.redrocksound.Red
+Scope	Red Rock Sound	ru.redrocksound.VU
+Scope	Red Rock Sounde	ru.redrocksound.Reverb
+Scope	Relab	vst._LX4.LX480Complete x64
+Scope	Retouch Control	com.retouchcontrol.ChordSet
+Scope	Retouch Control	com.retouchcontrol.grid64G
+Scope	Retouch Control	com.retouchcontrol.grid64N
+Scope	Retouch Control	com.retouchcontrol.JammeR
+Scope	Retouch Control	com.retouchcontrol.NoteMix
+Scope	Retouch Control	com.retouchcontrol.NoteSet
+Scope	Retouch Control	com.retouchcontrol.Slider
+Scope	Retouch Control	com.retouchcontrol.ToneRows
+Scope	Retouch Control	com.retouchcontrol.XY8
+Scope	Reveal Sound	com.revealSound.ReSpire
+Scope	Reveal Sound	vst.Spir.Spire
+Scope	RF Music	vst.C87M.Comp87 MB x64
+Scope	RF Music	vst.Cm87.Comp87 x64
+Scope	Roazhon DSP	vst.j3cs.BrainStormer
+Scope	Rob Papen	com.robpapen.Attention
+Scope	Rob Papen	com.robpapen.Go2
+Scope	Rob Papen	com.robpapen.PredatorRE
+Scope	Rob Papen	com.robpapen.PunchBDRE
+Scope	Rob Papen	com.robpapen.Quad
+Scope	Rob Papen	com.robpapen.RGRE
+Scope	Rob Papen	com.robpapen.RPDistort
+Scope	Rob Papen	com.robpapen.RPEQ
+Scope	Rob Papen	com.robpapen.RPSpec
+Scope	Rob Papen	com.robpapen.RPVerb
+Scope	Rob Papen	com.robpapen.SubBoomBassRE
+Scope	Rob Papen	com.robpapen.Vecto
+Scope	Rob Papen	vst.PBDm.Punch-BD
+Scope	Rob Papen	vst.PBs2.SubBoomBass2
+Scope	Rob Papen	vst.PnCH.Punch
+Scope	Rob Papen	vst.Prd2.Predator2
+Scope	Rob Papen	vst.PrdF.PredatorFX x64
+Scope	Rob Papen	vst.Prsm.Prisma
+Scope	Rob Papen	vst.REQ4.RP-EQ x64
+Scope	Rob Papen	vst.RpDL.RP-Delay x64
+Scope	Rob Papen	vst.RpDs.RP-Distort x64
+Scope	Rob Papen	vst.RpMd.RP-AMod x64
+Scope	Rob Papen	vst.RPOb.Blade
+Scope	Rob Papen	vst.RPRw.Raw
+Scope	Rob Papen	vst.rpVB.RP-Verb x64
+Scope	Robotic Bean	com.roboticbean.AcoustiClap
+Scope	Robotic Bean	com.roboticbean.Compare
+Scope	Robotic Bean	com.roboticbean.CowBell
+Scope	Robotic Bean	com.roboticbean.ElectroClap
+Scope	Robotic Bean	com.roboticbean.Elementary
+Scope	Robotic Bean	com.roboticbean.Euclid
+Scope	Robotic Bean	com.roboticbean.EuclidPlayer
+Scope	Robotic Bean	com.roboticbean.MetroTone
+Scope	Robotic Bean	com.roboticbean.Resonans
+Scope	Robotic Bean	com.roboticbean.Select
+Scope	Robotic Bean	com.roboticbean.Step
+Scope	Robotic Bean	com.roboticbean.TimeSlider
+Scope	RocketPoweredSound	vst.Grow.Growlify64
+Scope	Roland	vst.scva.SOUND Canvas VA
+Scope	Roland	vst.Vas0.SH-101(VST2 64bit)
+Scope	Roland	vst.Vas1.SH-2
+Scope	Roland	vst.Vas2.PROMARS(VST2 64bit)
+Scope	Roland	vst.Vas3.SYSTEM-100
+Scope	Roland	vst.Vas5.SYSTEM-8
+Scope	Roland	vst.Vas6.JUPITER-8
+Scope	Roland	vst.Vas7.JUNO-106
+Scope	RolandVS	vst.Crto.Concerto
+Scope	Rothmann	vst.J6vc.Roth-AIR
+Scope	Roxolder	vst.A6p1.Tomato Preamp v1_0 x64
+Scope	Roxolder	vst.HQN3.Harlequin Preamp v1_3 x64
+Scope	Roxolder	vst.JM83.JCM800 Preamp v1_3 x64
+Scope	Roxolder	vst.JMH3.JCM800 Hot Preamp v1_3 x64
+Scope	roxolder	vst.Mc30.Mercuriall Cab v3_0 x64
+Scope	RPCX	vst.PhsD.Blue
+Scope	RPCX	vst.ryGu.RG
+Scope	RS-MET	vst.TlCn.ToolChain_VST2_x64
+Scope	Sanford Sound Design	vst.%00SBT.SanfordBassTightener
+Scope	Sanford Sound Design	vst.Cblt.Cobalt
+Scope	Sanford Sound Design	vst.SRvb.SanfordReverb
+Scope	Scuffham Amps	vst.scf2.S-Gear2_x64
+Scope	ScuzzyEye	com.scuzzyeye.MS34
+Scope	ScuzzyEye	com.scuzzyeye.SU27
+Scope	Seaweed Audio	vst.SEAW.FathomMono64
+Scope	Selig Audio	com.seligaudio.ColoringEQ
+Scope	Selig Audio	com.seligaudio.NoteView
+Scope	Selig Audio	com.seligaudio.SeligDeEsser		
+Scope	Selig Audio	com.seligaudio.SeligGain
+Scope	Selig Audio	com.seligaudio.TheCurve		
+Scope	Selig Audio, LLC	com.seligaudio.ReMark
+Scope	shaduzLABS	vst.SLTB.throb
+Scope	Shattered Glass Audio	vst.m51r.ace
+Scope	Shattered Glass Audio	vst.pwr0.CodeRedFree
+Scope	Shattered Glass Audio	vst.q8yf.SGA1566
+Scope	Signaldust	vst.%C3%A5m%17.Dust Equalizer-x64
+Scope	Signaldust	vst.%D4R%DDc.Dust Bucket-x64
+Scope	Signaldust	vst.%E5%8D%BC%03.Dancing Boy-x64
+Scope	Signaldust	vst.%FF%FF%EBp.Sweep-x64
+Scope	Signaldust	vst.A%EF%AAk.Abstract Chamber-x64
+Scope	Signaldust	vst.sdVs.Dolphin-x64
+Scope	Signaldust	vst.TilA.Tila2-x64
+Scope	SinusWeb	vst.SiFT.FreeverbToo
+Scope	Skrock Music	se.skrockmusic.Argonaut
+Scope	Skrock Music	se.skrockmusic.Aurora
+Scope	Skrock Music	se.skrockmusic.Dimensions
+Scope	Skrock Music	se.skrockmusic.Horizons
+Scope	Skrock Music	se.skrockmusic.Iridium
+Scope	Skrock Music	se.skrockmusic.Kraft
+Scope	Skrock Music	se.skrockmusic.Nautilus
+Scope	Skrock Music	se.skrockmusic.Orbis
+Scope	Skrock Music	se.skrockmusic.poltergeistv1
+Scope	Skrock Music	se.skrockmusic.Pulse
+Scope	Skrock Music	se.skrockmusic.Radiator
+Scope	Skrock Music	se.skrockmusic.Solaris
+Scope	Skrock Music	se.skrockmusic.Synthwave
+Scope	Skrock Music	se.skrockmusic.Tectonic
+Scope	Slate Digital	vst.FG-X.Slate Digital FG-X x64
+Scope	Slate Digital	vst.VBCg.VBC FG-Grey x64
+Scope	Slate Digital	vst.VBCk.VBC Rack x64
+Scope	Slate Digital	vst.VBCm.VBC FG-MU x64
+Scope	Slate Digital	vst.VBCr.VBC FG-Red x64
+Scope	Slate Digital	vst.VMXR.Virtual Mix Rack x64
+Scope	Sleepy-Time Records	vst.DPnr.DualPanner x64
+Scope	Sleepy-Time Records	vst.MoC1.MonoChannel x64
+Scope	Sleepy-Time Records	vst.PltY.Polarity x64
+Scope	Sleepy-Time Records	vst.StC1.StereoChannel x64
+Scope	Sleepy-Time Records	vst.TrN1.Transient x64
+Scope	Sleepy-Time Records	vst.xTk2.Crosstalk2 x64
+Scope	Sly-Fi	vst.Defl.Deflector
+Scope	Sly-Fi	vst.KPA1.Kaya
+Scope	Sly-Fi	vst.KPI1.Axis EQ
+Scope	SocaLabs	vst.Papu.PAPU_64b
+Scope	SocaLabs	vst.Sidd.SID_64b
+Scope	SocaLabs	vst.Tone.Voc_64b
+Scope	Softube	com.softube.re.ARange
+Scope	Softube	com.softube.re.Dynamite
+Scope	Softube	com.softube.re.FETCompressor
+Scope	Softube	com.softube.re.SaturationKnob
+Scope	Softube	com.softube.re.SpringReverb
+Scope	Softube	com.softube.re.TSAR1
+Scope	Softube	com.softube.re.TSAR1R
+Scope	Softube	com.softube.re.TubeDelay
+Scope	Softube	com.softube.re.TubeTechCC
+Scope	Softube	vst.8kbx.Abbey Road RS135
+Scope	Softube	vst.Aran.Trident A-Range
+Scope	Softube	vst.BARn.Bass Amp Room
+Scope	Softube	vst.ChEq.Focusing Equalizer
+Scope	Softube	vst.clST.Tube-Tech CL 1B
+Scope	Softube	vst.DaMt.Valley People Dyna-mite
+Scope	Softube	vst.e100.Summit Audio EQF-100
+Scope	Softube	vst.Feed.Acoustic Feedback
+Scope	Softube	vst.FixF.Fix Flanger
+Scope	Softube	vst.fxdo.Fix Doubler
+Scope	Softube	vst.g127.Abbey Road RS127 Rack
+Scope	Softube	vst.ME1B.Tube-Tech ME 1B
+Scope	Softube	vst.Mtal.Metal Amp Room
+Scope	Softube	vst.PE1C.Tube-Tech PE 1C
+Scope	Softube	vst.PvEQ.Passive Equalizer
+Scope	Softube	vst.r127.Abbey Road RS127 Box
+Scope	Softube	vst.SAGC.Summit Audio Grand Channel
+Scope	Softube	vst.satn.Saturation Knob
+Scope	Softube	vst.ScPi.Console 1
+Scope	Softube	vst.Shpe.Transient Shaper
+Scope	Softube	vst.SpRn.Spring Reverb
+Scope	Softube	vst.t100.Summit Audio TLA-100A
+Scope	Softube	vst.TbDe.Tube Delay
+Scope	Softube	vst.Tcpn.FET Compressor
+Scope	Softube	vst.Tilt.Tonelux Tilt
+Scope	Softube	vst.Tilv.Tonelux Tilt Live
+Scope	Softube	vst.ts1r.TSAR-1R Reverb
+Scope	Softube	vst.tsar.TSAR-1 Reverb
+Scope	Softube	vst.TTCC.Tube-Tech Classic Channel
+Scope	Softube	vst.vina.Vintage Amp Room
+Scope	Softube	vst.Wamp.WhiteAmpDemo
+Scope	Softube	vst.z9x7.Mutronics Mutator
+Scope	sonible	vst.enEq.entropyEQ_x64
+Scope	sonible	vst.prEq.proximityEQ_x64
+Scope	sonible	vst.smEq.smartEQ_x64
+Scope	Sonic Anomaly	vst.3LE2.TriLeveler2_x64
+Scope	Sonic Anomaly	vst.51ML.5_1 Master Limiter_x64
+Scope	Sonic Anomaly	vst.51PN.Surround Pan 2_x64
+Scope	Sonic Anomaly	vst.BPR1.Bassprofessor_x64
+Scope	Sonic Anomaly	vst.BPR2.Bass Professor MK2_x64
+Scope	Sonic Anomaly	vst.HBC2.HBC-2_x64
+Scope	Sonic Anomaly	vst.HBC5.HBC-5_x64
+Scope	Sonic Anomaly	vst.LTD2.Leet Delay 2_x64
+Scope	Sonic Anomaly	vst.QCOM.QuadraCom_x64
+Scope	Sonic Anomaly	vst.SGX2.SEGX2 Gate_x64
+Scope	Sonic Anomaly	vst.SLAX.SLAX_x64
+Scope	Sonic Anomaly	vst.TRSP.Transpire_x64
+Scope	Sonic Anomaly	vst.UL51.Unlimited_x64
+Scope	Sonic Anomaly	vst.VOLA.VOLA2_x64
+Scope	Sonic Charge	com.soniccharge.Bitspeek
+Scope	Sonic Charge	com.soniccharge.Echobode
+Scope	Sonic Charge	vst.NuEB.Echobode x64
+Scope	Sonic Charge	vst.NuPr.Permut8 x64
+Scope	Sonic Charge	vst.NuSP.Synplant
+Scope	Sonic Charge	vst.NuSq.Bitspeek x64
+Scope	sonicbits.io	io.sonicbits.Pump
+Scope	SonicProjects	vst.%B5P%C9%26.OP-X PRO-II
+Scope	SonicWorkflow	com.sonicworkflow.ReLabeler
+Scope	Sonimus	vst.5462.Sweetone_x64
+Scope	Sonimus	vst.8sj7.BritsonBuss_x64
+Scope	Sonimus	vst.jl53.BritsonChannel_x64
+Scope	Sonimus	vst.SaBu.SatsonBuss_x64
+Scope	Sonimus	vst.SaC1.SatsonChannel_x64
+Scope	SONiVOX	vst.tst2.Twist 2_x64
+Scope	SONiVOX	vst.wbl2.Wobble 2_x64
+Scope	Sononics	com.sononics.GSX
+Scope	Sononics	com.sononics.Revival
+Scope	Sound Guru	vst.Mngl.Mangle64
+Scope	Sound Radix	vst.algn.AutoAlign
+Scope	Sound Radix	vst.boog.SurferEQBoogie
+Scope	Sound Radix	vst.dlvl.DrumLeveler
+Scope	Sound Radix	vst.kase.Pi
+Scope	Soundemote	vst.MG01.Mushroom Generator (x64)
+Scope	Soundemote	vst.PrSc.PrettyScope (x64)
+Scope	Soundemote	vst.SG01.SpiralGenerator_x64
+Scope	Soundemote	vst.SG02.Spiral Generator 2 (x64)
+Scope	SoundHack	vst.%2Bbub.+bubbler
+Scope	SoundHack	vst.%2Bchb.+chebyshev
+Scope	SoundHack	vst.%2Bdla.+delay
+Scope	SoundHack	vst.%2Bmrf.+morphfilter
+Scope	SoundHack	vst.%2Bmtx.+matrix
+Scope	SoundHack	vst.%2Bpdl.+pitchdelay
+Scope	SoundHack	vst.%2Bphs.+phasescope
+Scope	SoundHack	vst.%2Bphz.+phasor
+Scope	SoundHack	vst.%2Bspg.+spectralgate
+Scope	SoundHack	vst.%2Bspx.+spectralcompand
+Scope	SoundHack	vst.er10.+decimate
+Scope	SoundHack	vst.erBn.+binaural
+Scope	SoundHack	vst.ercm.+compand
+Scope	Soundiron LLC	com.soundiron.EmotionalPiano
+Scope	SoundMod	ca.soundmod.Tritone
+Scope	Soundspot	vst.alfl.Oracle
+Scope	Soundspot	vst.g3tz.Overtone
+Scope	Soundspot	vst.lopc.Voxbox
+Scope	Soundspot	vst.Nebu.Nebula
+Scope	Soundspot	vst.o0kf.MSW1
+Scope	Soundspot	vst.utda.Halcyon
+Scope	Soundspot	vst.xax8.FAT
+Scope	Soundspot	vst.zttj.Propane
+Scope	SoundToys	vst.DLD%20.DevilLocDeluxe
+Scope	SoundToys	vst.DVL%20.DevilLoc
+Scope	SoundToys	vst.StCR.Crystallizer
+Scope	SoundToys	vst.StDc.Decapitator
+Scope	SoundToys	vst.StEB.EchoBoy
+Scope	SoundToys	vst.StF1.FilterFreak1
+Scope	SoundToys	vst.StF2.FilterFreak2
+Scope	SoundToys	vst.StFx.EffectRack
+Scope	SoundToys	vst.StLa.LittleAlterBoy
+Scope	SoundToys	vst.StLm.LittleMicroShift
+Scope	SoundToys	vst.StLp.LittlePrimalTap
+Scope	SoundToys	vst.StLr.LittleRadiator
+Scope	SoundToys	vst.StMs.MicroShift
+Scope	SoundToys	vst.StPM.PhaseMistress
+Scope	SoundToys	vst.StPn.PanMan
+Scope	SoundToys	vst.StPt.PrimalTap
+Scope	SoundToys	vst.StRd.Radiator
+Scope	SoundToys	vst.StTm.Tremolator
+Scope	SPC Plugins	vst.SPCa.ArcSyn
+Scope	Speakosaur	vst.spk3.VstSpeek3
+Scope	Spectral Scan Software	com.spectralscan.4PhaseLFO
+Scope	Spectrasonics	vst.Ambr.Omnisphere
+Scope	Speo	com.speomusic.FrameCV
+Scope	Speo	com.speomusic.Parafilter
+Scope	Speo	com.speomusic.Trust
+Scope	Sputnik Audio	ru.sputnikaudio.SP1_Plate
+Scope	Sputnik Audio	ru.sputnikaudio.SP2_Sib
+Scope	Stagecraft Software	vst.AdSy.SC Addiction Synth 64
+Scope	Stagecraft Software	vst.AuFi.SC AutoFilter 64
+Scope	Stagecraft Software	vst.BtCr.SC BitCrusher 64
+Scope	Stagecraft Software	vst.Dela.SC Delay 64
+Scope	Stagecraft Software	vst.EcTh.SC EchoThief 64
+Scope	Stagecraft Software	vst.GlMa.SC Glitch Machine 64
+Scope	Stagecraft Software	vst.InSy.SC Infinity Synth 64
+Scope	Stagecraft Software	vst.LpLb.SC Loop Lab 64
+Scope	Stagecraft Software	vst.OvDr.SC Overdrive 5 64
+Scope	Stagecraft Software	vst.RgMd.SC RingMod 64
+Scope	Stagecraft Software	vst.ScTr.SC Scratch Track 64
+Scope	Stagecraft Software	vst.VnLb.SC Vinyl Lab 64
+Scope	Static Cling	com.staticcling.ChordDetector
+Scope	Static Cling	com.staticcling.Index
+Scope	Static Cling	com.staticcling.Optic
+Scope	Static Cling	com.staticcling.Tome
+Scope	Steinberg	vst.Moog.Model-E
+Scope	Steinberg Media Technologies	vst.aMiS.neon
+Scope	Steinberg Media Technologies	vst.aVaS.vb-1
+Scope	Steinberg Media Technologies	vst.HSSE.HALion Sonic SE
+Scope	Steinberg Media Technologies	vst.KaLe.karlette
+Scope	Stone Voices	vst.BRND.brandulator
+Scope	Stone Voices	vst.PGAS.PolyGAS
+Scope	Stone Voices	vst.SVAR.AmbientReverb_x64_rus
+Scope	Stone Voices	vst.SVMZ.Marazmator
+Scope	Studio Corbach	nl.studiocorbach.MixfoodAmbiNature
+Scope	Studio Corbach	nl.studiocorbach.MixfoodOrange
+Scope	Studio Corbach	nl.studiocorbach.MixfoodReMix
+Scope	Studio Corbach	nl.studiocorbach.MixfoodUnisonXs
+Scope	Studio Corbach	nl.studiocorbach.MixfoodWT4
+Scope	Sugar Bytes	com.sugarbytes.FilterPattern
+Scope	Sugar Bytes	com.sugarbytes.PitchDelay
+Scope	Sugar Bytes	com.sugarbytes.SliceArranger
+Scope	Sugar Bytes	com.sugarbytes.Spectralizer
+Scope	Sugar Bytes	com.sugarbytes.Vinylizer
+Scope	Sugar Bytes	com.sugarbytes.Vocodizer
+Scope	Sugar Bytes	vst.sba2.Artillery2 x64
+Scope	Sugar Bytes	vst.SBCs.Consequence x64
+Scope	Sugar Bytes	vst.sbcy.Cyclop
+Scope	Sugar Bytes	vst.sbef.Effectrix x64
+Scope	Sugar Bytes	vst.SBEG.Egoist x64
+Scope	Sugar Bytes	vst.SBFB.Factory
+Scope	Sugar Bytes	vst.sbgu.Guitarist x64
+Scope	Sugar Bytes	vst.sbl1.Looperator x64
+Scope	Sugar Bytes	vst.SBOB.Obscurium
+Scope	Sugar Bytes	vst.sbro.Robotronic x64
+Scope	Sugar Bytes	vst.SBTH.Thesys x64
+Scope	Sugar Bytes	vst.sbtu.Turnado x64
+Scope	Sugar Bytes	vst.sbuq.Unique x64
+Scope	Sugar Bytes	vst.sbvo.Vogue x64
+Scope	Sugar Bytes	vst.sbw2.WOW2 x64
+Scope	Sugar Bytes	vst.sbwo.WOW x64
+Scope	SWAM	vst.ClaB.SWAM Bass Clarinet 64bit
+Scope	SWAM	vst.ClaS.SWAM Clarinet 64bit
+Scope	SWAM	vst.SaxS.SWAM Soprano Sax 64bit
+Scope	SWAM	vst.VlaS.SWAM Viola 64bit
+Scope	SWAM	vst.VlnS.SWAM Violin 64bit
+Scope	Synapse Audio	com.synapseAudioSoftware.Antidote
+Scope	Synapse Audio	com.synapseAudioSoftware.Legend
+Scope	Synapse Audio	vst.ETRF.Legend FX
+Scope	Synapse Audio	vst.ETRV.Legend
+Scope	Synapse Audio	vst.HYDR.Hydra
+Scope	Synapse Audio	vst.SWSP.DUNE
+Scope	Synapse Audio	vst.SXPL.X-Poly 2_0 x64
+Scope	Synapse Audio	vst.TxIc.Toxic2 x64
+Scope	Synapse Audio Software	com.synapseAudioSoftware.FatSpace
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseChorus
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseFilter
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseGQ7
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseNinety
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapsePhaser
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseRE160
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseReverb1
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseRingMod
+Scope	Synapse Audio Software	com.synapseAudioSoftware.SynapseVintEQ
+Scope	synthANDware	vst.Plug.WaveSynthPlug
+Scope	Synthetech Sound	au.com.synthetechsound.Spectra
+Scope	SyS Audioresearch	vst.48sl.Ton-Geraet I_x64
+Scope	Taiga	vst.Tagr.Gravel
+Scope	TAL - Togu Audio Line	vst.1554.TAL-Chorus-60 x64
+Scope	TAL - Togu Audio Line	vst.15b2.TAL-Elek7ro-II
+Scope	TAL - Togu Audio Line	vst.23d5.TAL-U-No-62 x64
+Scope	TAL - Togu Audio Line	vst.334v.TAL-Flanger
+Scope	TAL - Togu Audio Line	vst.6513.TAL-Bitcrusher
+Scope	TAL - Togu Audio Line	vst.7qj7.TAL-Dub-2 x64
+Scope	TAL - Togu Audio Line	vst.875g.TAL-BassLine x64
+Scope	TAL - Togu Audio Line	vst.a17h.TAL-Dub x64
+Scope	TAL-Togu Audio Line	vst.025e.TAL-Filter-2-x64
+Scope	TAL-Togu Audio Line	vst.58h8.TAL-Reverb-2
+Scope	TAL-Togu Audio Line	vst.597o.TAL-Filter x64
+Scope	TAL-Togu Audio Line	vst.cHL1.TAL-Chorus-LX-64
+Scope	TAL-Togu Audio Line	vst.hEl1.TAL-Sampler x64
+Scope	TAL-Togu Audio Line	vst.REV3.TAL-Reverb-3
+Scope	TAL-Togu Audio Line	vst.reV4.TAL-Reverb-4 x64
+Scope	TAL-Togu Audio Line	vst.uno4.TAL-U-NO-LX-V2-64
+Scope	TAL-Togu Audio Line	vst.VOC2.TAL-Vocoder-2 x64
+Scope	TAL-Togu Audio Line	vst.xg70.TAL-Dub-3 x64
+Scope	Taron	vst.LOTS.LordOfTheSprings_x64
+Scope	TBProAudio	vst.TB12.mvMeter x64
+Scope	TBProAudio	vst.TBP0.Euphonia x64
+Scope	TBProAudio	vst.TBP2.Impress x64
+Scope	TBProAudio	vst.TBP4.gEQ12 x64
+Scope	TBProAudio	vst.TBP6.sTilt x64
+Scope	TBProAudio	vst.TBP7.AB_LM x64
+Scope	TBProAudio	vst.TBP8.LAxLimit2 x64
+Scope	TBProAudio	vst.TBPB.dEQ6 x64
+Scope	TBProAudio	vst.TBPD.GainRider2 x64
+Scope	TBProAudio	vst.TBPE.CS3301 x64
+Scope	TC Electronic	vst.L%17%02%00.LM6n Big x64
+Scope	TC Electronic	vst.L%17%02%0C.LM6n Normal x64
+Scope	TC Electronic	vst.TBOO.TC Booster and Distortion x64
+Scope	TC Electronic	vst.TCVS.VSS3 x64
+Scope	TC Electronic	vst.TPEQ.TC Dual Parametric Equalizer x64
+Scope	TC Electronic	vst.TPHS.TC XII Phaser x64
+Scope	TC Electronic	vst.TSCF.TC Stereo Chorus Flanger x64
+Scope	TC Electronic	vst.TSUS.TC Sustainer x64
+Scope	TDR Labs	vst.PRX1.Proximity-x64
+Scope	Tek'it Audio	vst.TA8k.8kut
+Scope	ThatMusicCompany	com.thatmusiccompany.DistortChain
+Scope	ThatMusicCompany	com.thatmusiccompany.MrOverDrive
+Scope	ThatMusicCompany	com.thatmusiccompany.T2Phaser
+Scope	The Chronologists	com.thechronologists.Constants
+Scope	The Chronologists	com.thechronologists.Divisor
+Scope	The Chronologists	com.thechronologists.Equation
+Scope	The Chronologists	com.thechronologists.EquationJr
+Scope	The Chronologists	com.thechronologists.Later
+Scope	The Chronologists	com.thechronologists.Now
+Scope	The Chronologists	com.thechronologists.Randrome
+Scope	The Chronologists	com.thechronologists.RandromeJr
+Scope	The Chronologists	com.thechronologists.Scope
+Scope	The Chronologists	com.thechronologists.ScopeJr
+Scope	The Chronologists	com.thechronologists.Truth
+Scope	The Instrument Panel	com.theinstrumentpanel.PanHandler
+Scope	The Musicology Group	the.musicologygroup.DigitalFilter
+Scope	Thomas Mundt	vst.LdMx.LoudMax64
+Scope	Time Extend Audio Limited	com.timeextendaudio.MilkShake
+Scope	Tokyo Dawn Labs	vst.sKbd.TDR Feedback Compressor x64
+Scope	Tokyo Dawn Labs	vst.Td10.TDR VOS SlickEQ x64
+Scope	Tokyo Dawn Labs	vst.Td11.TDR VOS SlickEQ GE x64
+Scope	Tokyo Dawn Labs	vst.Td51.TDR Nova GE x64
+Scope	Tokyo Dawn Labs	vst.Td5a.TDR Nova x64
+Scope	Tokyo Dawn Labs	vst.Td6a.TDR SlickEQ M x64
+Scope	Tokyo Dawn Labs	vst.Td95.TDR Feedback Compressor II Mono x64
+Scope	Tokyo Dawn Labs	vst.Td96.TDR Kotelnikov x64
+Scope	Tokyo Dawn Labs	vst.Td97.TDR Kotelnikov GE x64
+Scope	Tokyo Dawn Labs	vst.Td99.TDR Feedback Compressor II x64
+Scope	Tone2.com	vst.T2FS.FilterBank3 synth x64
+Scope	Tone2.com	vst.T2FX.FilterBank3 FX x64
+Scope	Tone2.com	vst.T2GL.Gladiator
+Scope	Tone2.com	vst.T2IC.IcarusX64
+Scope	Tone2.com	vst.T2RB.RayBlaster
+Scope	Tone2.com	vst.T2SA.Saurus
+Scope	Tone2.com audiosoftware	vst.BIF2.BiFilter2 x64
+Scope	Toneboosters	vst.T1MO.Morphit x64
+Scope	ToneBoosters	vst.T3BC.TB_Barricade_v3 x64
+Scope	ToneBoosters	vst.T3CO.TB_Compressor_v3 x64
+Scope	ToneBoosters	vst.T3CP.TB_BusCompressor_v3 x64
+Scope	ToneBoosters	vst.T3DE.TB_DeEsser_v3 x64
+Scope	ToneBoosters	vst.T3DT.TB_Dither_v3 x64
+Scope	ToneBoosters	vst.T3EQ.TB_Equalizer_v3 x64
+Scope	ToneBoosters	vst.T3EV.TB_Evoke_v3 x64
+Scope	ToneBoosters	vst.T3F4.TB_FlX4_v3 x64
+Scope	ToneBoosters	vst.T3FL.TB_FlX_v3 x64
+Scope	ToneBoosters	vst.T3FX.TB_Ferox_v3 x64
+Scope	ToneBoosters	vst.T3GT.TB_Gate_v3 x64
+Scope	ToneBoosters	vst.T3IS.TB_Isone_v3 x64
+Scope	ToneBoosters	vst.T3MO.TB_Module_v3 x64
+Scope	ToneBoosters	vst.T3MS.TB_MidSideTransformer_v3 x64
+Scope	ToneBoosters	vst.T3RB.TB_ReelBus_v3 x64
+Scope	ToneBoosters	vst.T3RV.TB_Reverb_v3 x64
+Scope	ToneBoosters	vst.T3SB.TB_Sibalance_v3 x64
+Scope	ToneBoosters	vst.T3TM.TB_TimeMachine_v3 x64
+Scope	ToneBoosters	vst.T3VP.TB_VoicePitcher_v3 x64
+Scope	ToneBoosters	vst.T4E2.TB_EBUCompact_v3(2014) x64
+Scope	ToneBoosters	vst.T4EL.TB_EBULoudness_v3(2014) x64
+Scope	ToneCarver	vst.tcBd.Boids64
+Scope	ToneCarver	vst.tcHr.HarmonyRotator64
+Scope	ToneCarver	vst.tcNv.Nova64
+Scope	ToneCarver	vst.tcRg.tcRegen_64
+Scope	ToneCarver	vst.tcST.tcStretch_64
+Scope	Tracktion	vst.Auto.#TAuto Filter (64-bit)
+Scope	Tracktion	vst.BCmp.#TBus Compressor (64-bit)
+Scope	Tracktion	vst.BCru.#TCrusher (64-bit)
+Scope	Tracktion	vst.Chor.#TChorus (64-bit)
+Scope	Tracktion	vst.Comp.#TCompressor (64-bit)
+Scope	Tracktion	vst.Csvr.#TCrossover (64-bit)
+Scope	Tracktion	vst.DDes.#TDelay Studio (64-bit)
+Scope	Tracktion	vst.Duck.#TDucker (64-bit)
+Scope	Tracktion	vst.EQsr.#TEqualiser (64-bit)
+Scope	Tracktion	vst.Flan.#TFlanger (64-bit)
+Scope	Tracktion	vst.Gate.#TGate Expander (64-bit)
+Scope	Tracktion	vst.Lmtr.#TLimiter (64-bit)
+Scope	Tracktion	vst.Phas.#TPhaser (64-bit)
+Scope	Tracktion	vst.Revb.#TReverber8 (64-bit)
+Scope	Tracktion	vst.SDel.#TStereo Delay (64-bit)
+Scope	Tracktion	vst.TDel.#TTape Delay (64-bit)
+Scope	Tracktion	vst.TSBt.BioTek (64 bit)
+Scope	Tracktion Software Corporation	vst.MaMi.Master Mix (64-bit)
+Scope	Tritik	vst.tkDl.tkdelay x64
+Scope	Tritik	vst.tkKr.Krush x64
+Scope	Tritik	vst.tkMd.moodal x64
+Scope	TSE AUDIO	vst.hhw5.TSE X50II x64
+Scope	TSE AUDIO	vst.TSBD.BODv2 x64
+Scope	TSE AUDIO	vst.tx5L.TSE_X50_v1_0x64
+Scope	TSE AUDIO	vst.xR48.TSE R47 x64
+Scope	TSE AUDIO	vst.xx43.TSE_808_2_0 x64
+Scope	Turn2on Software	ru.turn2on.Blackpole
+Scope	Turn2on Software	ru.turn2on.Cronus
+Scope	Turn2on Software	ru.turn2on.DoubleComb
+Scope	Turn2on Software	ru.turn2on.DyingStar
+Scope	Turn2on Software	ru.turn2on.HarmBode
+Scope	Turn2on Software	ru.turn2on.MarsPeaks
+Scope	Turn2on Software	ru.turn2on.Meteora
+Scope	Turn2on Software	ru.turn2on.Metro
+Scope	Turn2on Software	ru.turn2on.MurderRhythm
+Scope	Turn2on Software	ru.turn2on.Phase28
+Scope	Turn2on Software	ru.turn2on.Pipeline
+Scope	Turn2on Software	ru.turn2on.SubColors
+Scope	Two Notes Audio Engineering	vst.PI3R.Torpedo Wall Of Sound (x64)
+Scope	u-he	com.uheplugins.Runciter
+Scope	u-he	com.uheplugins.UhbikA
+Scope	u-he	com.uheplugins.UhbikD
+Scope	u-he	com.uheplugins.UhbikF
+Scope	u-he	com.uheplugins.UhbikG
+Scope	u-he	com.uheplugins.UhbikP
+Scope	u-he	com.uheplugins.UhbikQ
+Scope	u-he	com.uheplugins.UhbikS
+Scope	u-he	com.uheplugins.UhbikT
+Scope	u-he	vst.acEU.ACE(x64)
+Scope	u-he	vst.AMEQ.Filterscape(x64)
+Scope	u-he	vst.cbSy.TripleCheese(x64)
+Scope	u-he	vst.FSQ6.FilterscapeQ6(x64)
+Scope	u-he	vst.FSVA.FilterscapeVA(x64)
+Scope	u-he	vst.MFM2.MFM2(x64)
+Scope	u-he	vst.Podo.Podolski(x64)
+Scope	u-he	vst.Rc17.Runciter(x64)
+Scope	u-he	vst.reV0.ZRev(x64)
+Scope	u-he	vst.SMHZ.ZebraHZ(x64)
+Scope	u-he	vst.SMY2.Zebrify(x64)
+Scope	u-he	vst.UcA1.Uhbik-A(x64)
+Scope	u-he	vst.UcD1.Uhbik-D(x64)
+Scope	u-he	vst.UcF1.Uhbik-F(x64)
+Scope	u-he	vst.UcG1.Uhbik-G(x64)
+Scope	u-he	vst.UcP1.Uhbik-P(x64)
+Scope	u-he	vst.UcQ1.Uhbik-Q(x64)
+Scope	u-he	vst.UcS1.Uhbik-S(x64)
+Scope	u-he	vst.UcT1.Uhbik-T(x64)
+Scope	u-he	vst.uhPV.Protoverb(x64)
+Scope	u-he	vst.uhPW.Presswerk(x64)
+Scope	u-he	vst.uhST.Satin(x64)
+Scope	Unfiltered Audio	com.unfilteredaudio.G8Gate
+Scope	Unfiltered Audio	com.unfilteredaudio.Renoun
+Scope	Unfiltered Audio	com.unfilteredaudio.Sunder
+Scope	Unfiltered Audio	com.unfilteredaudio.Yoko
+Scope	Universal Piper	vst.UPip.Universal Piper
+Scope	UrsaDSP	vst.Pwa7.Lagrange
+Scope	UVI	vst.Rela.Relayerx64
+Scope	UVI	vst.SpVb.SparkVerbx64
+Scope	UVI	vst.ThRs.Thorusx64
+Scope	Vacuumsound	vst.PoPl.Poor Plate
+Scope	Valhalla DSP, LLC	vst.FqEh.ValhallaFreqEcho_x64
+Scope	Valhalla DSP, LLC	vst.plat.ValhallaPlate_x64
+Scope	Valhalla DSP, LLC	vst.Ruum.ValhallaRoom_x64
+Scope	Valhalla DSP, LLC	vst.shmr.ValhallaShimmer_x64
+Scope	Valhalla DSP, LLC	vst.SpMd.ValhallaSpaceModulator_x64
+Scope	Valhalla DSP, LLC	vst.uber.ValhallaUberMod_x64
+Scope	Valhalla DSP, LLC	vst.vee3.ValhallaVintageVerb_x64
+Scope	Vengeance	vst.Avgr.VPS Avenger_x64
+Scope	Venn Audio	vst.Fclp.FreeClip
+Scope	Venn Audio	vst.Haas.QuickHaas
+Scope	Venomode	vst.PiVo.Pivot
+Scope	Vibe Plant	com.vibeplant.DragonGate
+Scope	Vibe Plant	com.vibeplant.Relight
+Scope	VirSyn	vst.VBRK.BARK64
+Scope	VirSyn	vst.VFDL.FDELAY64
+Scope	VirSyn	vst.VMTX.MATRIX64
+Scope	VirSyn	vst.VPRS.PRISM64
+Scope	VirSyn	vst.VRFL.REFLECT64
+Scope	VirSyn	vst.VTDS.TDESIGN64
+Scope	VirSyn	vst.VTPD.VTAPE Delay64
+Scope	VirSyn	vst.VTPE.VTAPE Saturator64
+Scope	VirSyn	vst.VTPF.VTAPE Flanger64
+Scope	vladg/sound	vst.nova.Nova67P x64
+Scope	Vladislav Goncharov	vst.L6v1.Limiter6-x64
+Scope	Vladislav Goncharov	vst.MLT2.Molot03-x64
+Scope	Volko Audio	vst.DrNu.darbuka-nut
+Scope	Volko Audio	vst.VKQA.QA
+Scope	Volko Audio	vst.VKQB.QB
+Scope	Volko Audio	vst.VKQG.QG
+Scope	Voxengo	vst.1565.PHA-979 x64
+Scope	Voxengo	vst.168a.Marvel GEQ x64
+Scope	Voxengo	vst.1n62.Stereo Touch x64
+Scope	Voxengo	vst.222l.Warmifier x64
+Scope	Voxengo	vst.25w3.OldSkoolVerb x64
+Scope	Voxengo	vst.376w.TransGainer x64
+Scope	Voxengo	vst.3m2h.CurveEQ x64
+Scope	Voxengo	vst.4457.Voxformer x64
+Scope	Voxengo	vst.4vo6.SPAN x64
+Scope	Voxengo	vst.50r3.Beeper x64
+Scope	Voxengo	vst.567h.MSED x64
+Scope	Voxengo	vst.5bf4.Boogex x64
+Scope	Voxengo	vst.5l8l.BMS x64
+Scope	Voxengo	vst.5vwg.LF Max Punch x64
+Scope	Voxengo	vst.747r.Latency Delay x64
+Scope	Voxengo	vst.761f.Tempo Delay x64
+Scope	Voxengo	vst.7o4q.Soniformer x64
+Scope	Voxengo	vst.97d2.Crunchessor x64
+Scope	Voxengo	vst.d5g4.Polysquasher x64
+Scope	Voxengo	vst.f167.Sound Delay x64
+Scope	Voxengo	vst.f9c2.SPAN Plus x64
+Scope	Voxengo	vst.hei8.Spatifier x64
+Scope	Voxengo	vst.i7ay.Marquis Compressor x64
+Scope	Voxengo	vst.l03o.PrimeEQ x64
+Scope	Voxengo	vst.m375.HarmoniEQ x64
+Scope	Voxengo	vst.n048.AnSpec x64
+Scope	Voxengo	vst.norc.OldSkoolVerb Plus x64
+Scope	Voxengo	vst.p87x.Elephant x64
+Scope	Voxengo	vst.qwpc.Polysquasher 3 x64
+Scope	Voxengo	vst.qyp7.Tube Amp x64
+Scope	Voxengo	vst.r463.Shinechilla x64
+Scope	Voxengo	vst.tkv2.EBusLim x64
+Scope	Voxengo	vst.VOXO.Overtone GEQ x64
+Scope	Voxengo	vst.VOXV.VariSaturator x64
+Scope	Voxengo	vst.y0au.GlissEQ x64
+Scope	Voxengo	vst.y34u.Drumformer x64
+Scope	Voxengo	vst.zz99.Deft Compressor x64
+Scope	W.A.Production	vst.as5a.Helper-Saturator
+Scope	Waldorf	vst.3EVc.Lector Carrier
+Scope	Waldorf	vst.3EVo.Lector
+Scope	Waldorf	vst.nave.Nave
+Scope	Wave Arts	vst.WTSV.TubeSaturatorVintage_64
+Scope	Waves	vst.76CM.WaveShell-VST 9_91_x64.CLA-76 Mono
+Scope	Waves	vst.76CS.WaveShell-VST 9_91_x64.CLA-76 Stereo
+Scope	Waves	vst.A5AM.WaveShell-VST 9_91_x64.API-550A Mono
+Scope	Waves	vst.A5AS.WaveShell-VST 9_91_x64.API-550A Stereo
+Scope	Waves	vst.A5BM.WaveShell-VST 9_91_x64.API-550B Mono
+Scope	Waves	vst.A5BS.WaveShell-VST 9_91_x64.API-550B Stereo
+Scope	Waves	vst.AD2S.WaveShell-VST 9_91_x64.Reel ADT2V Stereo
+Scope	Waves	vst.AD2X.WaveShell-VST 9_91_x64.Reel ADT2V Mono/Stereo
+Scope	Waves	vst.ADLM.WaveShell-VST 9_91_x64.Reel ADT Live Mono
+Scope	Waves	vst.ADLS.WaveShell-VST 9_91_x64.Reel ADT Live Stereo
+Scope	Waves	vst.ADLX.WaveShell-VST 9_91_x64.Reel ADT Live Mono/Stereo
+Scope	Waves	vst.ADTM.WaveShell-VST 9_91_x64.Reel ADT Mono
+Scope	Waves	vst.ADTS.WaveShell-VST 9_91_x64.Reel ADT Stereo
+Scope	Waves	vst.ADTX.WaveShell-VST 9_91_x64.Reel ADT Mono/Stereo
+Scope	Waves	vst.AE5M.WaveShell-VST 9_91_x64.API-560 Mono
+Scope	Waves	vst.AE5S.WaveShell-VST 9_91_x64.API-560 Stereo
+Scope	Waves	vst.AFSM.WaveShell-VST 9_91_x64.X-FDBK Mono
+Scope	Waves	vst.AFSS.WaveShell-VST 9_91_x64.X-FDBK Stereo
+Scope	Waves	vst.AL2S.WaveShell-VST 9_91_x64.Reel ADT2V Live Stereo
+Scope	Waves	vst.AL2X.WaveShell-VST 9_91_x64.Reel ADT2V Live Mono/Stereo
+Scope	Waves	vst.ANSM.WaveShell-VST 9_91_x64.NS1 Mono
+Scope	Waves	vst.ANSS.WaveShell-VST 9_91_x64.NS1 Stereo
+Scope	Waves	vst.APCM.WaveShell-VST 9_91_x64.API-2500 Mono
+Scope	Waves	vst.APCS.WaveShell-VST 9_91_x64.API-2500 Stereo
+Scope	Waves	vst.APHM.WaveShell-VST 9_91_x64.Aphex Vintage Exciter Mono
+Scope	Waves	vst.APHS.WaveShell-VST 9_91_x64.Aphex Vintage Exciter Stereo
+Scope	Waves	vst.ASPM.WaveShell-VST 9_91_x64.Scheps Parallel Particles Mono
+Scope	Waves	vst.ASPS.WaveShell-VST 9_91_x64.Scheps Parallel Particles Stereo
+Scope	Waves	vst.BAMM.WaveShell-VST 9_91_x64.Sub Align Mono
+Scope	Waves	vst.BASS.WaveShell-VST 9_91_x64.Sub Align Stereo
+Scope	Waves	vst.BDRM.WaveShell-VST 9_91_x64.DPR-402 Mono
+Scope	Waves	vst.BDRS.WaveShell-VST 9_91_x64.DPR-402 Stereo
+Scope	Waves	vst.BRTM.WaveShell-VST 9_91_x64.DeBreath Mono
+Scope	Waves	vst.BSLM.WaveShell-VST 9_91_x64.Bass Rider Mono
+Scope	Waves	vst.BSLS.WaveShell-VST 9_91_x64.Bass Rider Stereo
+Scope	Waves	vst.BSVM.WaveShell-VST 9_91_x64.Bass Rider Live Mono
+Scope	Waves	vst.BSVS.WaveShell-VST 9_91_x64.Bass Rider Live Stereo
+Scope	Waves	vst.BVVM.WaveShell-VST 9_91_x64.Butch Vig Vocals Mono
+Scope	Waves	vst.C0EM.WaveShell-VST 9_91_x64.IR-L Mono
+Scope	Waves	vst.C0ES.WaveShell-VST 9_91_x64.IR-L efficient Stereo
+Scope	Waves	vst.C0EX.WaveShell-VST 9_91_x64.IR-L Mono/Stereo
+Scope	Waves	vst.C0FS.WaveShell-VST 9_91_x64.IR-L full Stereo
+Scope	Waves	vst.C1CM.WaveShell-VST 9_91_x64.C1 comp-sc Mono
+Scope	Waves	vst.C1CS.WaveShell-VST 9_91_x64.C1 comp-sc Stereo
+Scope	Waves	vst.C6QM.WaveShell-VST 9_91_x64.C6 Mono
+Scope	Waves	vst.C6QS.WaveShell-VST 9_91_x64.C6 Stereo
+Scope	Waves	vst.C6SM.WaveShell-VST 9_91_x64.C6-SideChain Mono
+Scope	Waves	vst.C6SS.WaveShell-VST 9_91_x64.C6-SideChain Stereo
+Scope	Waves	vst.CBAS.WaveShell-VST 9_91_x64.CLA Bass Stereo
+Scope	Waves	vst.CBAX.WaveShell-VST 9_91_x64.CLA Bass Mono/Stereo
+Scope	Waves	vst.CDRS.WaveShell-VST 9_91_x64.CLA Drums Stereo
+Scope	Waves	vst.CDRX.WaveShell-VST 9_91_x64.CLA Drums Mono/Stereo
+Scope	Waves	vst.CDYM.WaveShell-VST 9_91_x64.EMO-D5 Mono
+Scope	Waves	vst.CDYS.WaveShell-VST 9_91_x64.EMO-D5 Stereo
+Scope	Waves	vst.CEFS.WaveShell-VST 9_91_x64.CLA Effects Stereo
+Scope	Waves	vst.CEFX.WaveShell-VST 9_91_x64.CLA Effects Mono/Stereo
+Scope	Waves	vst.CFLM.WaveShell-VST 9_91_x64.EMO-F2 Mono
+Scope	Waves	vst.CFLS.WaveShell-VST 9_91_x64.EMO-F2 Stereo
+Scope	Waves	vst.CGTS.WaveShell-VST 9_91_x64.CLA Guitars Stereo
+Scope	Waves	vst.CGTX.WaveShell-VST 9_91_x64.CLA Guitars Mono/Stereo
+Scope	Waves	vst.CIEM.WaveShell-VST 9_91_x64.IRLive Mono
+Scope	Waves	vst.CIES.WaveShell-VST 9_91_x64.IRLive Stereo
+Scope	Waves	vst.CIEX.WaveShell-VST 9_91_x64.IRLive Mono/Stereo
+Scope	Waves	vst.CLAM.WaveShell-VST 9_91_x64.H-Comp Mono
+Scope	Waves	vst.CMPM.WaveShell-VST 9_91_x64.C1 comp Mono
+Scope	Waves	vst.CMPS.WaveShell-VST 9_91_x64.C1 comp Stereo
+Scope	Waves	vst.CNTS.WaveShell-VST 9_91_x64.Center Stereo
+Scope	Waves	vst.COMM.WaveShell-VST 9_91_x64.C1 comp-gate Mono
+Scope	Waves	vst.COMS.WaveShell-VST 9_91_x64.C1 comp-gate Stereo
+Scope	Waves	vst.CUNS.WaveShell-VST 9_91_x64.CLA Unplugged Stereo
+Scope	Waves	vst.CUNX.WaveShell-VST 9_91_x64.CLA Unplugged Mono/Stereo
+Scope	Waves	vst.CVE5.WaveShell-VST 9_91_x64.IR360 sound field 5_0
+Scope	Waves	vst.CVE6.WaveShell-VST 9_91_x64.IR360 sound field 5_1
+Scope	Waves	vst.CVEM.WaveShell-VST 9_91_x64.IR1 Mono
+Scope	Waves	vst.CVES.WaveShell-VST 9_91_x64.IR1 efficient Stereo
+Scope	Waves	vst.CVET.WaveShell-VST 9_91_x64.IR360 eff s_field Stereo/5_0
+Scope	Waves	vst.CVEX.WaveShell-VST 9_91_x64.IR1 Mono/Stereo
+Scope	Waves	vst.CVEY.WaveShell-VST 9_91_x64.IR360 sound field Mono/5_0
+Scope	Waves	vst.CVFS.WaveShell-VST 9_91_x64.IR1 full Stereo
+Scope	Waves	vst.CVFT.WaveShell-VST 9_91_x64.IR360 sound field Stereo/5_0
+Scope	Waves	vst.CVOS.WaveShell-VST 9_91_x64.CLA Vocals Stereo
+Scope	Waves	vst.CVOX.WaveShell-VST 9_91_x64.CLA Vocals Mono/Stereo
+Scope	Waves	vst.CVQ5.WaveShell-VST 9_91_x64.IR360 eff discrete 5_0
+Scope	Waves	vst.CVQ6.WaveShell-VST 9_91_x64.IR360 eff discrete 5_1
+Scope	Waves	vst.CVQT.WaveShell-VST 9_91_x64.IR360 eff discrete Stereo/5_0
+Scope	Waves	vst.CVQY.WaveShell-VST 9_91_x64.IR360 discrete Mono/5_0
+Scope	Waves	vst.DDMT.WaveShell-VST 9_91_x64.DTS Neural DownMix 7_1 to 5_1 7_
+Scope	Waves	vst.DDMU.WaveShell-VST 9_91_x64.DTS Neural DownMix 5_1 to Stereo
+Scope	Waves	vst.DEQM.WaveShell-VST 9_91_x64.C4 Mono
+Scope	Waves	vst.DEQS.WaveShell-VST 9_91_x64.C4 Stereo
+Scope	Waves	vst.DMLT.WaveShell-VST 9_91_x64.DTS Neural DownMix 7_1 to Stereo
+Scope	Waves	vst.DMST.WaveShell-VST 9_91_x64.DTS Neural Mono2Stereo Mono/Ster
+Scope	Waves	vst.DPAS.WaveShell-VST 9_91_x64.Doppler Stereo
+Scope	Waves	vst.DPAX.WaveShell-VST 9_91_x64.Doppler Mono/Stereo
+Scope	Waves	vst.DRG5.WaveShell-VST 9_91_x64.Dorrough360 5_0
+Scope	Waves	vst.DRG6.WaveShell-VST 9_91_x64.Dorrough360 5_1
+Scope	Waves	vst.DRGM.WaveShell-VST 9_91_x64.Dorrough Mono
+Scope	Waves	vst.DRGS.WaveShell-VST 9_91_x64.Dorrough Stereo
+Scope	Waves	vst.DSAM.WaveShell-VST 9_91_x64.DeEsser Mono
+Scope	Waves	vst.DSAS.WaveShell-VST 9_91_x64.DeEsser Stereo
+Scope	Waves	vst.DUFS.WaveShell-VST 9_91_x64.DTS Neural UpMix 5_1/7_1
+Scope	Waves	vst.DUPF.WaveShell-VST 9_91_x64.DTS Neural UpMix Stereo/7_1
+Scope	Waves	vst.DUPU.WaveShell-VST 9_91_x64.DTS Neural UpMix Stereo/5_1
+Scope	Waves	vst.EKBM.WaveShell-VST 9_91_x64.EKramer BA Mono
+Scope	Waves	vst.EKBS.WaveShell-VST 9_91_x64.EKramer BA Stereo
+Scope	Waves	vst.EKDM.WaveShell-VST 9_91_x64.EKramer DR Mono
+Scope	Waves	vst.EKDS.WaveShell-VST 9_91_x64.EKramer DR Stereo
+Scope	Waves	vst.EKFS.WaveShell-VST 9_91_x64.EKramer FX Stereo
+Scope	Waves	vst.EKFX.WaveShell-VST 9_91_x64.EKramer FX Mono/Stereo
+Scope	Waves	vst.EKGS.WaveShell-VST 9_91_x64.EKramer GT Stereo
+Scope	Waves	vst.EKGX.WaveShell-VST 9_91_x64.EKramer GT Mono/Stereo
+Scope	Waves	vst.EKVS.WaveShell-VST 9_91_x64.EKramer VC Stereo
+Scope	Waves	vst.EKVX.WaveShell-VST 9_91_x64.EKramer VC Mono/Stereo
+Scope	Waves	vst.EL2S.WaveShell-VST 9_91_x64.Electric200 Stereo
+Scope	Waves	vst.EL8S.WaveShell-VST 9_91_x64.Electric88 Stereo
+Scope	Waves	vst.ENGS.WaveShell-VST 9_91_x64.Enigma Stereo
+Scope	Waves	vst.ENGX.WaveShell-VST 9_91_x64.Enigma Mono/Stereo
+Scope	Waves	vst.EQ1M.WaveShell-VST 9_91_x64.Q1 Mono
+Scope	Waves	vst.EQ1S.WaveShell-VST 9_91_x64.Q1 Stereo
+Scope	Waves	vst.EQ2M.WaveShell-VST 9_91_x64.Q2 Mono
+Scope	Waves	vst.EQ2S.WaveShell-VST 9_91_x64.Q2 Stereo
+Scope	Waves	vst.EQ3M.WaveShell-VST 9_91_x64.Q3 Mono
+Scope	Waves	vst.EQ3S.WaveShell-VST 9_91_x64.Q3 Stereo
+Scope	Waves	vst.EQ4M.WaveShell-VST 9_91_x64.Q4 Mono
+Scope	Waves	vst.EQ4S.WaveShell-VST 9_91_x64.Q4 Stereo
+Scope	Waves	vst.EQ6M.WaveShell-VST 9_91_x64.Q6 Mono
+Scope	Waves	vst.EQ6S.WaveShell-VST 9_91_x64.Q6 Stereo
+Scope	Waves	vst.EQ8M.WaveShell-VST 9_91_x64.Q8 Mono
+Scope	Waves	vst.EQ8S.WaveShell-VST 9_91_x64.Q8 Stereo
+Scope	Waves	vst.EQAM.WaveShell-VST 9_91_x64.Q10 Mono
+Scope	Waves	vst.EQAS.WaveShell-VST 9_91_x64.Q10 Stereo
+Scope	Waves	vst.EQLM.WaveShell-VST 9_91_x64.H-EQ-Light Mono
+Scope	Waves	vst.EQLS.WaveShell-VST 9_91_x64.H-EQ-Light Stereo
+Scope	Waves	vst.FCHM.WaveShell-VST 9_91_x64.PuigChild 660 Mono
+Scope	Waves	vst.FCHS.WaveShell-VST 9_91_x64.PuigChild 670 Stereo
+Scope	Waves	vst.FLNM.WaveShell-VST 9_91_x64.MetaFlanger Mono
+Scope	Waves	vst.FLNS.WaveShell-VST 9_91_x64.MetaFlanger Stereo
+Scope	Waves	vst.FLNX.WaveShell-VST 9_91_x64.MetaFlanger Mono/Stereo
+Scope	Waves	vst.GA2M.WaveShell-VST 9_91_x64.GTR Amp 2Cab Mono
+Scope	Waves	vst.GAMM.WaveShell-VST 9_91_x64.GTR Amp Mono
+Scope	Waves	vst.GAMS.WaveShell-VST 9_91_x64.GTR Amp Stereo
+Scope	Waves	vst.GAMX.WaveShell-VST 9_91_x64.GTR Amp Mono/Stereo
+Scope	Waves	vst.GATM.WaveShell-VST 9_91_x64.C1 gate Mono
+Scope	Waves	vst.GATS.WaveShell-VST 9_91_x64.C1 gate Stereo
+Scope	Waves	vst.GC2M.WaveShell-VST 9_91_x64.GTR Stomp 2 Mono
+Scope	Waves	vst.GC2S.WaveShell-VST 9_91_x64.GTR Stomp 2 Stereo
+Scope	Waves	vst.GC2X.WaveShell-VST 9_91_x64.GTR Stomp 2 Mono/Stereo
+Scope	Waves	vst.GC4M.WaveShell-VST 9_91_x64.GTR Stomp 4 Mono
+Scope	Waves	vst.GC4S.WaveShell-VST 9_91_x64.GTR Stomp 4 Stereo
+Scope	Waves	vst.GC4X.WaveShell-VST 9_91_x64.GTR Stomp 4 Mono/Stereo
+Scope	Waves	vst.GCNM.WaveShell-VST 9_91_x64.GTR Stomp 6 Mono
+Scope	Waves	vst.GCNS.WaveShell-VST 9_91_x64.GTR Stomp 6 Stereo
+Scope	Waves	vst.GCNX.WaveShell-VST 9_91_x64.GTR Stomp 6 Mono/Stereo
+Scope	Waves	vst.GQMM.WaveShell-VST 9_91_x64.GEQ Classic Mono
+Scope	Waves	vst.GQMS.WaveShell-VST 9_91_x64.GEQ Classic Stereo
+Scope	Waves	vst.GR8S.WaveShell-VST 9_91_x64.Electric Grand 80 Stereo
+Scope	Waves	vst.GRHS.WaveShell2-VST 10_0_x64.Grand Rhapsody Piano Stereo
+Scope	Waves	vst.GRMM.WaveShell-VST 9_91_x64.GW ToneCentric Mono
+Scope	Waves	vst.GRMS.WaveShell-VST 9_91_x64.GW ToneCentric Stereo
+Scope	Waves	vst.GRPM.WaveShell-VST 9_91_x64.Maserati GRP Mono
+Scope	Waves	vst.GRPS.WaveShell-VST 9_91_x64.Maserati GRP Stereo
+Scope	Waves	vst.GVMS.WaveShell-VST 9_91_x64.GTR Tool Rack Stereo
+Scope	Waves	vst.GVMX.WaveShell-VST 9_91_x64.GTR Tool Rack Mono/Stereo
+Scope	Waves	vst.GVSS.WaveShell-VST 9_91_x64.GTR Solo Tool Rack Stereo
+Scope	Waves	vst.GVSX.WaveShell-VST 9_91_x64.GTR Solo Tool Rack Mono/Stereo
+Scope	Waves	vst.GWMM.WaveShell-VST 9_91_x64.GW MixCentric Mono
+Scope	Waves	vst.GWMS.WaveShell-VST 9_91_x64.GW MixCentric Stereo
+Scope	Waves	vst.GWPM.WaveShell-VST 9_91_x64.GW PianoCentric Mono
+Scope	Waves	vst.GWPS.WaveShell-VST 9_91_x64.GW PianoCentric Stereo
+Scope	Waves	vst.GWPX.WaveShell-VST 9_91_x64.GW PianoCentric Mono/Stereo
+Scope	Waves	vst.HBDM.WaveShell-VST 9_91_x64.H-Delay Mono
+Scope	Waves	vst.HBDS.WaveShell-VST 9_91_x64.H-Delay Stereo
+Scope	Waves	vst.HBDX.WaveShell-VST 9_91_x64.H-Delay Mono/Stereo
+Scope	Waves	vst.HELS.WaveShell-VST 9_91_x64.Kramer HLS Stereo
+Scope	Waves	vst.HEQM.WaveShell-VST 9_91_x64.H-EQ Mono
+Scope	Waves	vst.HEQS.WaveShell-VST 9_91_x64.H-EQ Stereo
+Scope	Waves	vst.HRS5.WaveShell-VST 9_91_x64.H-Reverb 5_0
+Scope	Waves	vst.HRS6.WaveShell-VST 9_91_x64.H-Reverb 5_1
+Scope	Waves	vst.HRSM.WaveShell-VST 9_91_x64.H-Reverb Mono
+Scope	Waves	vst.HRSS.WaveShell-VST 9_91_x64.H-Reverb Stereo
+Scope	Waves	vst.HRST.WaveShell-VST 9_91_x64.H-Reverb Stereo/5_0
+Scope	Waves	vst.HRSU.WaveShell-VST 9_91_x64.H-Reverb Stereo/5_1
+Scope	Waves	vst.HRSX.WaveShell-VST 9_91_x64.H-Reverb Mono/Stereo
+Scope	Waves	vst.HRSY.WaveShell-VST 9_91_x64.H-Reverb Mono/5_0
+Scope	Waves	vst.HRV5.WaveShell-VST 9_91_x64.H-Reverb long 5_0
+Scope	Waves	vst.HRV6.WaveShell-VST 9_91_x64.H-Reverb long 5_1
+Scope	Waves	vst.HRVM.WaveShell-VST 9_91_x64.H-Reverb long Mono
+Scope	Waves	vst.HRVS.WaveShell-VST 9_91_x64.H-Reverb long Stereo
+Scope	Waves	vst.HRVT.WaveShell-VST 9_91_x64.H-Reverb long Stereo/5_0
+Scope	Waves	vst.HRVU.WaveShell-VST 9_91_x64.H-Reverb long Stereo/5_1
+Scope	Waves	vst.HRVX.WaveShell-VST 9_91_x64.H-Reverb long Mono/Stereo
+Scope	Waves	vst.HRVY.WaveShell-VST 9_91_x64.H-Reverb long Mono/5_0
+Scope	Waves	vst.HRVZ.WaveShell-VST 9_91_x64.H-Reverb long Mono/5_1
+Scope	Waves	vst.IMPM.WaveShell-VST 9_91_x64.IMPusher Mono
+Scope	Waves	vst.IMPS.WaveShell-VST 9_91_x64.IMPusher Stereo
+Scope	Waves	vst.IVLM.WaveShell-VST 9_91_x64.MaxxVolume Mono
+Scope	Waves	vst.IVLS.WaveShell-VST 9_91_x64.MaxxVolume Stereo
+Scope	Waves	vst.JFGS.WaveShell-VST 9_91_x64.Element Stereo
+Scope	Waves	vst.JFWS.WaveShell-VST 9_91_x64.CODEX Stereo
+Scope	Waves	vst.JPBM.WaveShell-VST 9_91_x64.JJP-Bass Mono
+Scope	Waves	vst.JPBS.WaveShell-VST 9_91_x64.JJP-Bass Stereo
+Scope	Waves	vst.JPBX.WaveShell-VST 9_91_x64.JJP-Bass Mono/Stereo
+Scope	Waves	vst.JPDM.WaveShell-VST 9_91_x64.JJP-Drums Mono
+Scope	Waves	vst.JPDS.WaveShell-VST 9_91_x64.JJP-Drums Stereo
+Scope	Waves	vst.JPDX.WaveShell-VST 9_91_x64.JJP-Drums Mono/Stereo
+Scope	Waves	vst.JPGS.WaveShell-VST 9_91_x64.JJP-Guitars Stereo
+Scope	Waves	vst.JPGX.WaveShell-VST 9_91_x64.JJP-Guitars Mono/Stereo
+Scope	Waves	vst.JPPS.WaveShell-VST 9_91_x64.JJP-Cymb-Perc Stereo
+Scope	Waves	vst.JPPX.WaveShell-VST 9_91_x64.JJP-Cymb-Perc Mono/Stereo
+Scope	Waves	vst.JPSS.WaveShell-VST 9_91_x64.JJP-Strings-Keys Stereo
+Scope	Waves	vst.JPSX.WaveShell-VST 9_91_x64.JJP-Strings-Keys Mono/Stereo
+Scope	Waves	vst.JPVS.WaveShell-VST 9_91_x64.JJP-Vocals Stereo
+Scope	Waves	vst.JPVX.WaveShell-VST 9_91_x64.JJP-Vocals Mono/Stereo
+Scope	Waves	vst.KPTM.WaveShell-VST 9_91_x64.OneKnob Phatter Mono
+Scope	Waves	vst.KPTS.WaveShell-VST 9_91_x64.OneKnob Phatter Stereo
+Scope	Waves	vst.L1CM.WaveShell-VST 9_91_x64.L1 limiter Mono
+Scope	Waves	vst.L1CS.WaveShell-VST 9_91_x64.L1 limiter Stereo
+Scope	Waves	vst.L2MM.WaveShell-VST 9_91_x64.L2 Mono
+Scope	Waves	vst.L2MS.WaveShell-VST 9_91_x64.L2 Stereo
+Scope	Waves	vst.L3GM.WaveShell-VST 9_91_x64.L3 UltraMaximizer Mono
+Scope	Waves	vst.L3GS.WaveShell-VST 9_91_x64.L3 UltraMaximizer Stereo
+Scope	Waves	vst.L3I5.WaveShell-VST 9_91_x64.IDR360 5_0
+Scope	Waves	vst.L3I6.WaveShell-VST 9_91_x64.IDR360 5_1
+Scope	Waves	vst.L3M5.WaveShell-VST 9_91_x64.L360 5_0
+Scope	Waves	vst.L3M6.WaveShell-VST 9_91_x64.L360 5_1
+Scope	Waves	vst.L3PM.WaveShell-VST 9_91_x64.L3 MultiMaximizer Mono
+Scope	Waves	vst.L3PS.WaveShell-VST 9_91_x64.L3 MultiMaximizer Stereo
+Scope	Waves	vst.LA2M.WaveShell-VST 9_91_x64.CLA-2A Mono
+Scope	Waves	vst.LA2S.WaveShell-VST 9_91_x64.CLA-2A Stereo
+Scope	Waves	vst.LA3M.WaveShell-VST 9_91_x64.CLA-3A Mono
+Scope	Waves	vst.LA3S.WaveShell-VST 9_91_x64.CLA-3A Stereo
+Scope	Waves	vst.LC5M.WaveShell-VST 9_91_x64.LinMB Mono
+Scope	Waves	vst.LC5S.WaveShell-VST 9_91_x64.LinMB Stereo
+Scope	Waves	vst.LFE6.WaveShell-VST 9_91_x64.LFE360 5_1
+Scope	Waves	vst.LFEM.WaveShell-VST 9_91_x64.LFE360 Mono
+Scope	Waves	vst.LIM1.WaveShell-VST 9_91_x64.L1+ Ultramaximizer Stereo
+Scope	Waves	vst.LOA6.WaveShell-VST 9_91_x64.LoAir 5_1
+Scope	Waves	vst.LOAB.WaveShell-VST 9_91_x64.LoAir 5_0/5_1
+Scope	Waves	vst.LOAM.WaveShell-VST 9_91_x64.LoAir Mono
+Scope	Waves	vst.LOAS.WaveShell-VST 9_91_x64.LoAir Stereo
+Scope	Waves	vst.LQAM.WaveShell-VST 9_91_x64.LinEQ Broadband Mono
+Scope	Waves	vst.LQAS.WaveShell-VST 9_91_x64.LinEQ Broadband Stereo
+Scope	Waves	vst.LQSM.WaveShell-VST 9_91_x64.LinEQ Lowband Mono
+Scope	Waves	vst.LQSS.WaveShell-VST 9_91_x64.LinEQ Lowband Stereo
+Scope	Waves	vst.LRDM.WaveShell-VST 9_91_x64.Vocal Rider Live Mono
+Scope	Waves	vst.LRDS.WaveShell-VST 9_91_x64.Vocal Rider Live Stereo
+Scope	Waves	vst.LVLM.WaveShell-VST 9_91_x64.Waves Tune Real-Time Mono
+Scope	Waves	vst.LVLS.WaveShell-VST 9_91_x64.Waves Tune Real-Time Stereo
+Scope	Waves	vst.MMCM.WaveShell-VST 9_91_x64.MannyM Tone Shaper Mono
+Scope	Waves	vst.MMCS.WaveShell-VST 9_91_x64.MannyM Tone Shaper Stereo
+Scope	Waves	vst.MMDS.WaveShell-VST 9_91_x64.MannyM Delay Stereo
+Scope	Waves	vst.MMDX.WaveShell-VST 9_91_x64.MannyM Delay Mono/Stereo
+Scope	Waves	vst.MMEM.WaveShell-VST 9_91_x64.MannyM EQ Mono
+Scope	Waves	vst.MMES.WaveShell-VST 9_91_x64.MannyM EQ Stereo
+Scope	Waves	vst.MMRS.WaveShell-VST 9_91_x64.MannyM Reverb Stereo
+Scope	Waves	vst.MMRX.WaveShell-VST 9_91_x64.MannyM Reverb Mono/Stereo
+Scope	Waves	vst.MMSM.WaveShell-VST 9_91_x64.MannyM TripleD Mono
+Scope	Waves	vst.MMSS.WaveShell-VST 9_91_x64.MannyM TripleD Stereo
+Scope	Waves	vst.MMTS.WaveShell-VST 9_91_x64.MannyM Distortion Stereo
+Scope	Waves	vst.MODM.WaveShell-VST 9_91_x64.MondoMod Mono
+Scope	Waves	vst.MODS.WaveShell-VST 9_91_x64.MondoMod Stereo
+Scope	Waves	vst.MODX.WaveShell-VST 9_91_x64.MondoMod Mono/Stereo
+Scope	Waves	vst.MQ4M.WaveShell-VST 9_91_x64.EMO-Q4 Mono
+Scope	Waves	vst.MQ4S.WaveShell-VST 9_91_x64.EMO-Q4 Stereo
+Scope	Waves	vst.MT2M.WaveShell-VST 9_91_x64.SuperTap 2-Taps Mono
+Scope	Waves	vst.MT2S.WaveShell-VST 9_91_x64.SuperTap 2-Taps Stereo
+Scope	Waves	vst.MT2X.WaveShell-VST 9_91_x64.SuperTap 2-Taps Mono/Stereo
+Scope	Waves	vst.MT6M.WaveShell-VST 9_91_x64.SuperTap 6-Taps Mono
+Scope	Waves	vst.MT6S.WaveShell-VST 9_91_x64.SuperTap 6-Taps Stereo
+Scope	Waves	vst.MT6X.WaveShell-VST 9_91_x64.SuperTap 6-Taps Mono/Stereo
+Scope	Waves	vst.MV2M.WaveShell-VST 9_91_x64.MV2 Mono
+Scope	Waves	vst.MV2S.WaveShell-VST 9_91_x64.MV2 Stereo
+Scope	Waves	vst.MXBM.WaveShell-VST 9_91_x64.MaxxBass Mono
+Scope	Waves	vst.MXBS.WaveShell-VST 9_91_x64.MaxxBass Stereo
+Scope	Waves	vst.MXV5.WaveShell-VST 9_91_x64.MV360 5_0
+Scope	Waves	vst.MXV6.WaveShell-VST 9_91_x64.MV360 5_1
+Scope	Waves	vst.MXVM.WaveShell-VST 9_91_x64.RVox Mono
+Scope	Waves	vst.MXVS.WaveShell-VST 9_91_x64.RVox Stereo
+Scope	Waves	vst.N73M.WaveShell-VST 9_91_x64.Scheps 73 Mono
+Scope	Waves	vst.N73S.WaveShell-VST 9_91_x64.Scheps 73 Stereo
+Scope	Waves	vst.NEQM.WaveShell-VST 9_91_x64.VEQ3 Mono
+Scope	Waves	vst.NEQS.WaveShell-VST 9_91_x64.VEQ3 Stereo
+Scope	Waves	vst.NIDS.WaveShell-VST 9_91_x64.S1 Shuffler Stereo
+Scope	Waves	vst.NSHS.WaveShell-VST 9_91_x64.S1 Imager Stereo
+Scope	Waves	vst.NVCM.WaveShell-VST 9_91_x64.VComp Mono
+Scope	Waves	vst.NVCS.WaveShell-VST 9_91_x64.VComp Stereo
+Scope	Waves	vst.NX55.WaveShell-VST 9_91_x64.NX 5_0
+Scope	Waves	vst.NX5S.WaveShell-VST 9_91_x64.NX 5_0/Stereo
+Scope	Waves	vst.NX66.WaveShell-VST 9_91_x64.NX 5_1
+Scope	Waves	vst.NX88.WaveShell-VST 9_91_x64.NX 7_1
+Scope	Waves	vst.NX8S.WaveShell-VST 9_91_x64.NX 7_1/Stereo
+Scope	Waves	vst.NXMM.WaveShell-VST 9_91_x64.NX Mono/Stereo
+Scope	Waves	vst.NXSS.WaveShell-VST 9_91_x64.NX Stereo
+Scope	Waves	vst.OKBM.WaveShell-VST 9_91_x64.OneKnob Brighter Mono
+Scope	Waves	vst.OKBS.WaveShell-VST 9_91_x64.OneKnob Brighter Stereo
+Scope	Waves	vst.OKCM.WaveShell-VST 9_91_x64.OneKnob Pressure Mono
+Scope	Waves	vst.OKCS.WaveShell-VST 9_91_x64.OneKnob Pressure Stereo
+Scope	Waves	vst.OKDM.WaveShell-VST 9_91_x64.OneKnob Driver Mono
+Scope	Waves	vst.OKDS.WaveShell-VST 9_91_x64.OneKnob Driver Stereo
+Scope	Waves	vst.OKLM.WaveShell-VST 9_91_x64.OneKnob Louder Mono
+Scope	Waves	vst.OKLS.WaveShell-VST 9_91_x64.OneKnob Louder Stereo
+Scope	Waves	vst.OKWM.WaveShell-VST 9_91_x64.OneKnob Wetter Mono
+Scope	Waves	vst.OKWS.WaveShell-VST 9_91_x64.OneKnob Wetter Stereo
+Scope	Waves	vst.OKWX.WaveShell-VST 9_91_x64.OneKnob Wetter Mono/Stereo
+Scope	Waves	vst.P1AM.WaveShell-VST 9_91_x64.PuigTec EQP1A Mono
+Scope	Waves	vst.P1AS.WaveShell-VST 9_91_x64.PuigTec EQP1A Stereo
+Scope	Waves	vst.PHAM.WaveShell-VST 9_91_x64.InPhase LT Mono
+Scope	Waves	vst.PHBM.WaveShell-VST 9_91_x64.InPhase LT Live Mono
+Scope	Waves	vst.PHBS.WaveShell-VST 9_91_x64.InPhase LT Live Stereo
+Scope	Waves	vst.PHLM.WaveShell-VST 9_91_x64.InPhase Live Mono
+Scope	Waves	vst.PHLS.WaveShell-VST 9_91_x64.InPhase Live Stereo
+Scope	Waves	vst.PHZM.WaveShell-VST 9_91_x64.InPhase Mono
+Scope	Waves	vst.PHZS.WaveShell-VST 9_91_x64.InPhase Stereo
+Scope	Waves	vst.PLTM.WaveShell-VST 9_91_x64.Abbey Road Plates Mono
+Scope	Waves	vst.PLTS.WaveShell-VST 9_91_x64.Abbey Road Plates Stereo
+Scope	Waves	vst.PLTX.WaveShell-VST 9_91_x64.Abbey Road Plates Mono/Stereo
+Scope	Waves	vst.PM5M.WaveShell-VST 9_91_x64.PuigTec MEQ5 Mono
+Scope	Waves	vst.PM5S.WaveShell-VST 9_91_x64.PuigTec MEQ5 Stereo
+Scope	Waves	vst.PNC5.WaveShell-VST 9_91_x64.M360 Manager 5_0
+Scope	Waves	vst.PNC6.WaveShell-VST 9_91_x64.M360 Manager 5_1
+Scope	Waves	vst.PNEY.WaveShell-VST 9_91_x64.S360 Imager Mono/5_0
+Scope	Waves	vst.PNEZ.WaveShell-VST 9_91_x64.S360 Imager Mono/5_1
+Scope	Waves	vst.PNF5.WaveShell-VST 9_91_x64.S360 Imager 5_0
+Scope	Waves	vst.PNF6.WaveShell-VST 9_91_x64.S360 Imager 5_1
+Scope	Waves	vst.PNFT.WaveShell-VST 9_91_x64.S360 Imager Stereo/5_0
+Scope	Waves	vst.PNFU.WaveShell-VST 9_91_x64.S360 Imager Stereo/5_1
+Scope	Waves	vst.PNM5.WaveShell-VST 9_91_x64.M360 Mixdown 5_0
+Scope	Waves	vst.PNM6.WaveShell-VST 9_91_x64.M360 Mixdown 5_1
+Scope	Waves	vst.PNXT.WaveShell-VST 9_91_x64.S360 Panner Stereo/5_0
+Scope	Waves	vst.PNXU.WaveShell-VST 9_91_x64.S360 Panner Stereo/5_1
+Scope	Waves	vst.PNXY.WaveShell-VST 9_91_x64.S360 Panner Mono/5_0
+Scope	Waves	vst.PNXZ.WaveShell-VST 9_91_x64.S360 Panner Mono/5_1
+Scope	Waves	vst.PRSM.WaveShell-VST 9_91_x64.Saphira Mono
+Scope	Waves	vst.PRSS.WaveShell-VST 9_91_x64.Saphira Stereo
+Scope	Waves	vst.PS8M.WaveShell-VST 9_91_x64.PS22 Spread(10) Mono/Stereo
+Scope	Waves	vst.PSEM.WaveShell-VST 9_91_x64.PS22 Spread Mono/Stereo
+Scope	Waves	vst.PSES.WaveShell-VST 9_91_x64.PS22 Spread Stereo
+Scope	Waves	vst.PSSM.WaveShell-VST 9_91_x64.PS22 Split Mono/Stereo
+Scope	Waves	vst.PSSS.WaveShell-VST 9_91_x64.PS22 Split Stereo
+Scope	Waves	vst.PSXM.WaveShell-VST 9_91_x64.PS22 XSplit Mono/Stereo
+Scope	Waves	vst.PSXS.WaveShell-VST 9_91_x64.PS22 XSplit Stereo
+Scope	Waves	vst.PYEM.WaveShell-VST 9_91_x64.Kramer PIE Mono
+Scope	Waves	vst.PYES.WaveShell-VST 9_91_x64.Kramer PIE Stereo
+Scope	Waves	vst.R37M.WaveShell-VST 9_91_x64.REDD37-51 Mono
+Scope	Waves	vst.R37S.WaveShell-VST 9_91_x64.REDD37-51 Stereo
+Scope	Waves	vst.R3GM.WaveShell-VST 9_91_x64.L3-LL Ultra Mono
+Scope	Waves	vst.R3GS.WaveShell-VST 9_91_x64.L3-LL Ultra Stereo
+Scope	Waves	vst.R3PM.WaveShell-VST 9_91_x64.L3-LL Multi Mono
+Scope	Waves	vst.R3PS.WaveShell-VST 9_91_x64.L3-LL Multi Stereo
+Scope	Waves	vst.R3S5.WaveShell-VST 9_91_x64.R360 5_0
+Scope	Waves	vst.R3S6.WaveShell-VST 9_91_x64.R360 5_1
+Scope	Waves	vst.R3ST.WaveShell-VST 9_91_x64.R360 Stereo/5_0
+Scope	Waves	vst.R3SU.WaveShell-VST 9_91_x64.R360 Stereo/5_1
+Scope	Waves	vst.R3SY.WaveShell-VST 9_91_x64.R360 Mono/5_0
+Scope	Waves	vst.R3SZ.WaveShell-VST 9_91_x64.R360 Mono/5_1
+Scope	Waves	vst.R56S.WaveShell-VST 9_91_x64.RS56 Stereo
+Scope	Waves	vst.RAXM.WaveShell-VST 9_91_x64.Renaissance Axx Mono
+Scope	Waves	vst.RAXS.WaveShell-VST 9_91_x64.Renaissance Axx Stereo
+Scope	Waves	vst.RDRM.WaveShell-VST 9_91_x64.Vocal Rider Mono
+Scope	Waves	vst.RDRS.WaveShell-VST 9_91_x64.Vocal Rider Stereo
+Scope	Waves	vst.RDSM.WaveShell-VST 9_91_x64.RDeEsser Mono
+Scope	Waves	vst.RDSS.WaveShell-VST 9_91_x64.RDeEsser Stereo
+Scope	Waves	vst.REDM.WaveShell-VST 9_91_x64.REDD17 Mono
+Scope	Waves	vst.REDS.WaveShell-VST 9_91_x64.REDD17 Stereo
+Scope	Waves	vst.RNBM.WaveShell-VST 9_91_x64.RBass Mono
+Scope	Waves	vst.RNBS.WaveShell-VST 9_91_x64.RBass Stereo
+Scope	Waves	vst.RNTM.WaveShell-VST 9_91_x64.RChannel Mono
+Scope	Waves	vst.RNTS.WaveShell-VST 9_91_x64.RChannel Stereo
+Scope	Waves	vst.RNTX.WaveShell-VST 9_91_x64.RChannel Mono/Stereo
+Scope	Waves	vst.RQ2M.WaveShell-VST 9_91_x64.REQ 2 Mono
+Scope	Waves	vst.RQ2S.WaveShell-VST 9_91_x64.REQ 2 Stereo
+Scope	Waves	vst.RQ4M.WaveShell-VST 9_91_x64.REQ 4 Mono
+Scope	Waves	vst.RQ4S.WaveShell-VST 9_91_x64.REQ 4 Stereo
+Scope	Waves	vst.RQ6M.WaveShell-VST 9_91_x64.REQ 6 Mono
+Scope	Waves	vst.RQ6S.WaveShell-VST 9_91_x64.REQ 6 Stereo
+Scope	Waves	vst.RRFS.WaveShell-VST 9_91_x64.RVerb Stereo
+Scope	Waves	vst.RRFX.WaveShell-VST 9_91_x64.RVerb Mono/Stereo
+Scope	Waves	vst.RSFM.WaveShell-VST 9_91_x64.OneKnob Filter Mono
+Scope	Waves	vst.RSFS.WaveShell-VST 9_91_x64.OneKnob Filter Stereo
+Scope	Waves	vst.RVX5.WaveShell-VST 9_91_x64.C360 5_0
+Scope	Waves	vst.RVX6.WaveShell-VST 9_91_x64.C360 5_1
+Scope	Waves	vst.SCGM.WaveShell-VST 9_91_x64.SSLGChannel Mono
+Scope	Waves	vst.SCGS.WaveShell-VST 9_91_x64.SSLGChannel Stereo
+Scope	Waves	vst.SCHM.WaveShell-VST 9_91_x64.SSLChannel Mono
+Scope	Waves	vst.SCHS.WaveShell-VST 9_91_x64.SSLChannel Stereo
+Scope	Waves	vst.SFTM.WaveShell-VST 9_91_x64.MetaFilter Mono
+Scope	Waves	vst.SFTS.WaveShell-VST 9_91_x64.MetaFilter Stereo
+Scope	Waves	vst.SFTX.WaveShell-VST 9_91_x64.MetaFilter Mono/Stereo
+Scope	Waves	vst.SH3M.WaveShell-VST 9_91_x64.UltraPitch 3 Voices Mono
+Scope	Waves	vst.SH3X.WaveShell-VST 9_91_x64.UltraPitch 3 Voices Mono/Stereo
+Scope	Waves	vst.SH6M.WaveShell-VST 9_91_x64.UltraPitch 6 Voices Mono
+Scope	Waves	vst.SH6X.WaveShell-VST 9_91_x64.UltraPitch 6 Voices Mono/Stereo
+Scope	Waves	vst.SHQM.WaveShell-VST 9_91_x64.GEQ Modern Mono
+Scope	Waves	vst.SHQS.WaveShell-VST 9_91_x64.GEQ Modern Stereo
+Scope	Waves	vst.SHTM.WaveShell-VST 9_91_x64.UltraPitch Shift Mono
+Scope	Waves	vst.SHTX.WaveShell-VST 9_91_x64.UltraPitch Shift Mono/Stereo
+Scope	Waves	vst.SIGM.WaveShell-VST 9_91_x64.EMO-Generator Mono
+Scope	Waves	vst.SIGS.WaveShell-VST 9_91_x64.EMO-Generator Stereo
+Scope	Waves	vst.SLCM.WaveShell-VST 9_91_x64.SSLComp Mono
+Scope	Waves	vst.SLCS.WaveShell-VST 9_91_x64.SSLComp Stereo
+Scope	Waves	vst.SLQM.WaveShell-VST 9_91_x64.SSLEQ Mono
+Scope	Waves	vst.SLQS.WaveShell-VST 9_91_x64.SSLEQ Stereo
+Scope	Waves	vst.SMSM.WaveShell-VST 9_91_x64.NLS Buss Mono
+Scope	Waves	vst.SMSS.WaveShell-VST 9_91_x64.NLS Buss Stereo
+Scope	Waves	vst.SP1M.WaveShell-VST 9_91_x64.OneKnob Pumper Mono
+Scope	Waves	vst.SP1S.WaveShell-VST 9_91_x64.OneKnob Pumper Stereo
+Scope	Waves	vst.SQ1M.WaveShell-VST 9_91_x64.Q-Clone Mono
+Scope	Waves	vst.SQ1S.WaveShell-VST 9_91_x64.Q-Clone Stereo
+Scope	Waves	vst.SQTM.WaveShell-VST 9_91_x64.Q-Capture Mono
+Scope	Waves	vst.SSCM.WaveShell-VST 9_91_x64.NLS Channel Mono
+Scope	Waves	vst.SSCS.WaveShell-VST 9_91_x64.NLS Channel Stereo
+Scope	Waves	vst.STAM.WaveShell-VST 9_91_x64.AudioTrack Mono
+Scope	Waves	vst.STAS.WaveShell-VST 9_91_x64.AudioTrack Stereo
+Scope	Waves	vst.T37M.WaveShell-VST 9_91_x64.J37 Mono
+Scope	Waves	vst.T37S.WaveShell-VST 9_91_x64.J37 Stereo
+Scope	Waves	vst.TAPM.WaveShell-VST 9_91_x64.Kramer Tape Mono
+Scope	Waves	vst.TAPS.WaveShell-VST 9_91_x64.Kramer Tape Stereo
+Scope	Waves	vst.TG5M.WaveShell-VST 9_91_x64.TG12345 Mono
+Scope	Waves	vst.TG5S.WaveShell-VST 9_91_x64.TG12345 Stereo
+Scope	Waves	vst.TKMM.WaveShell-VST 9_91_x64.The Kings Microphones Mono
+Scope	Waves	vst.TKMS.WaveShell-VST 9_91_x64.The Kings Microphones Stereo
+Scope	Waves	vst.TNAS.WaveShell-VST 9_91_x64.Maserati ACG Stereo
+Scope	Waves	vst.TNAX.WaveShell-VST 9_91_x64.Maserati ACG Mono/Stereo
+Scope	Waves	vst.TNBM.WaveShell-VST 9_91_x64.Maserati B72 Mono
+Scope	Waves	vst.TNBS.WaveShell-VST 9_91_x64.Maserati B72 Stereo
+Scope	Waves	vst.TNBX.WaveShell-VST 9_91_x64.Maserati B72 Mono/Stereo
+Scope	Waves	vst.TNHS.WaveShell-VST 9_91_x64.Maserati HMX Stereo
+Scope	Waves	vst.TNHX.WaveShell-VST 9_91_x64.Maserati HMX Mono/Stereo
+Scope	Waves	vst.TNRS.WaveShell-VST 9_91_x64.Maserati GTi Stereo
+Scope	Waves	vst.TNRX.WaveShell-VST 9_91_x64.Maserati GTi Mono/Stereo
+Scope	Waves	vst.TNSM.WaveShell-VST 9_91_x64.Maserati DRM Mono
+Scope	Waves	vst.TNSS.WaveShell-VST 9_91_x64.Maserati DRM Stereo
+Scope	Waves	vst.TNVX.WaveShell-VST 9_91_x64.Maserati VX1 Mono/Stereo
+Scope	Waves	vst.TSPM.WaveShell-VST 9_91_x64.Smack Attack Mono
+Scope	Waves	vst.TSPS.WaveShell-VST 9_91_x64.Smack Attack Stereo
+Scope	Waves	vst.TSRM.WaveShell-VST 9_91_x64.SoundShifter Pitch Mono
+Scope	Waves	vst.TSRS.WaveShell-VST 9_91_x64.SoundShifter Pitch Stereo
+Scope	Waves	vst.TV4S.WaveShell-VST 9_91_x64.TrueVerb Stereo
+Scope	Waves	vst.TVMX.WaveShell-VST 9_91_x64.TrueVerb Mono/Stereo
+Scope	Waves	vst.TVSM.WaveShell-VST 9_91_x64.TrueVerb Mono
+Scope	Waves	vst.TX4M.WaveShell-VST 9_91_x64.TransX Multi Mono
+Scope	Waves	vst.TX4S.WaveShell-VST 9_91_x64.TransX Multi Stereo
+Scope	Waves	vst.TXWM.WaveShell-VST 9_91_x64.TransX Wide Mono
+Scope	Waves	vst.TXWS.WaveShell-VST 9_91_x64.TransX Wide Stereo
+Scope	Waves	vst.UNRM.WaveShell-VST 9_91_x64.WNS Mono
+Scope	Waves	vst.UNRS.WaveShell-VST 9_91_x64.WNS Stereo
+Scope	Waves	vst.UPXT.WaveShell-VST 9_91_x64.UM225 Stereo/5_0
+Scope	Waves	vst.UPXU.WaveShell-VST 9_91_x64.UM226 Stereo/5_1
+Scope	Waves	vst.URCM.WaveShell-VST 9_91_x64.RCompressor Mono
+Scope	Waves	vst.URCS.WaveShell-VST 9_91_x64.RCompressor Stereo
+Scope	Waves	vst.VCWM.WaveShell-VST 9_91_x64.Morphoder Mono
+Scope	Waves	vst.VCWS.WaveShell-VST 9_91_x64.Morphoder Stereo
+Scope	Waves	vst.VCWX.WaveShell-VST 9_91_x64.Morphoder Mono/Stereo
+Scope	Waves	vst.VEQM.WaveShell-VST 9_91_x64.VEQ4 Mono
+Scope	Waves	vst.VEQS.WaveShell-VST 9_91_x64.VEQ4 Stereo
+Scope	Waves	vst.VN5M.WaveShell-VST 9_91_x64.dbx-160 Mono
+Scope	Waves	vst.VN5S.WaveShell-VST 9_91_x64.dbx-160 Stereo
+Scope	Waves	vst.VNLM.WaveShell-VST 9_91_x64.Abbey Road Vinyl Mono
+Scope	Waves	vst.VNLS.WaveShell-VST 9_91_x64.Abbey Road Vinyl Stereo
+Scope	Waves	vst.VNOM.WaveShell-VST 9_91_x64.Abbey Road Vinyl Light Mono
+Scope	Waves	vst.VNOS.WaveShell-VST 9_91_x64.Abbey Road Vinyl Light Stereo
+Scope	Waves	vst.VTMM.WaveShell-VST 9_91_x64.Vitamin Mono
+Scope	Waves	vst.VTMS.WaveShell-VST 9_91_x64.Vitamin Stereo
+Scope	Waves	vst.VXPM.WaveShell-VST 9_91_x64.PSE Mono
+Scope	Waves	vst.VXPS.WaveShell-VST 9_91_x64.PSE Stereo
+Scope	Waves	vst.W43M.WaveShell-VST 9_91_x64.W43 Mono
+Scope	Waves	vst.W43S.WaveShell-VST 9_91_x64.W43 Stereo
+Scope	Waves	vst.WAAS.WaveShell-VST 9_91_x64.PAZ- Frequency Stereo
+Scope	Waves	vst.WAEM.WaveShell-VST 9_91_x64.PAZ- Frequency Mono
+Scope	Waves	vst.WAES.WaveShell-VST 9_91_x64.PAZ- Analyzer Stereo
+Scope	Waves	vst.WAPS.WaveShell-VST 9_91_x64.PAZ- Position Stereo
+Scope	Waves	vst.WD2M.WaveShell-VST 9_91_x64.Doubler2 Mono
+Scope	Waves	vst.WD2S.WaveShell-VST 9_91_x64.Doubler2 Stereo
+Scope	Waves	vst.WD2X.WaveShell-VST 9_91_x64.Doubler2 Mono/Stereo
+Scope	Waves	vst.WD4M.WaveShell-VST 9_91_x64.Doubler4 Mono
+Scope	Waves	vst.WD4S.WaveShell-VST 9_91_x64.Doubler4 Stereo
+Scope	Waves	vst.WD4X.WaveShell-VST 9_91_x64.Doubler4 Mono/Stereo
+Scope	Waves	vst.WLM5.WaveShell-VST 9_91_x64.WLM Meter 5_0
+Scope	Waves	vst.WLM6.WaveShell-VST 9_91_x64.WLM Meter 5_1
+Scope	Waves	vst.WLMM.WaveShell-VST 9_91_x64.WLM Meter Mono
+Scope	Waves	vst.WLMS.WaveShell-VST 9_91_x64.WLM Meter Stereo
+Scope	Waves	vst.WNSM.WaveShell-VST 9_91_x64.Z-Noise Mono
+Scope	Waves	vst.WNSS.WaveShell-VST 9_91_x64.Z-Noise Stereo
+Scope	Waves	vst.WVBM.WaveShell-VST 9_91_x64.GW VoiceCentric Mono
+Scope	Waves	vst.WVBS.WaveShell-VST 9_91_x64.GW VoiceCentric Stereo
+Scope	Waves	vst.WVBX.WaveShell-VST 9_91_x64.GW VoiceCentric Mono/Stereo
+Scope	Waves	vst.WVUM.WaveShell-VST 9_91_x64.PAZ- Meters Mono
+Scope	Waves	vst.WVUS.WaveShell-VST 9_91_x64.PAZ- Meters Stereo
+Scope	Waves	vst.WWL5.WaveShell-VST 9_91_x64.WLM Plus 5_0
+Scope	Waves	vst.WWL6.WaveShell-VST 9_91_x64.WLM Plus 5_1
+Scope	Waves	vst.WWLM.WaveShell-VST 9_91_x64.WLM Plus Mono
+Scope	Waves	vst.WWLS.WaveShell-VST 9_91_x64.WLM Plus Stereo
+Scope	Waves	vst.XCLM.WaveShell-VST 9_91_x64.X-Click Mono
+Scope	Waves	vst.XCLS.WaveShell-VST 9_91_x64.X-Click Stereo
+Scope	Waves	vst.XCRM.WaveShell-VST 9_91_x64.X-Crackle Mono
+Scope	Waves	vst.XCRS.WaveShell-VST 9_91_x64.X-Crackle Stereo
+Scope	Waves	vst.XHMM.WaveShell-VST 9_91_x64.X-Hum Mono
+Scope	Waves	vst.XHMS.WaveShell-VST 9_91_x64.X-Hum Stereo
+Scope	Waves	vst.XNSM.WaveShell-VST 9_91_x64.X-Noise Mono
+Scope	Waves	vst.XNSS.WaveShell-VST 9_91_x64.X-Noise Stereo
+Scope	Wavesfactory	vst.Sk10.SK10
+Scope	Wavesfactory	vst.SnBz.SnareBuzz
+Scope	Wavesfactory	vst.TkSr.Trackspacer x64
+Scope	Wire Grind	vst.GnV2.WG Doffset x64
+Scope	WiZAudio	nl.wizaudio.PlayGate
+Scope	WiZAudio	nl.wzwart.AdditiveOscillator
+Scope	WiZAudio	nl.wzwart.playgate
+Scope	WiZAudio	nl.wzwart.TableOscillator
+Scope	Wusik Dot Com	vst.d0gl.Wusik Station V8
+Scope	www.sknote.it	vst.%00250.Rev250 Digital Reverb 1_0_0 x64
+Scope	www.sknote.it	vst.%00BUS.StripBus 1_0_2 Bus x64
+Scope	www.sknote.it	vst.%00C65.C165 VCA Compressor 1_0_0 x64
+Scope	www.sknote.it	vst.%00CUT.Cuttertone Vinyl Cutting Pre-Processor 1_0_3 x64
+Scope	www.sknote.it	vst.%00DDD.DDD Dimension D Chorus 1_0_0 x64
+Scope	www.sknote.it	vst.%00DST.Disto Distressor FATSO 2_0_0 x64
+Scope	www.sknote.it	vst.%00EQ1.MCAudioLab EQ1 1_0_0 x64
+Scope	www.sknote.it	vst.%00GRS.Grasso Saturation and Dynamics 1_0_0 x64
+Scope	www.sknote.it	vst.%00GTS.GTS-39 Limiting Tube Compressor x64
+Scope	www.sknote.it	vst.%00NKL.Necklace Spring Reverb 1_0_2 x64
+Scope	www.sknote.it	vst.%00PRS.Presence Multiband Exciter 1_0_2 x64
+Scope	www.sknote.it	vst.%00RNT.Roundtone Tape Emulation 3_0_2 x64
+Scope	www.sknote.it	vst.%00SNP.Snap CM Transient Exciter 1_0_0 x64
+Scope	www.sknote.it	vst.%00STG.STG_64
+Scope	www.sknote.it	vst.%00STR.StripBus 1_0_2 Strip x64
+Scope	www.sknote.it	vst.%00VBT.Verbtone Plate Reverb 1_0_2 x64
+Scope	www.sknote.it	vst.%00XTR.XTrim Mixing Tools 1_0_1 x64
+Scope	Xfer Records	vst.Nr8v.Cthulhu_x64
+Scope	Xfer Records	vst.XfBf.DJMFilter_x64
+Scope	Xfer Records	vst.XfDE.Dimension Expander_x64
+Scope	Xfer Records	vst.XfDm.DeltaModulator_x64
+Scope	Xfer Records	vst.XffO.LFOTool_x64
+Scope	Xfer Records	vst.XFRa.Nerve
+Scope	Xfer Records	vst.XfsY.SerumFX_x64
+Scope	Xfer Records	vst.XfTT.OTT_x64
+Scope	XILS-lab	vst.EVc2.XILS 3_2 FX x64
+Scope	XILS-lab	vst.iPoM.PolyM
+Scope	XILS-lab	vst.KBi2.polyKB II x64
+Scope	XILS-lab	vst.mBar.StiXMulti x64
+Scope	XILS-lab	vst.x3De.XILS 4 FX x64
+Scope	XILS-lab	vst.x3Di.XILS 4
+Scope	XILS-lab	vst.xBar.StiX x64
+Scope	XILS-lab	vst.XeV%2B.XILS V+ x64
+Scope	XILS-lab	vst.Xium.Oxium x64
+Scope	XILS-lab	vst.XiV%2B.XILS V+ Inst x64
+Scope	XILS-lab	vst.XSy2.Syn-X 2 x64
+Scope	XILS-lab	vst.XSyL.miniSyn-X x64
+Scope	XILS-lab	vst.XVc2.XILS 3_2 x64
+Scope	XLN Audio	vst.xaAK.Addictive Keys
+Scope	XLN Audio	vst.xaAT.Addictive Trigger
+Scope	XLN Audio	vst.xAD2.Addictive Drums 2
+Scope	XLN Audio	vst.xaDS.DS-10 Drum Shaper
+Scope	XLN Audio	vst.xaRC.RC-20 Retro Color
+Scope	Youlean	vst.tebY.Youlean Loudness Meter BETA
+Scope	Yuancheng Luo	vst.zRiv.Riviera
+Scope	zakunaprod	com.zakunaprod.Lithium
+Scope	zplane	vst.elaP.elastique x64
+Scope	zplane	vst.EPV2.ElastiquePitchV2
+Scope	zplane	vst.reTL.reTune
+Scope	zplane	vst.Vlk2.vielklang2
+Scope	zplane.development	vst.mesc.vielklangx64
+Scope	Zvork	fr.zvork.LeSpace
+Scope	Zvork	fr.zvork.Noxious
+Scope	Zvork	fr.zvork.Oberton
+Scope	Zvork	fr.zvork.ST100
+Scope	Zvork	fr.zvork.VoltCB1
+Scope	Zvork	fr.zvork.VoltSH1
+Scope	Zvork	fr.zvork.VoltSL1
+Scope	Zynaptiq	vst.MRPH.MORPH VST
+Scope	Zynaptiq	vst.PTMP.PITCHMAP VST
+Scope	Zynaptiq	vst.UDRM.UNMIX DRUMS VST
+Scope	Zynaptiq	vst.UNCS.UNCHIRP VST
+Scope	Zynaptiq	vst.UNF8.UNFILTER VST 8ch
+Scope	Zynaptiq	vst.UNFM.UNFILTER VST
+Scope	Zynaptiq	vst.UNV8.UNVEIL VST 8ch
+Scope	Zynaptiq	vst.UNVM.UNVEIL VST
+Scope	Zynaptiq	vst.ZYAV.ADAPTIVERB VST
+Scope	Zynaptiq	vst.ZYWH.WORMHOLE VST
